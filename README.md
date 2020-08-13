@@ -1,4 +1,6 @@
-### Hi there 👋
+## 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 <!--
 **AboutRSS/AboutRSS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
