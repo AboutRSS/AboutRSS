@@ -1,5 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#RSS阅读器 #RSS追踪 作者发文详解 V2 版开发历程和功能特性「Windows 10 UWP 推荐 | RSS追踪V2」https://zhuanlan.zhihu.com/p/182359861因为 「RSS追踪 V2...](https://t.me/aboutrss/760)
+- [🖼#RSS阅读器 #Feedly 新增三种内容来源Feedly 官博发文介绍了 Ta 家现在可以订阅的11种内容来源，其中 Twitter 、Newsletter 和 Reddit 帖子是新支持的：✅Tw...](https://t.me/aboutrss/759)
+- [🖼「Apple Podcast 人气最高的100个中文播客」知乎上有人抓取了 Apple #Podcast 上的中文播客，筛选出了人气最高的100个 #播客 ，制作了列表，并附了每家播客...](https://t.me/aboutrss/758)
+- [🖼#Amazon 旗下音乐 Music 和有声书 Audible 服务开始接受 #播客 RSS Feed 提交提交 RSS Feed 的地址在此，但播客功能上线时间还待定中。亚马逊此举表明其也看...](https://t.me/aboutrss/757)
+- [🖼友台 「Newlearnerの自留地」 推出官方 RSShttps://rss.newlearner.site/对读者来说，现在有数种方法可以订阅 TG 频道，但对“道长”来说，认真对待自己频道...](https://t.me/aboutrss/756)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
