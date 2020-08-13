@@ -1,4 +1,4 @@
-## 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
+### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
