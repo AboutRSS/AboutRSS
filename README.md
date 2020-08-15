@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「利器」维护的「独立 blog 订阅列表」昨日的热点是“限免”的话，紧跟着的热点就是：“ APP 白嫖成功了，快给我来个好 RSS 源啊！”这就来了：「独立 blog ...](https://t.me/aboutrss/763)
 - [🖼#RSS阅读器 #EgoReader 推出 #Android 版今年6月发布 iOS 版 #APP 的 Ego Reader 今日推出安卓版，已上架 Google Play：https://play.google.com/store/apps...](https://t.me/aboutrss/762)
 - [🖼#RSS阅读器 #Reeder 4 双双限免📱iOS/iPadOS 版本：https://itunes.apple.com/cn/app/reeder-4/id1449412357价格: ¥30→¥0🖥Mac 版本：https://itunes...](https://t.me/aboutrss/761)
 - [🖼#RSS阅读器 #RSS追踪 作者发文详解 V2 版开发历程和功能特性「Windows 10 UWP 推荐 | RSS追踪V2」https://zhuanlan.zhihu.com/p/182359861因为 「RSS追踪 V2...](https://t.me/aboutrss/760)
 - [🖼#RSS阅读器 #Feedly 新增三种内容来源Feedly 官博发文介绍了 Ta 家现在可以订阅的11种内容来源，其中 Twitter 、Newsletter 和 Reddit 帖子是新支持的：✅Tw...](https://t.me/aboutrss/759)
-- [🖼「Apple Podcast 人气最高的100个中文播客」知乎上有人抓取了 Apple #Podcast 上的中文播客，筛选出了人气最高的100个 #播客 ，制作了列表，并附了每家播客...](https://t.me/aboutrss/758)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
