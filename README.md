@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼哪些平台可以手工提交播客 RSS Feed 以纳入索引 ？鉴于越来越多的平台开始利用 RSS 加入到 #播客 索引和收听支持大战，有播客玩家专门写了个文档收集这些可...](https://t.me/aboutrss/765)
 - [🖼#技巧 RSS + GitHub profile README ：在 Profile 页展示 Feed 条目#GitHub profile README 是近期程序员们的新玩具，各种自动化展示方式层出不穷。展示 Fee...](https://t.me/aboutrss/764)
 - [🖼「利器」维护的「独立 blog 订阅列表」 #资源昨日的热点是“限免”的话，紧跟着的热点就是：“ APP 白嫖成功了，快给我来个好 RSS 源啊！”这就来了：「独立...](https://t.me/aboutrss/763)
 - [🖼#RSS阅读器 #EgoReader 推出 #Android 版今年6月发布 iOS 版 #APP 的 Ego Reader 今日推出安卓版，已上架 Google Play：https://play.google.com/store/apps...](https://t.me/aboutrss/762)
 - [🖼#RSS阅读器 #Reeder 4 双双限免📱iOS/iPadOS 版本：https://itunes.apple.com/cn/app/reeder-4/id1449412357价格: ¥30→¥0🖥Mac 版本：https://itunes...](https://t.me/aboutrss/761)
-- [🖼#RSS阅读器 #RSS追踪 作者发文详解 V2 版开发历程和功能特性「Windows 10 UWP 推荐 | RSS追踪V2」https://zhuanlan.zhihu.com/p/182359861因为 「RSS追踪 V2...](https://t.me/aboutrss/760)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
