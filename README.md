@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#RSS阅读器 #RSS追踪 作者发视频简介 RSS 概念及「RSS追踪 V2版」的使用 #技巧#bilibili https://www.bilibili.com/video/av626753956/为了使用体验，作者「...](https://t.me/aboutrss/771)
 - [🖼#资源 订阅源数据库网站 「RSS Source」推友 twitter.com/LYicheng 利用 #Notion 制作了一个 RSS 订阅源分享站 #RSSSource ：https://rss-source.com/并在其...](https://t.me/aboutrss/770)
 - [🖼#Feeder 「State of RSS 2020」调查问卷结果公布并 #开源800余人在一个月内参与了 feeder.co 的匿名调查问卷，有些结果还是挺有意思的：🔸平均年龄38岁�...](https://t.me/aboutrss/769)
 - [#资源「RSS 交流群」 管理员 @lengthmin 分享了 Ta 的一些订阅源，是前端开发/互联网数码/各种软件方面的。经授权转发，感谢。](https://t.me/aboutrss/768)
 - [📎Subscriptions of Artin from Inoreader.xml / 13.3 KB](https://t.me/aboutrss/767)
-- [🖼哪些平台可以手工提交播客 RSS Feed 以纳入索引 ？鉴于越来越多的平台开始利用 RSS 加入到 #播客 索引和收听支持大战，有播客玩家专门写了个文档收集这些可...](https://t.me/aboutrss/765)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
