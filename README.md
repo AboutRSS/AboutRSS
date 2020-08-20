@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼推友整理了四份 #OPML 订阅源列表 #资源四份文件来源于1️⃣博客「一天世界」的订阅源推荐，频道也推送过2️⃣「RSS Source」 中的所有订阅源3️⃣ 播客 Any...](https://t.me/aboutrss/775)
 - [🖼Google News RSS 定制的详细语法频道推送过如何利用 #GoogleNews 给杀掉 RSS 的路透社新闻做个 feed ，该 #技巧 的作者近日发文详解了 Google News 在 RSS f...](https://t.me/aboutrss/774)
 - [🖼#播客 EpisodeiPodcast 人人是播主: 「19 Podcast的RSS Feed是什麼？」 by Lily Wonghttps://flywithlily.firstory.io/episodes/ckdzg3y94dfbk0880wg49cvop](https://t.me/aboutrss/773)
 - [🖼RSS阅读器 #Inoreader 的 #浏览器扩展 迎来重大更新官博发文称是代码重写级的更新，并新增 Microsoft Edge 扩展：🔸给收藏的网页打标签🔸给新订阅的 Fee...](https://t.me/aboutrss/772)
 - [🖼#RSS阅读器 #RSS追踪 作者发视频简介 RSS 概念及「RSS追踪 V2版」的使用 #技巧#bilibili https://www.bilibili.com/video/av626753956/为了使用体验，作者「...](https://t.me/aboutrss/771)
-- [🖼#资源 订阅源数据库网站 「RSS Source」推友 twitter.com/LYicheng 利用 #Notion 制作了一个 RSS 订阅源分享站 #RSSSource ：https://rss-source.com/并在其...](https://t.me/aboutrss/770)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
