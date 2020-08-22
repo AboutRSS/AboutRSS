@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼免费的 #微信 #公众号 RSS订阅 #服务 #FreeRss承诺：🔸全文输出🔸图片CDN🔸完全免费🔸小于4小时更新延迟http://www.freerss.top/发现于https://crea...](https://t.me/aboutrss/778)
 - [🖼RSS阅读器 #蚁阅 开发者作客 #播客 「调试者说」该期主题是借「蚁阅」的独立开发历程谈「程序员业余开发」。🎙 https://blog.guyskk.com/notes/podcast-rs...](https://t.me/aboutrss/777)
 - [🖼#教程 「Building a web scraping tool with Python」6月发出第一篇的信息爬取系列教程终于在八月完结，其中第一篇讲如何用 #Python 解析 #XML 格式的 RSS f...](https://t.me/aboutrss/776)
 - [🖼推友整理了四份 #OPML 订阅源列表 #资源四份文件来源于1️⃣博客「一天世界」的订阅源推荐，频道也推送过2️⃣「RSS Source」 中的所有订阅源3️⃣ 播客 Any...](https://t.me/aboutrss/775)
 - [🖼Google News RSS 定制的详细语法频道推送过如何利用 #GoogleNews 给杀掉 RSS 的路透社新闻做个 feed ，该 #技巧 的作者近日发文详解了 Google News 在 RSS f...](https://t.me/aboutrss/774)
-- [🖼#播客 EpisodeiPodcast 人人是播主: 「19 Podcast的RSS Feed是什麼？」 by Lily Wonghttps://flywithlily.firstory.io/episodes/ckdzg3y94dfbk0880wg49cvop](https://t.me/aboutrss/773)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
