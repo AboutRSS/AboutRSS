@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼RSS #玩家 #心得「Use RSS and Kindle to Read News」https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html关联 #教程 ：「 #Kindle 神...](https://t.me/aboutrss/781)
 - [🖼主打快而精的线上 #RSS阅读器 #WeLoveRSS作者不满意市面上的产品，于是就自己写了个。https://weloverss.com/🔸快捷键🔸自带稍后读、收藏、归档、打标签...](https://t.me/aboutrss/780)
 - [🖼#技巧 个人读书观影记录输出 RSS Feed方法1：豆瓣 + RSSHub🔸豆瓣原生支持为用户个人收藏生成 RSS ，包括想看/在看/已看。 🔸RSSHub 则支持为豆瓣个人广...](https://t.me/aboutrss/779)
 - [🖼免费的 #微信 #公众号 RSS订阅 #服务 #FreeRss承诺：🔸全文输出🔸图片CDN🔸完全免费🔸小于4小时更新延迟http://www.freerss.top/发现于https://crea...](https://t.me/aboutrss/778)
 - [🖼RSS阅读器 #蚁阅 开发者作客 #播客 「调试者说」该期主题是借「蚁阅」的独立开发历程谈「程序员业余开发」。🎙 https://blog.guyskk.com/notes/podcast-rs...](https://t.me/aboutrss/777)
-- [🖼#教程 「Building a web scraping tool with Python」6月发出第一篇的信息爬取系列教程终于在八月完结，其中第一篇讲如何用 #Python 解析 #XML 格式的 RSS f...](https://t.me/aboutrss/776)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
