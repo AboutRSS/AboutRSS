@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼RSS #玩家 #心得🔸 「我还是更喜欢这样的 RSS 阅读」 by 胡和先https://www.huhexian.com/3249.html🔖 介绍了对若干家 RSS 阅读器的体会和感受🔸「在...](https://t.me/aboutrss/783)
 - [🖼支持在新标签页摆个 RSS #挂件 的 #开源 #浏览器扩展 #Epiboard除了在桌面环境和网页上添加 RSS 挂件 ，也可以通过安装 Epiboard 在浏览器新标签页上添加个 ...](https://t.me/aboutrss/782)
 - [🖼RSS #玩家 #心得「Use RSS and Kindle to Read News」https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html关联 #教程 ：「 #Kindle 神...](https://t.me/aboutrss/781)
 - [🖼主打快而精的线上 #RSS阅读器 #WeLoveRSS作者不满意市面上的产品，于是就自己写了个。https://weloverss.com/🔸快捷键🔸自带稍后读、收藏、归档、打标签...](https://t.me/aboutrss/780)
 - [🖼#技巧 个人读书观影记录输出 RSS Feed方法1：豆瓣 + RSSHub🔸豆瓣原生支持为用户个人收藏生成 RSS ，包括想看/在看/已看。 🔸RSSHub 则支持为豆瓣个人广...](https://t.me/aboutrss/779)
-- [🖼免费的 #微信 #公众号 RSS订阅 #服务 #FreeRss承诺：🔸全文输出🔸图片CDN🔸完全免费🔸小于4小时更新延迟http://www.freerss.top/发现于https://crea...](https://t.me/aboutrss/778)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
