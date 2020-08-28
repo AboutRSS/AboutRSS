@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼完美照搬 #微博 消息到 Telegram 的 RSS Bot #开源 项目🔸将 RSS 全文转发到 Telegram🔸转发时不丢失原有格式🔸自动将微博表情转化为同义 emoji🔸超...](https://t.me/aboutrss/786)
 - [🖼线上 #RSS阅读器 #RiveredRivered 是一款 Feed 流形式的阅读器，不能分类，不能打标签，没有未读数显示。目标受众就是视信息如河流的人们。https://www.rive...](https://t.me/aboutrss/785)
 - [🖼「 #GoogleAlert + #IFTTT + #企业微信 ：收集整合资讯舆情，快人一步」 #教程 #技巧https://sspai.com/post/62323](https://t.me/aboutrss/784)
 - [🖼RSS #玩家 #心得🔸 「我还是更喜欢这样的 RSS 阅读」 by 胡和先https://www.huhexian.com/3249.html🔖 介绍了对若干家 RSS 阅读器的体会和感受🔸「在...](https://t.me/aboutrss/783)
 - [🖼支持在新标签页摆个 RSS #挂件 的 #开源 #浏览器扩展 #Epiboard除了在桌面环境和网页上添加 RSS 挂件 ，也可以通过安装 Epiboard 在浏览器新标签页上添加个 ...](https://t.me/aboutrss/782)
-- [🖼RSS #玩家 #心得「Use RSS and Kindle to Read News」https://www.binwang.me/2020-08-15-Use-RSS-and-Kindle-to-Read-News.html关联 #教程 ：「 #Kindle 神...](https://t.me/aboutrss/781)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
