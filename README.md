@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#RSS2Newsletter #服务 ： #Feedbutler这家和以前介绍过的 Cortado 一样，把 RSS feed 的新条目攒上一天再用邮件发给你。https://feedbutler.app/en/发现于h...](https://t.me/aboutrss/789)
 - [🖼neix ：一款 #开源 终端RSS阅读器除了 Newsboat 外，#终端 下的 #RSS阅读器 又多了一个选择： #neix 。https://github.com/tomschwarz/neix](https://t.me/aboutrss/788)
 - [🖼原 Discord 的 #开源 RSS 机器人 Discord.RSS 更名为 MonitoRSS域名也由 DiscordRSS.xyz 更换为https://MonitoRSS.xyz#MonitoRSS 用于给 #Discord 聊天频道...](https://t.me/aboutrss/787)
 - [🖼完美照搬 #微博 消息到 Telegram 的 RSS Bot #开源 项目🔸将 RSS 全文转发到 #Telegram🔸转发时不丢失原有格式🔸自动将微博表情转化为同义 emoji🔸...](https://t.me/aboutrss/786)
 - [🖼线上 #RSS阅读器 #RiveredRivered 是一款 Feed 流形式的阅读器，不能分类，不能打标签，没有未读数显示。目标受众就是视信息如河流的人们。https://www.rive...](https://t.me/aboutrss/785)
-- [🖼「 #GoogleAlert + #IFTTT + #企业微信 ：收集整合资讯舆情，快人一步」 #教程 #技巧https://sspai.com/post/62323](https://t.me/aboutrss/784)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
