@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼The ARSSE : 一个用于 RSS 管理和解析的服务 #后端#ARSSE 全称是 the Advanced RSS Environment 。https://thearsse.com/支持🔸Nextcloud News🔸Tiny Ti...](https://t.me/aboutrss/793)
 - [🖼#Feeder 十岁了！10周年活动开启，官方打折为敬。年度订阅计划 25% OFF。https://feeder.co/blog/556-happy-10th-birthday-feeder](https://t.me/aboutrss/792)
 - [🖼#GNOMEPodcasts ：#开源 #GNOME 桌面环境  #泛用型播客客户端可从 FlatHub 安装。若 Podcast Feed 不能解析，请开 issue 报告。🔸节目自动更新🔸原速/1....](https://t.me/aboutrss/791)
 - [🖼Aboutfeeds.com : 致力于成为 RSS 标志的标配解释网页以前提过：“除了花样玩转RSS以外，还有一类文章极为重要，即用一篇文章吊起未接触过 RSS 的朋友的好奇...](https://t.me/aboutrss/790)
 - [🖼#RSS2Newsletter #服务 ： #Feedbutler这家和以前介绍过的 Cortado 一样，把 RSS feed 的新条目攒上一天再用邮件发给你。https://feedbutler.app/en/发现于h...](https://t.me/aboutrss/789)
-- [🖼neix ：一款 #开源 终端RSS阅读器除了 Newsboat 外，#终端 下的 #RSS阅读器 又多了一个选择： #neix 。https://github.com/tomschwarz/neix](https://t.me/aboutrss/788)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
