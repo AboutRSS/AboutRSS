@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼HTML2RSS : 通过 CSS 选择器来生成 RSS feed#HTML2RSS 是一款为没有 RSS 的网站生成 RSS feed 的 #开源 项目，使用方式一点也不平民，而是比较偏程序员一些...](https://t.me/aboutrss/795)
 - [🖼为 GitHub Topic 「RSS」 增加了描述和 RSS IconGitHub Topic 页面是可以添加该 Topic 的简介、标志和相关链接的。之前「RSS」 Topic 页连 RSS Icon 都没有...](https://t.me/aboutrss/794)
 - [🖼The ARSSE : 一个用于 RSS 管理和解析的服务 #后端#ARSSE 全称是 the Advanced RSS Environment 。https://thearsse.com/支持🔸Nextcloud News🔸Tiny Ti...](https://t.me/aboutrss/793)
 - [🖼#Feeder 十岁了！10周年活动开启，官方打折为敬。年度订阅计划 25% OFF。https://feeder.co/blog/556-happy-10th-birthday-feeder](https://t.me/aboutrss/792)
 - [🖼#GNOMEPodcasts ：#开源 #GNOME 桌面环境  #泛用型播客客户端可从 FlatHub 安装。若 Podcast Feed 不能解析，请开 issue 报告。🔸节目自动更新🔸原速/1....](https://t.me/aboutrss/791)
-- [🖼Aboutfeeds.com : 致力于成为 RSS 标志的标配解释网页以前提过：“除了花样玩转RSS以外，还有一类文章极为重要，即用一篇文章吊起未接触过 RSS 的朋友的好奇...](https://t.me/aboutrss/790)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
