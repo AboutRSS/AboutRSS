@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#教程「VPSTOOLBOX高级组件篇--RSSHUB + Tiny Tiny RSS + Fever API实现多设备同步」https://johnrosen.xyz/2020/09/02/rss/](https://t.me/aboutrss/800)
 - [🖼baRSS : 集成在 #Mac 状态栏的 RSS 阅读器#baRSS 是受另一款需付费的状态栏 #RSS阅读器 —— RSS Menu —— 启发的 #开源 作品。作者不满意雁过拔毛的 Apple...](https://t.me/aboutrss/799)
 - [告别重复内容，知名 RSS 服务 Inoreader 推出去重功能 [by Tp]https://sspai.com/post/62472](https://t.me/aboutrss/798)
 - [🖼#RSS2Notification 服务 Truepush网站内容更新后弹出 #桌面通知 是增加访问量的好办法， #Truepush 正是为网页集成桌面通知功能的 #服务 。Ta 家还支持通过 ...](https://t.me/aboutrss/797)
 - [🖼用 GitHub 和 RSS 订阅 Hacker News 每日 top 10 的 #开源 项目是 FeedsPub 作者的新作品：https://blog.t9t.io/headllines-2020-09-03/发现于https://twitt...](https://t.me/aboutrss/796)
-- [🖼HTML2RSS : 通过 CSS 选择器来生成 RSS feed#HTML2RSS 是一款为没有 RSS 的网站生成 RSS feed 的 #开源 项目，使用方式一点也不平民，而是比较偏程序员一些...](https://t.me/aboutrss/795)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
