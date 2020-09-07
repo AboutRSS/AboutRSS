@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「神器《Reeder 4》在手，却找不到好的 RSS 源？这 4 种方法教你打造个人订阅源」https://www.ifanr.com/app/1363628「 #爱范儿 」公众号上的该文有分享一个...](https://t.me/aboutrss/803)
 - [🖼Hacker News Digest ： 另一家可提供 HN RSS Feed 的 #开源 #服务相对于专门提供定制化 Hacker News RSS Feed 的 HNRSS.org ，Hacker News Digest 主打的是...](https://t.me/aboutrss/802)
 - [🖼群友 「D介子」 的自用 RSS 订阅源 #OPMLhttps://github.com/JoJo720/JoJo720/blob/master/assets/rss/D%E4%BB%8B%E5%AD%90.opml发现于 Ta 制作的 Notion 页...](https://t.me/aboutrss/801)
 - [🖼#教程「VPSTOOLBOX高级组件篇--RSSHUB + Tiny Tiny RSS + Fever API实现多设备同步」https://johnrosen.xyz/2020/09/02/rss/](https://t.me/aboutrss/800)
 - [🖼baRSS : 集成在 #Mac 状态栏的 RSS 阅读器#baRSS 是受另一款需付费的状态栏 #RSS阅读器 —— RSS Menu —— 启发的 #开源 作品。作者不满意雁过拔毛的 Apple...](https://t.me/aboutrss/799)
-- [告别重复内容，知名 RSS 服务 Inoreader 推出去重功能 [by Tp]https://sspai.com/post/62472](https://t.me/aboutrss/798)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
