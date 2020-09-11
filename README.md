@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼为基于 Hugo 的博客开启 RSS 全文输出用 #Hugo 生成的静态博客，不会将全文输出到 RSS，一般是输出正文 <!—more—> 之前的部分，即输出文章的 Summary。所...](https://t.me/aboutrss/808)
 - [🖼#开源 Last.fm RSS Feeds #LastFM2RSS 支持为播放记录和Loved歌曲记录生成 RSS feed：https://lfm.xiffy.nl/RSSHub 也能做到，并且还可为站内 Top 榜单生成 ...](https://t.me/aboutrss/807)
 - [🖼Posidon launcher : 单页新闻卡片式安卓启动器 #开源「Posidon launcher is a minimal, one page homescreen with a vertical scrolling feed.」是 #Posidon...](https://t.me/aboutrss/806)
 - [🖼#AcrylicReader :  给 Fluent Reader 贡献代码不成后的另起炉灶之作 #RSS阅读器一位 Fluent Reader 用户两次向 Fluent Reader 发起 PR 但都被无故关闭（据其...](https://t.me/aboutrss/805)
 - [🖼PressForward : 基于 RSS 进行信息组织、流转的 #开源 WordPress #插件#WordPress 装上 #PressForward 后，就摇身一变，成为一个基于 RSS 的信息拣选和发布...](https://t.me/aboutrss/804)
-- [🖼「神器《Reeder 4》在手，却找不到好的 RSS 源？这 4 种方法教你打造个人订阅源」https://www.ifanr.com/app/1363628「 #爱范儿 」公众号上的该文有分享一个...](https://t.me/aboutrss/803)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
