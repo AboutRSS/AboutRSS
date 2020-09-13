@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼轻芒杂志草稿版 iPad 版内测轻芒通讯发布「在 #iPad 上使用 #轻芒杂志草稿版 」https://mp.weixin.qq.com/s/hQHb4seDMQz8O_th0STjXA提及“也给每一位内测用...](https://t.me/aboutrss/809)
+- [🖼#RSS阅读器 轻芒杂志草稿版 iPad 版内测轻芒通讯发布「在 #iPad 上使用 #轻芒杂志草稿版 」https://mp.weixin.qq.com/s/hQHb4seDMQz8O_th0STjXA提及“也给每...](https://t.me/aboutrss/809)
 - [🖼为基于 Hugo 的博客开启 RSS 全文输出用 #Hugo 生成的静态博客，不会将全文输出到 RSS，一般是输出正文 <!—more—> 之前的部分，即输出文章的 Summary。所...](https://t.me/aboutrss/808)
 - [🖼#开源 Last.fm RSS Feeds #LastFM2RSS 支持为播放记录和Loved歌曲记录生成 RSS feed：https://lfm.xiffy.nl/RSSHub 也能做到，并且还可为站内 Top 榜单生成 ...](https://t.me/aboutrss/807)
 - [🖼Posidon launcher : 单页新闻卡片式安卓启动器 #开源「Posidon launcher is a minimal, one page homescreen with a vertical scrolling feed.」是 #Posidon...](https://t.me/aboutrss/806)
