@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼轻芒通讯：邀请机制和收费的一些想法划重点：🔸轻芒杂志 (草稿版) 阅读部分的主要功能已经开发完成。🔸不再是「草稿版」，会正式升级线上的轻芒杂志和轻...](https://t.me/aboutrss/812)
+- [🖼RSS阅读器 Ego Reader 将迎来价格调整和大规模更新今年6月上线的 #RSS阅读器 #EgoReader 发布了 2.2.0 版本，并带来了价格调整和未来大规模更新公告（详见题...](https://t.me/aboutrss/813)
+- [🖼轻芒通讯：邀请机制和收费的一些想法划重点：🔸 #轻芒杂志草稿版 阅读部分的主要功能已经开发完成。🔸不再是「草稿版」，会正式升级线上的轻芒杂志和轻...](https://t.me/aboutrss/812)
 - [🖼Android RSS阅读器 : RSS Savvy#RSSSavvy 并不是一款新 #App ，因为 Ta 曾是 BlackBerry OS 上 #RSS阅读器 的主力之一 。随着黑莓放弃 BlackBerry OS 转投安...](https://t.me/aboutrss/811)
 - [🖼根据阅读器里的 OPML 制作 Blogroll 并自动更新#Blogroll 虽然是 Indieweb 里的一个概念，但说白了就是单独页面的博客友链，博主一般是手动维护。不过，如果...](https://t.me/aboutrss/810)
 - [🖼#RSS阅读器 轻芒杂志草稿版 iPad 版内测轻芒通讯发布「在 #iPad 上使用 #轻芒杂志草稿版 」https://mp.weixin.qq.com/s/hQHb4seDMQz8O_th0STjXA提及“也给每...](https://t.me/aboutrss/809)
-- [🖼为基于 Hugo 的博客开启 RSS 全文输出用 #Hugo 生成的静态博客，不会将全文输出到 RSS，一般是输出正文 <!—more—> 之前的部分，即输出文章的 Summary。所...](https://t.me/aboutrss/808)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
