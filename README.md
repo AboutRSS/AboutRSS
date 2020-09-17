@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼iOS #RSS阅读器 lire 4 发布#lire 发布了全新开发的 lire 4 ，适配最新 #iOS 14。 🔸全新 iPad 侧栏设计🔸三栏布局🔸文章 widget 和 Hot Links widget...](https://t.me/aboutrss/815)
 - [🖼RSS2Newsletter 服务 FeedMailu已经算是 ALL-about-RSS list 上的第十一家 #RSS2Newsletter #工具 了，好奇最后能剩几家。#开源 #服务 #FeedMailu 的邮件推...](https://t.me/aboutrss/814)
 - [🖼RSS阅读器 Ego Reader 将迎来价格调整和大规模更新今年6月上线的 #RSS阅读器 #EgoReader 发布了 2.2.0 版本，并带来了价格调整和未来大规模更新公告（详见题...](https://t.me/aboutrss/813)
 - [🖼轻芒通讯：邀请机制和收费的一些想法划重点：🔸 #轻芒杂志草稿版 阅读部分的主要功能已经开发完成。🔸不再是「草稿版」，会正式升级线上的轻芒杂志和轻...](https://t.me/aboutrss/812)
 - [🖼Android RSS阅读器 : RSS Savvy#RSSSavvy 并不是一款新 #App ，因为 Ta 曾是 BlackBerry OS 上 #RSS阅读器 的主力之一 。随着黑莓放弃 BlackBerry OS 转投安...](https://t.me/aboutrss/811)
-- [🖼根据阅读器里的 OPML 制作 Blogroll 并自动更新#Blogroll 虽然是 Indieweb 里的一个概念，但说白了就是单独页面的博客友链，博主一般是手动维护。不过，如果...](https://t.me/aboutrss/810)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
