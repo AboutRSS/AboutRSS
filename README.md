@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼iOS RSS阅读器 : An Otter RSS昨天推送的 lire 4 比较贵，这次就来个大家都能装的 #iOS 14 #RSS阅读器 ： #AnOtterRSS ，目前在 TestFlight 状态。最大特色...](https://t.me/aboutrss/817)
 - [🖼RSSHub 的辅助 App —— RSSBud —— 现开放内测官方介绍： 「 #RSSBud 是 Apple 生态 中 RSSHub 的 #开源 辅助 App，和 RSSHub Radar 类似，Ta 可以帮助你...](https://t.me/aboutrss/816)
 - [🖼iOS #RSS阅读器 lire 4 发布#lire 发布了全新开发的 lire 4 ，适配最新 #iOS 14。 🔸全新 iPad 侧栏设计🔸三栏布局🔸文章 widget 和 Hot Links widget...](https://t.me/aboutrss/815)
 - [🖼RSS2Newsletter 服务 FeedMailu已经算是 ALL-about-RSS list 上的第十一家 #RSS2Newsletter #工具 了，好奇最后能剩几家。#开源 #服务 #FeedMailu 的邮件推...](https://t.me/aboutrss/814)
 - [🖼RSS阅读器 Ego Reader 将迎来价格调整和大规模更新今年6月上线的 #RSS阅读器 #EgoReader 发布了 2.2.0 版本，并带来了价格调整和未来大规模更新公告（详见题...](https://t.me/aboutrss/813)
-- [🖼轻芒通讯：邀请机制和收费的一些想法划重点：🔸 #轻芒杂志草稿版 阅读部分的主要功能已经开发完成。🔸不再是「草稿版」，会正式升级线上的轻芒杂志和轻...](https://t.me/aboutrss/812)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
