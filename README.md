@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#RSS阅读器 #NetNewsWire 5.1 for #Mac 发布 : 支持与 #Feedly 同步此次更新实用功能亦颇多，如：🔸阅读模式🔸每个 feed 的通知控制🔸文章和 feed 的...](https://t.me/aboutrss/820)
 - [🖼我的极刻：「打造自己的“今日头条”！阅读神器Reeder 4上手指南」https://mp.weixin.qq.com/s/j5AKaf_jOoGUIHURgU_1Rw#教程 #介绍](https://t.me/aboutrss/819)
 - [🖼#Amazon Music 上线播客收听功能，但不支持通过 RSS 订阅亚马逊于八月接受 #播客 RSS feed 提交，于9月17日在其 #iOS 、 #Android 和 Web 端上线了播客收听...](https://t.me/aboutrss/818)
 - [🖼iOS RSS阅读器 : An Otter RSS昨天推送的 lire 4 比较贵，这次就来个大家都能装的 #iOS 14 #RSS阅读器 ： #AnOtterRSS ，目前在 TestFlight 状态。最大特色...](https://t.me/aboutrss/817)
 - [🖼RSSHub 的辅助 App —— RSSBud —— 现开放内测官方介绍： 「 #RSSBud 是 Apple 生态 中 RSSHub 的 #开源 辅助 App，和 RSSHub Radar 类似，Ta 可以帮助你...](https://t.me/aboutrss/816)
-- [🖼iOS #RSS阅读器 lire 4 发布#lire 发布了全新开发的 lire 4 ，适配最新 #iOS 14。 🔸全新 iPad 侧栏设计🔸三栏布局🔸文章 widget 和 Hot Links widget...](https://t.me/aboutrss/815)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
