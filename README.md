@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「#Yarr ：一个UI很漂亮的 #RSS阅读器」#开源 ，用 Go 编写，用到 Vue.js 和 SQlite ；但需要自己本地编译安装，所以这篇日志简介了下本地部署过程。Repo 上...](https://t.me/aboutrss/822)
 - [🖼WeChat-Feeds : 一个在 GitHub 上提供微信公众号 Atom feeds 的订阅提醒服务🔸 #微信 #公众号 feeds 托管在 GitHub 上🔸Feeds 格式为 Atom🔸Feeds 内...](https://t.me/aboutrss/821)
 - [🖼#RSS阅读器 #NetNewsWire 5.1 for #Mac 发布 : 支持与 #Feedly 同步此次更新实用功能亦颇多，如：🔸阅读模式🔸每个 feed 的通知控制🔸文章和 feed 的...](https://t.me/aboutrss/820)
 - [🖼我的极刻：「打造自己的“今日头条”！阅读神器Reeder 4上手指南」https://mp.weixin.qq.com/s/j5AKaf_jOoGUIHURgU_1Rw#教程 #介绍](https://t.me/aboutrss/819)
 - [🖼#Amazon Music 上线播客收听功能，但不支持通过 RSS 订阅亚马逊于八月接受 #播客 RSS feed 提交，于9月17日在其 #iOS 、 #Android 和 Web 端上线了播客收听...](https://t.me/aboutrss/818)
-- [🖼iOS RSS阅读器 : An Otter RSS昨天推送的 lire 4 比较贵，这次就来个大家都能装的 #iOS 14 #RSS阅读器 ： #AnOtterRSS ，目前在 TestFlight 状态。最大特色...](https://t.me/aboutrss/817)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
