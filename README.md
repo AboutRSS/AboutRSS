@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼iOS  #RSS阅读器 #Elyta🔸订阅制，1.99 刀每月🔸适配 iOS 14 ，有小组件🔸保护隐私，开账户不需要密码🔸订阅即时推送🔸本地书签系统🔸跨设备、...](https://t.me/aboutrss/824)
 - [🖼Atom 和 RSS 2.0 怎么选？看到一位博主做出了 Ta 的选择：「I’m mov­ing from Atom to RSS 2.0 feeds」。理由是， 相比 RSS 2.0， Atom 没有 <comments> ...](https://t.me/aboutrss/823)
 - [🖼「#Yarr ：一个UI很漂亮的 #RSS阅读器」#开源 ，用 Go 编写，用到 Vue.js 和 SQlite ；但需要自己本地编译安装，所以这篇日志简介了下本地部署过程。Repo 上...](https://t.me/aboutrss/822)
 - [🖼WeChat-Feeds : 一个在 GitHub 上提供微信公众号 Atom feeds 的订阅提醒服务🔸 #微信 #公众号 feeds 托管在 GitHub 上🔸Feeds 格式为 Atom🔸Feeds 内...](https://t.me/aboutrss/821)
 - [🖼#RSS阅读器 #NetNewsWire 5.1 for #Mac 发布 : 支持与 #Feedly 同步此次更新实用功能亦颇多，如：🔸阅读模式🔸每个 feed 的通知控制🔸文章和 feed 的...](https://t.me/aboutrss/820)
-- [🖼我的极刻：「打造自己的“今日头条”！阅读神器Reeder 4上手指南」https://mp.weixin.qq.com/s/j5AKaf_jOoGUIHURgU_1Rw#教程 #介绍](https://t.me/aboutrss/819)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
