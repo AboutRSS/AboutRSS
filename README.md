@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#RSS阅读器 #FieryFeeds 被 Apple 从中国应用商店移除https://twitter.com/FieryFeeds/status/1310553289545658369#快讯](https://t.me/aboutrss/830)
 - [🖼#RSS2MAIL #RSS2Newsletter #服务 #RSSbyEmailRSS by Email 是作者疫情宅家的产物，和此前推送过的  RSS-email 使用方式一样，都是用邮件将 RSS url 发到指...](https://t.me/aboutrss/829)
 - [🖼集 RSS、公众号订阅于一身，支持笔记和稍后读的阅读工具：轻芒杂志 3.0 [by @realSpencerWoo]https://sspai.com/post/62376#评测 #RSS阅读器 #轻芒杂志发现...](https://t.me/aboutrss/828)
 - [🖼一家安全公司出具了一份 #TinyTinyRSS 的安全报告「Exploiting Tiny Tiny RSS」 by DigeeXhttps://www.digeex.de/blog/tinytinyrss/最近 #ttrss 的升级与该...](https://t.me/aboutrss/827)
 - [🖼#RSS阅读器 #lire 4 #评测MacStories :「Lire Brings Its Highly-Customizable RSS Reading Style to an All-New iPad Design and Widgets」https://www.mac...](https://t.me/aboutrss/826)
-- [🖼移动端 #RSS阅读器 1feedRSS玩家千差万别，有些必须撸全文，有些只用撸标题。 #1feed 就是把撸标题做到极致的那种。https://1feed.app/在一般的阅读器里，点...](https://t.me/aboutrss/825)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
