@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼RssReader : 一个基于 Go 和 Vue 的线上 #RSS阅读器#RssReader 正处于积极开发之中，并且 #开源 。作者表示会长期维护，并不单纯是练手项目。https://rssrea...](https://t.me/aboutrss/833)
 - [🖼发现于https://twitter.com/jkgtw/status/1310919776768729089](https://t.me/aboutrss/832)
 - [🖼「Tiny Tiny RSS vs Miniflux」因为 #TTRSS 近期升级后的端口封闭问题，以及无移动端适配，不少人都切换去了 #Miniflux ，包括 DIY小可爱 这位有 1.5K feeds...](https://t.me/aboutrss/831)
 - [🖼#RSS阅读器 #FieryFeeds 被 Apple 从中国应用商店移除https://twitter.com/FieryFeeds/status/1310553289545658369#快讯](https://t.me/aboutrss/830)
 - [🖼#RSS2MAIL #RSS2Newsletter #服务 #RSSbyEmailRSS by Email 是作者疫情宅家的产物，和此前推送过的  RSS-email 使用方式一样，都是用邮件将 RSS url 发到指...](https://t.me/aboutrss/829)
-- [🖼集 RSS、公众号订阅于一身，支持笔记和稍后读的阅读工具：轻芒杂志 3.0 [by @realSpencerWoo]https://sspai.com/post/62376#评测 #RSS阅读器 #轻芒杂志发现...](https://t.me/aboutrss/828)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
