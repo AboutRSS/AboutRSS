@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼基于 RSS 进行自动推送的电报频道「优质 Rss 聚集整合计划」分享其 RSS bot 和订阅列表该 #频道 成立于18年9月，已基于 RSS 进行4万余次内容分享，有 1.4K ...](https://t.me/aboutrss/837)
 - [🖼「使用RSSHub自制Matataki RSS源」怎么给 #RSSHub 写新路由并本地调试？该文就是一个 #教程 例子。https://matataki.io/p/5377发现于https://twitter.com/re...](https://t.me/aboutrss/836)
 - [🖼Micro.blog 2.0 发布上月底，频道介绍过的 #博客 托管平台 #MicroDotBlog 发布了 2.0 版本，主要做了如下改进：🔸新操作界面🔸付费版增加供稍后读的书签...](https://t.me/aboutrss/835)
 - [🖼「中文独立博客全订阅计划」假期也许大家会比较有闲，所以介绍一个订阅 #资源 类项目，来自频道 list 里唯一一个 #FreshRSS 公开实例的搭建者 「yzqzss | 一...](https://t.me/aboutrss/834)
 - [🖼RssReader : 一个基于 Go 和 Vue 的线上 #RSS阅读器#RssReader 正处于积极开发之中，并且 #开源 。作者表示会长期维护，并不单纯是练手项目。https://rssrea...](https://t.me/aboutrss/833)
-- [🖼发现于https://twitter.com/jkgtw/status/1310919776768729089](https://t.me/aboutrss/832)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
