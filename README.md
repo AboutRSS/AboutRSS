@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼苹果系 #RSS阅读器 #Reeder 5 发布$4.99 ，买断制。🔸#iCloud Feed 和 Read Later 同步🔸仿生学阅读🔸Widgets 支持🔸滚动标记已读🔸阅读模式群里...](https://t.me/aboutrss/844)
 - [🖼NiceFeed : #Android #开源 #RSS阅读器#NiceFeed 是一个个人独立开发项目。🔸免费🔸支持 Feedly Search API🔸OPML 出入🔸Feed 分组🔸收藏和已读/...](https://t.me/aboutrss/843)
 - [🖼「CREATE A NEXT.JS RSS FEED FOR YOUR STATIC WEBSITE」#教程https://robkendal.co.uk/blog/create-a-static-website-rss-feed-with-next.js发现于https://...](https://t.me/aboutrss/842)
 - [🖼「Tiny Tiny RSS更新之后非80 443端口解决方案」 #教程该文系 RSSHub 群里大佬就 Docker 版本 #TTRSS 的解决方案：https://8430177.github.io/post/tiny-tin...](https://t.me/aboutrss/841)
 - [🖼FeedIt : 利用机器学习进行文章喜好排序的在线 #RSS阅读器还记得在 Reddit 上看到个贴，说 Ta 唯一不喜欢 RSS 订阅的一点是：阅读器把所有文章一视同仁，不...](https://t.me/aboutrss/840)
-- [🖼「配合 #Github Actions 做了一个自动推送 RSS 的 #钉钉 订阅机器人」https://mp.weixin.qq.com/s/5DTVtQGpv23hodd545lNhQ发现于作者推特，感谢在推上 at 我...](https://t.me/aboutrss/839)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
