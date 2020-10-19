@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼Reeder 开发者就文件夹重命名功能的回复#Reeder 用户电邮开发者咨询何时支持为 Feed 文件夹改名，获开发者回复如图。发现于 RSSBud 群，获授权转发。](https://t.me/aboutrss/848)
 - [🖼「如何用播客客户端订阅 YouTube」by nozomi频道以前提过 #PodSync 这款 #YouTube2Podcast 应用，此日志是自少数派上发现的一篇 #介绍 ：https://haysc.tech...](https://t.me/aboutrss/847)
 - [新增免费「RSS 订阅服务」，Reeder 推出 5.0 大版本 [by Tp]https://sspai.com/post/63202](https://t.me/aboutrss/846)
 - [🖼「Reeder 5 正式发布了 附简单使用情况」by 思有云 - IOIOXhttps://www.ioiox.com/archives/118.html发现于https://twitter.com/StilleShan/status/13173745...](https://t.me/aboutrss/845)
 - [🖼苹果系 #RSS阅读器 #Reeder 5 发布$4.99 ，买断制。🔸#iCloud Feed 和 Read Later 同步🔸仿生学阅读🔸Widgets 支持🔸滚动标记已读🔸阅读模式群里...](https://t.me/aboutrss/844)
+- [🖼NiceFeed : #Android #开源 #RSS阅读器#NiceFeed 是一个个人独立开发项目。🔸免费🔸支持 Feedly Search API🔸OPML 出入🔸Feed 分组🔸收藏和已读/...](https://t.me/aboutrss/843)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
