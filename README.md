@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼感谢所有 RSS 相关应用、软件、服务的开发者们！](https://t.me/aboutrss/854)
 - [🖼「  #TTRSS + #RSSHub 搭建指南」 by VinceHuthttps://www.vincehut.top/index.php/2020/10/14/ttrssrsshub%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/「Tiny Ti...](https://t.me/aboutrss/853)
 - [🖼RSS阅读器 Ego Reader 2.3.0版实现 Android 和 iOS 平台互通今年6月上线的 #RSS阅读器 #EgoReader 发布了 2.3.0 版本，增加了账号系统（详见题图），实现了...](https://t.me/aboutrss/852)
 - [🖼BalloonRSS : 一款弹出 Feed 新内容通知的 #Windows #软件#BalloonRSS 虽然是07年诞生，且最新一版发布于10年前，但 Ta 一直从 Win XP 可用坚持到了 Win 10 ...](https://t.me/aboutrss/851)
 - [🖼一大波 Reeder 5 #评测 、#介绍 来袭👉🏼「 #Reeder 5 Review: Read Later Tagging, iCloud Sync, and Design Refinements」by JOHN VOORHEES @ MacStor...](https://t.me/aboutrss/850)
-- [🖼#开源 线上 #RSS阅读器 蚁阅大版本更新并开启预售#蚁阅 10月15日 v1.7 版本上线，主要更新如下：🔸会员充值系统上线，预售预计会持续到明年，期间仅需一折...](https://t.me/aboutrss/849)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
