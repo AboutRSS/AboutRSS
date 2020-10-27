@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#iOS #RSS阅读器 #Newsbite订阅制： $7.99 每年 或 $0.99 每月🔸无限 Feeds（付费功能）🔸OPML 出入（付费功能）🔸新内容通知（付费功能）🔸内置浏...](https://t.me/aboutrss/857)
 - [🖼RSS阅读器 Ego Reader 开发者 PixelMage 作客 #播客 「闭门造车」「独立开发者PixelMage：成就感来源于自己做的APP」https://gulugulufm.github.io/podcasts...](https://t.me/aboutrss/856)
 - [🖼「用 Huginn 为高频 RSS 生成每日摘要并输出新的 RSS」https://www.zmonster.me/2020/10/24/make-digest-rss-with-huginn.html#Huginn 的高阶 #教程 ，来自...](https://t.me/aboutrss/855)
 - [🖼感谢所有 RSS 相关应用、软件、服务的开发者们！](https://t.me/aboutrss/854)
 - [🖼「  #TTRSS + #RSSHub 搭建指南」 by VinceHuthttps://www.vincehut.top/index.php/2020/10/14/ttrssrsshub%E6%90%AD%E5%BB%BA%E6%8C%87%E5%8D%97/「Tiny Ti...](https://t.me/aboutrss/853)
-- [🖼RSS阅读器 Ego Reader 2.3.0版实现 Android 和 iOS 平台互通今年6月上线的 #RSS阅读器 #EgoReader 发布了 2.3.0 版本，增加了账号系统（详见题图），实现了...](https://t.me/aboutrss/852)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
