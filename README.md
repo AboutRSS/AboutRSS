@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Talkwalker Alerts : Google Alerts 的免费替代#GoogleAlerts 可以为你所感兴趣的关键词生成最新检索结果的 RSS Feed。本频道不少内容都是通过这种方式获知...](https://t.me/aboutrss/860)
 - [🖼电报频道 「不求甚解」 推出官方 RSS Feed频道播报过 「Newlearnerの自留地」 推出官方 RSS ，这次另一家电报频道 「不求甚解」在一周年之际也推出了官方 RS...](https://t.me/aboutrss/859)
 - [🖼发现一个关于 Miniflux 的 Awesome Listawesome-miniflux ： https://github.com/hirusi/awesome-miniflux目前只有一个条目：reminiflux ，欢迎贡献内容。ht...](https://t.me/aboutrss/858)
 - [🖼#iOS #RSS阅读器 #Newsbite订阅制： $7.99 每年 或 $0.99 每月🔸无限 Feeds（付费功能）🔸OPML 出入（付费功能）🔸新内容通知（付费功能）🔸内置浏...](https://t.me/aboutrss/857)
 - [🖼RSS阅读器 Ego Reader 开发者 PixelMage 作客 #播客 「闭门造车」「独立开发者PixelMage：成就感来源于自己做的APP」https://gulugulufm.github.io/podcasts...](https://t.me/aboutrss/856)
-- [🖼「用 Huginn 为高频 RSS 生成每日摘要并输出新的 RSS」https://www.zmonster.me/2020/10/24/make-digest-rss-with-huginn.html#Huginn 的高阶 #教程 ，来自...](https://t.me/aboutrss/855)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
