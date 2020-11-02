@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#FocusReader : 以 #Feedly / #Inoreader 为后端的 #Android #RSS阅读器🔸全屏阅读体验🔸支持播客🔸左右滑动切换文章🔸简单手势轻松导航🔸浅色和...](https://t.me/aboutrss/862)
 - [🖼美媒全国公共广播电台开始支持 JSON Feed National Public Radio 的技术团队还在其支持 #JSONFeed 的通知中简述了其对 RSS 的看法：🔹 已经很少有互联网从...](https://t.me/aboutrss/861)
 - [🖼Talkwalker Alerts : Google Alerts 的免费替代#GoogleAlerts 可以为你所感兴趣的关键词生成最新检索结果的 RSS Feed。本频道不少内容都是通过这种方式获知...](https://t.me/aboutrss/860)
 - [🖼电报频道 「不求甚解」 推出官方 RSS Feed频道播报过 「Newlearnerの自留地」 推出官方 RSS ，这次另一家电报频道 「不求甚解」在一周年之际也推出了官方 RS...](https://t.me/aboutrss/859)
 - [🖼发现一个关于 Miniflux 的 Awesome Listawesome-miniflux ： https://github.com/hirusi/awesome-miniflux目前只有一个条目：reminiflux ，欢迎贡献内容。ht...](https://t.me/aboutrss/858)
-- [🖼#iOS #RSS阅读器 #Newsbite订阅制： $7.99 每年 或 $0.99 每月🔸无限 Feeds（付费功能）🔸OPML 出入（付费功能）🔸新内容通知（付费功能）🔸内置浏...](https://t.me/aboutrss/857)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
