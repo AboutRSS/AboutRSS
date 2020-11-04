@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼Castbee : 「为跨越 RSS 的门槛，我们做了个主题追踪订阅服务」国外的信息聚合站点常见于在一家平台集成 RSS、Twitter、YouTube、Reddit 等信息，实现一站式...](https://t.me/aboutrss/864)
+- [🖼Castbee : 「为跨越 RSS 的门槛，我们做了个主题追踪订阅服务」国外的信息 #聚合 站点常见于在一家平台集成 RSS、Twitter、YouTube、Reddit 等信息，实现一...](https://t.me/aboutrss/864)
 - [🖼Easy Signage : 利用 RSS 把 Android 设备变身信息滚动播报台老早前就畅想过菜市场用 RSS 更新和显示当日菜价，#EasySignage 进一步降低了这个白日梦的实现...](https://t.me/aboutrss/863)
 - [🖼#FocusReader : 以 #Feedly / #Inoreader 为后端的 #Android #RSS阅读器🔸全屏阅读体验🔸支持播客🔸左右滑动切换文章🔸简单手势轻松导航🔸浅色和...](https://t.me/aboutrss/862)
 - [🖼美媒全国公共广播电台开始支持 JSON Feed National Public Radio 的技术团队还在其支持 #JSONFeed 的通知中简述了其对 RSS 的看法：🔹 已经很少有互联网从...](https://t.me/aboutrss/861)
