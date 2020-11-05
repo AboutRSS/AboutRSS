@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Podcast Index 正计划为播客增加新的 RSS Namespace 扩展Podcast Index 的建立是为了替代 iTunes 播客平台以实现开放自由的播客索引，其正在倡议构建 The "p...](https://t.me/aboutrss/865)
 - [🖼Castbee : 「为跨越 RSS 的门槛，我们做了个主题追踪订阅服务」国外的信息 #聚合 站点常见于在一家平台集成 RSS、Twitter、YouTube、Reddit 等信息，实现一...](https://t.me/aboutrss/864)
 - [🖼Easy Signage : 利用 RSS 把 Android 设备变身信息滚动播报台老早前就畅想过菜市场用 RSS 更新和显示当日菜价，#EasySignage 进一步降低了这个白日梦的实现...](https://t.me/aboutrss/863)
 - [🖼#FocusReader : 以 #Feedly / #Inoreader 为后端的 #Android #RSS阅读器🔸全屏阅读体验🔸支持播客🔸左右滑动切换文章🔸简单手势轻松导航🔸浅色和...](https://t.me/aboutrss/862)
 - [🖼美媒全国公共广播电台开始支持 JSON Feed National Public Radio 的技术团队还在其支持 #JSONFeed 的通知中简述了其对 RSS 的看法：🔹 已经很少有互联网从...](https://t.me/aboutrss/861)
-- [🖼Talkwalker Alerts : Google Alerts 的免费替代#GoogleAlerts 可以为你所感兴趣的关键词生成最新检索结果的 RSS Feed。本频道不少内容都是通过这种方式获知...](https://t.me/aboutrss/860)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
