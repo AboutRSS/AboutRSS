@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼CyberSEO : 又一款基于 RSS 进行信息组织、流转的 WordPress 插件和此前频道介绍过的  PressForward 一样， #CyberSEO 也是同类型的 #WordPress #插件 ，区...](https://t.me/aboutrss/869)
 - [🖼「为 Docsify 自动生成 RSS 订阅」by 沈唁志https://qq52o.me/2770.html#Docsify 是一个文档站点生成器，也有人拿其写 #博客 。该文博主利用了 #GitHub Acti...](https://t.me/aboutrss/868)
 - [🖼1️⃣ #开源 电报 RSS #bot #NodeRSSBot 新增支持一键部署至 Heroku ，并启用了新的文档和官方电报频道：https://rssbot.vercel.app/zh/https://t.me/NodeRS...](https://t.me/aboutrss/867)
 - [🖼Homura : 多平台 #开源 #RSS阅读器#Homura 是国人新开发的三栏 RSS 阅读器，已释出 Win Mac Linux 安装包。作者表示是自用，所以会在一段时间内保持维护。ht...](https://t.me/aboutrss/866)
 - [🖼Podcast Index 正计划为播客增加新的 RSS Namespace 扩展Podcast Index 的建立是为了替代 iTunes 播客平台以实现开放自由的播客索引，其正在倡议构建 The "p...](https://t.me/aboutrss/865)
-- [🖼Castbee : 「为跨越 RSS 的门槛，我们做了个主题追踪订阅服务」国外的信息 #聚合 站点常见于在一家平台集成 RSS、Twitter、YouTube、Reddit 等信息，实现一...](https://t.me/aboutrss/864)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
