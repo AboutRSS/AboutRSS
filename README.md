@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼#RSSHub 的 #开源 #iOS 辅助 #App —— #RSSBud 已上架 Apple Storehttps://apps.apple.com/us/app/rssbud/id1531443645恭喜和感谢开发者 @cayZttt 。此前频...](https://t.me/aboutrss/870)
+- [🖼#RSSHub 的 #开源 #iOS 辅助 #App —— #RSSBud 已上架 App Storehttps://apps.apple.com/us/app/rssbud/id1531443645恭喜和感谢开发者 @cayZttt 。此前频道...](https://t.me/aboutrss/870)
 - [🖼CyberSEO : 又一款基于 RSS 进行信息组织、流转的 WordPress 插件和此前频道介绍过的  PressForward 一样， #CyberSEO 也是同类型的 #WordPress #插件 ，区...](https://t.me/aboutrss/869)
 - [🖼「为 Docsify 自动生成 RSS 订阅」by 沈唁志https://qq52o.me/2770.html#Docsify 是一个文档站点生成器，也有人拿其写 #博客 。该文博主利用了 #GitHub Acti...](https://t.me/aboutrss/868)
 - [🖼1️⃣ #开源 电报 RSS #bot #NodeRSSBot 新增支持一键部署至 Heroku ，并启用了新的文档和官方电报频道：https://rssbot.vercel.app/zh/https://t.me/NodeRS...](https://t.me/aboutrss/867)
