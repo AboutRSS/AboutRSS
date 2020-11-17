@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Pipfeed news extract API : 可从 Feed 获取英文全文的 API#Pipfeed 是一款苹果、安卓双平台应用，提供面向英文用户的内容聚合和高质量阅读体验服务。可惜的...](https://t.me/aboutrss/874)
 - [🖼#RSS阅读器 Elytra 新增 MacOS 版#Elytra 原本只有 iOS 版本，近日发布了 #Mac Big Sur 版本：https://blog.elytra.app/2020/11/12/elytra-is-now-available...](https://t.me/aboutrss/873)
 - [🖼FlipRSS : 与 Mailchimp 深度集成的 #RSS2Newsletter #服务#FlipRSS 本月发布了全新重写的 4.0 版，代号 Maple ，并在 Product Hunt 上进行宣传。官方日志详...](https://t.me/aboutrss/872)
 - [🖼#RSSHub 的 #开源 #iOS 辅助 #App —— #RSSBud 已上架 App Storehttps://apps.apple.com/us/app/rssbud/id1531443645恭喜和感谢开发者 @cayZttt 。此前频道...](https://t.me/aboutrss/870)
 - [🖼CyberSEO : 又一款基于 RSS 进行信息组织、流转的 WordPress 插件和此前频道介绍过的  PressForward 一样， #CyberSEO 也是同类型的 #WordPress #插件 ，区...](https://t.me/aboutrss/869)
-- [🖼「为 Docsify 自动生成 RSS 订阅」by 沈唁志https://qq52o.me/2770.html#Docsify 是一个文档站点生成器，也有人拿其写 #博客 。该文博主利用了 #GitHub Acti...](https://t.me/aboutrss/868)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
