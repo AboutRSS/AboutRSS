@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「 0202 年了，还有人用 RSS 吗？」 by kotorik @ 雪猫社https://www.yukicat.net/1194/   RSS #玩家 #心得P.S. #Inoreader #黑五 开启，于11月20日至12月1...](https://t.me/aboutrss/877)
 - [🖼FeedIt trainable RSS reader 登陆 iOS APP Store频道提及过的机器学习型 #RSS阅读器 #FeedIt 在其安卓版和线上版后发布了 #iOS 版：https://apps.apple.com...](https://t.me/aboutrss/876)
 - [🖼TwiSSR : 为你的 Twitter 时间线生成 RSS Feed#TwiSSR 只用一个功能，使用 #Twitter 登录后，即可实现 TwitterTimeline2RSS 。http://www.twissr.com/发现于...](https://t.me/aboutrss/875)
 - [🖼Pipfeed news extract API : 可从 Feed 获取英文全文的 API#Pipfeed 是一款苹果、安卓双平台应用，提供面向英文用户的内容聚合和高质量阅读体验服务。可惜的...](https://t.me/aboutrss/874)
 - [🖼#RSS阅读器 Elytra 新增 MacOS 版#Elytra 原本只有 iOS 版本，近日发布了 #Mac Big Sur 版本：https://blog.elytra.app/2020/11/12/elytra-is-now-available...](https://t.me/aboutrss/873)
-- [🖼FlipRSS : 与 Mailchimp 深度集成的 #RSS2Newsletter #服务#FlipRSS 本月发布了全新重写的 4.0 版，代号 Maple ，并在 Product Hunt 上进行宣传。官方日志详...](https://t.me/aboutrss/872)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
