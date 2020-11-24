@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#RSS阅读器 Feeder 的黑五特价活动#Feeder 这次为期一周的 #黑五 是新订阅用户可享年度订阅计划 50% OFF 。官页： https://feeder.co/black-friday-2020官博...](https://t.me/aboutrss/881)
 - [🖼简悦 2.1 版带来 RSS 阅读器辅助功能#简悦 #SimpRead 是一款提供沉浸式阅读模式的 #浏览器扩展 ，其刚发布的 2.1 版对 Feedly / Feedbin / Inoreader 三家线...](https://t.me/aboutrss/880)
 - [🖼微软产品官方信息的 RSS 源https://support.microsoft.com/zh-cn/rss-feed-picker从下拉菜单选择产品，即可得到 ATOM 或 RSS 两种格式的 Feed 。适合需要跟...](https://t.me/aboutrss/879)
 - [🖼RSS-proxy : 为任何静态网页生成 RSS Feed#RSSproxy 通过分析 HTML 架构，自动判别重复部分，然后把其间的内容抽出来生成 RSS Feed ；支持的 Feed 格式包括 ...](https://t.me/aboutrss/878)
 - [🖼「 0202 年了，还有人用 RSS 吗？」 by kotorik @ 雪猫社https://www.yukicat.net/1194/   RSS #玩家 #心得P.S. #Inoreader #黑五 开启，于11月20日至12月1...](https://t.me/aboutrss/877)
-- [🖼FeedIt trainable RSS reader 登陆 iOS APP Store频道提及过的机器学习型 #RSS阅读器 #FeedIt 在其安卓版和线上版后发布了 #iOS 版：https://apps.apple.com...](https://t.me/aboutrss/876)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
