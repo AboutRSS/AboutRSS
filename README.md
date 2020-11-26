@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼安卓 #RSS阅读器 咕咚订阅独立开发者咕咚出品的 #Android RSS 阅读器 #咕咚订阅 也叫 #RSSPlus ：🔸自动夜间模式🔸收藏🔸导入导出🔸30分钟自动刷新...](https://t.me/aboutrss/884)
 - [🖼新闻聚合订阅器 Castbee 发布 Chrome 扩展频道此前提过的主题追踪服务 #Castbee 发布了 #Chrome #浏览器扩展：https://chrome.google.com/webstore/detail/c...](https://t.me/aboutrss/883)
 - [🖼rssdeck : 仿 TweetDeck 的在线 #RSS阅读器TweetDeck 提供多栏的推文阅览体验，适合信息搜整。 #rssdeck 也可以简单地实现这种阅览模式。https://rssdeck.we...](https://t.me/aboutrss/882)
 - [🖼#RSS阅读器 Feeder 的黑五特价活动#Feeder 这次为期一周的 #黑五 是新订阅用户可享年度订阅计划 50% OFF 。官页： https://feeder.co/black-friday-2020官博...](https://t.me/aboutrss/881)
 - [🖼简悦 2.1 版带来 RSS 阅读器辅助功能#简悦 #SimpRead 是一款提供沉浸式阅读模式的 #浏览器扩展 ，其刚发布的 2.1 版对 Feedly / Feedbin / Inoreader 三家线...](https://t.me/aboutrss/880)
-- [🖼微软产品官方信息的 RSS 源https://support.microsoft.com/zh-cn/rss-feed-picker从下拉菜单选择产品，即可得到 ATOM 或 RSS 两种格式的 Feed 。适合需要跟...](https://t.me/aboutrss/879)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
