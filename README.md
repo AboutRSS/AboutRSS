@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼与 RSS 有关的数据私有化案例「巧用 NAS 打造私有跨平台播客订阅服务」https://sspai.com/post/63610「Creating the back end for a weekly newsletter on d...](https://t.me/aboutrss/887)
 - [🖼Vivaldi Mail 服务上线，自带 RSS 阅读器浏览器 #Vivaldi 推出线上邮箱服务 Vivaldi Mail ，由邮箱客户端、 #RSS阅读器 和日历三大部分组成。Vivaldi Feed R...](https://t.me/aboutrss/886)
 - [🖼#Digester 已关站并开放源码频道提过的 RSS2NEWSLETTER 服务 https://Digester.app 被开发者关闭，理由是麻烦的运营和开支压力逐渐取代了此前的快乐。详见官...](https://t.me/aboutrss/885)
 - [🖼安卓 #RSS阅读器 咕咚订阅独立开发者咕咚出品的 #Android RSS 阅读器 #咕咚订阅 也叫 #RSSPlus ：🔸自动夜间模式🔸收藏🔸导入导出🔸30分钟自动刷新...](https://t.me/aboutrss/884)
 - [🖼新闻聚合订阅器 Castbee 发布 Chrome 扩展频道此前提过的主题追踪服务 #Castbee 发布了 #Chrome #浏览器扩展：https://chrome.google.com/webstore/detail/c...](https://t.me/aboutrss/883)
-- [🖼rssdeck : 仿 TweetDeck 的在线 #RSS阅读器TweetDeck 提供多栏的推文阅览体验，适合信息搜整。 #rssdeck 也可以简单地实现这种阅览模式。https://rssdeck.we...](https://t.me/aboutrss/882)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
