@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼安卓 RSS 阅读器 Pure RSS#PureRSS 是在积极开放中的本地型、注重隐私和交互体验的 #Android #RSS阅读器 ：https://play.google.com/store/apps/details?id=...](https://t.me/aboutrss/889)
 - [🖼#RSS阅读器 Elytra 的一篇英文介绍 （ RSS #玩家 #心得 ）「 #Elytra : The RSS reader for you」https://www.igamut.net/post/elytra-the-rss-reader-for-y...](https://t.me/aboutrss/888)
 - [🖼与 RSS 有关的数据私有化案例「巧用 NAS 打造私有跨平台播客订阅服务」https://sspai.com/post/63610「Creating the back end for a weekly newsletter on d...](https://t.me/aboutrss/887)
 - [🖼Vivaldi Mail 服务上线，自带 RSS 阅读器浏览器 #Vivaldi 推出线上邮箱服务 Vivaldi Mail ，由邮箱客户端、 #RSS阅读器 和日历三大部分组成。Vivaldi Feed R...](https://t.me/aboutrss/886)
 - [🖼#Digester 已关站并开放源码频道提过的 RSS2NEWSLETTER 服务 https://Digester.app 被开发者关闭，理由是麻烦的运营和开支压力逐渐取代了此前的快乐。详见官...](https://t.me/aboutrss/885)
-- [🖼安卓 #RSS阅读器 咕咚订阅独立开发者咕咚出品的 #Android RSS 阅读器 #咕咚订阅 也叫 #RSSPlus ：🔸自动夜间模式🔸收藏🔸导入导出🔸30分钟自动刷新...](https://t.me/aboutrss/884)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
