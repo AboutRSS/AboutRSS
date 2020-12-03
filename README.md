@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「Turn any blog or RSS feed into an API」 #教程https://blog.m3o.com/2020/11/16/turn-any-blog-or-rss-feed-into-an-api.html发现于https://twitter.com...](https://t.me/aboutrss/893)
 - [🖼#Tips 用 RSSHub 为 Twitter List 生成 RSS Feed 的关键一步：找到 Twitter List 的 name昨天有一位朋友需要借助 #RSSHub 订阅公开的 Twitter 列表 。找到路...](https://t.me/aboutrss/892)
 - [🖼「应用PPk协议，结合区块链和分布式存储，实现一个有趣的 #RSS阅读器 」https://www.chainnode.com/post/452368我表示有点超纲，有没有大佬来科普下？](https://t.me/aboutrss/891)
 - [🖼「手机里属于我自己的报刊亭 #REEDER 5」 by Alec Chenhttp://www.25am.life/2020/11/6cf3e19ccf/RSS #玩家 #心得](https://t.me/aboutrss/890)
 - [🖼安卓 RSS 阅读器 Pure RSS#PureRSS 是在积极开发中的本地型、注重隐私和交互体验的 #Android #RSS阅读器 ：https://play.google.com/store/apps/details?id=...](https://t.me/aboutrss/889)
-- [🖼#RSS阅读器 Elytra 的一篇英文介绍 （ RSS #玩家 #心得 ）「 #Elytra : The RSS reader for you」https://www.igamut.net/post/elytra-the-rss-reader-for-y...](https://t.me/aboutrss/888)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
