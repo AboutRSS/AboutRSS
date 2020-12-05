@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「 #RSS追踪 ：#Windows 平台上一款好用的 #RSS阅读器 」 by 胡和先的个人博客https://www.huhexian.com/3363.htmlRSS #玩家 #心得](https://t.me/aboutrss/896)
 - [🖼「谷歌播客 App 更新：最新支持 RSS 订阅功能」https://www.ruancan.com/android/android-app/google-podcasts-rss.html频道曾说过 #GooglePodcasts 不支持...](https://t.me/aboutrss/895)
 - [🖼「使用 Telegram 订阅 pixiv 新图」因 IFTTT 收费转而自行实现 #RSS2Telegram 的 #教程 ， 用到 Node.js 和 RSSHub 。https://candinya.com/posts/subscribe...](https://t.me/aboutrss/894)
 - [🖼「Turn any blog or RSS feed into an API」 #教程https://blog.m3o.com/2020/11/16/turn-any-blog-or-rss-feed-into-an-api.html发现于https://twitter.com...](https://t.me/aboutrss/893)
 - [🖼#Tips 用 RSSHub 为 Twitter List 生成 RSS Feed 的关键一步：找到 Twitter List 的 name昨天有一位朋友需要借助 #RSSHub 订阅公开的 Twitter 列表 。找到路...](https://t.me/aboutrss/892)
-- [🖼「应用PPk协议，结合区块链和分布式存储，实现一个有趣的 #RSS阅读器 」https://www.chainnode.com/post/452368我表示有点超纲，有没有大佬来科普下？](https://t.me/aboutrss/891)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
