@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「A self-hosted RSS setup」 by Steve Gattusohttps://www.stevegattuso.me/2020/11/30/self-host-rss.html讲述自架 RSS 服务经验，用到 #FreshRSS #RSSBri...](https://t.me/aboutrss/900)
 - [🖼#开源 #泛用型播客客户端 Podstation ： 在 Chrome 里订阅播客 「 #Podstation：简洁的 #播客 订阅 #Chrome #浏览器扩展」by 软餐https://www.ruancan.com/c...](https://t.me/aboutrss/899)
 - [🖼#Spotifeed : #Spotify2RSS #服务贴入 #Spotify #播客 链接即可为其生成 RSS Feed ：https://spotifeed.timdorr.com/该 #工具 #开源 ：https://github.com/t...](https://t.me/aboutrss/898)
 - [🖼RSS阅读器 Ego Reader 完成价格调整，发布 3.0.0 版频道9月预告了 #RSS阅读器 #EgoReader 的价格调整，现已在 3.0.0 版完成上调：0.99 刀每月 / 9.99 刀每年...](https://t.me/aboutrss/897)
 - [🖼「 #RSS追踪 ：#Windows 平台上一款好用的 #RSS阅读器 」 by 胡和先的个人博客https://www.huhexian.com/3363.htmlRSS #玩家 #心得](https://t.me/aboutrss/896)
-- [🖼「谷歌播客 App 更新：最新支持 RSS 订阅功能」https://www.ruancan.com/android/android-app/google-podcasts-rss.html频道曾说过 #GooglePodcasts 不支持...](https://t.me/aboutrss/895)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
