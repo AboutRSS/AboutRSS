@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#Irodr : 以 #Inoreader 为后端的在线 #RSS阅读器 客户端该服务 #开源 且有线上实例，提供类 http://reader.livedoor.com/ 的 UI 体验：https://irodr.netli...](https://t.me/aboutrss/902)
 - [🖼Wordflow Automation 工具 n8n 发布线上收费版n8n.io 是 #开源 的工作流自动化 #工具，发布了号称下一代的自动化服务 n8n.cloud 。从介绍看支持 RSS 在内 15...](https://t.me/aboutrss/901)
 - [🖼「A self-hosted RSS setup」 by Steve Gattusohttps://www.stevegattuso.me/2020/11/30/self-host-rss.html讲述自架 RSS 服务经验，用到 #FreshRSS #RSSBri...](https://t.me/aboutrss/900)
 - [🖼#开源 #泛用型播客客户端 Podstation ： 在 Chrome 里订阅播客 「 #Podstation：简洁的 #播客 订阅 #Chrome #浏览器扩展」by 软餐https://www.ruancan.com/c...](https://t.me/aboutrss/899)
 - [🖼#Spotifeed : #Spotify2RSS #服务贴入 #Spotify #播客 链接即可为其生成 RSS Feed ：https://spotifeed.timdorr.com/该 #工具 #开源 ：https://github.com/t...](https://t.me/aboutrss/898)
-- [🖼RSS阅读器 Ego Reader 完成价格调整，发布 3.0.0 版频道9月预告了 #RSS阅读器 #EgoReader 的价格调整，现已在 3.0.0 版完成上调：0.99 刀每月 / 9.99 刀每年...](https://t.me/aboutrss/897)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
