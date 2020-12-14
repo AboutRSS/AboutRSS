@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#rsstodolist : 填入 url 构造一个 RSS Feed该 #工具 #开源 ，有实例：https://rsstodolist.appspot.com/设定 Feed 名称，然后每次填入一个 URL 即可将其生...](https://t.me/aboutrss/905)
 - [🖼「将RSS源翻译成指定语言后返回」https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/作者写了一段 Javascript 脚本...](https://t.me/aboutrss/904)
 - [🖼「RSS：多个RSS平台对比」https://sspai.com/post/62715作者聊了聊用过的 #RSS阅读器 体会和感受，包括 Inoreader、Feedly 和 The Old Reader 。RSS #玩家 #...](https://t.me/aboutrss/903)
 - [🖼#Irodr : 以 #Inoreader 为后端的在线 #RSS阅读器 客户端该服务 #开源 且有线上实例，提供类 http://reader.livedoor.com/ 的 UI 体验：https://irodr.netli...](https://t.me/aboutrss/902)
 - [🖼Workflow Automation 工具 n8n 发布线上收费版n8n.io 是 #开源 的工作流自动化 #工具，发布了号称下一代的自动化服务 n8n.cloud 。从介绍看支持 RSS 在内 15...](https://t.me/aboutrss/901)
-- [🖼「A self-hosted RSS setup」 by Steve Gattusohttps://www.stevegattuso.me/2020/11/30/self-host-rss.html讲述自架 RSS 服务经验，用到 #FreshRSS #RSSBri...](https://t.me/aboutrss/900)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
