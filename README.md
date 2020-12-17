@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「Substack launches an RSS reader to organize all your newsletter subscriptions」https://www.theverge.com/2020/12/16/22174000/substack-rss-reader-...](https://t.me/aboutrss/908)
 - [🖼「分享我的信息筛选管道服务 Inoreader」 by XDashhttp://xdash.one/use-inoreader-to-filter-news.html通过该日志，我们能够管窥大V们是如何使用 #Inoreade...](https://t.me/aboutrss/907)
 - [🖼The Webpage : 利用 RSS 打造读报式浏览体验#TheWebpage 其实也是个线上 #RSS阅读器 ，不过 Ta 自动把内容排版成了报纸的形式。这也十分契合 “RSS” 这个信...](https://t.me/aboutrss/906)
 - [🖼#rsstodolist : 填入 url 构造一个 RSS Feed该 #工具 #开源 ，有实例：https://rsstodolist.appspot.com/设定 Feed 名称，然后每次填入一个 URL 即可将其生...](https://t.me/aboutrss/905)
 - [🖼「将RSS源翻译成指定语言后返回」https://8430177.github.io/post/jiang-rss-yuan-fan-yi-cheng-zhi-ding-yu-yan-hou-fan-hui/作者写了一段 Javascript 脚本...](https://t.me/aboutrss/904)
-- [🖼「RSS：多个RSS平台对比」https://sspai.com/post/62715作者聊了聊用过的 #RSS阅读器 体会和感受，包括 Inoreader、Feedly 和 The Old Reader 。RSS #玩家 #...](https://t.me/aboutrss/903)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
