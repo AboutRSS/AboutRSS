@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼FocusReader 新增对 本地订阅、 FreshRSS 和 TTRSS 的支持频道提及过的 #Android #RSS阅读器 #FocusReader 更新 2.2.1 版本，从一款以 Feedly / Inoreader ...](https://t.me/aboutrss/912)
 - [🖼RSSHub 辅助订阅 APP 的 #开源 安卓版来了 ： RSSAid和 iOS版 RSSBud 一样，#Android 版 #RSSAid 帮你快速发现利用 #RSSHub 路由生成的 RSS Feed，并进行订...](https://t.me/aboutrss/911)
 - [🖼RSSBud 释出4个配套捷径 （iOS Shortcuts）#RSSBud 是 #RSSHub 的辅助 #iOS #App 。此次放出的 #捷径 可以帮助用户从分享菜单或二维码扫描一步进行 RSSHub ...](https://t.me/aboutrss/910)
 - [🖼#iOS APP 「英语轻松读」 加入 RSS 订阅功能当你选择了词汇量后，英语轻松读会在 Ta 以为你不会的单词上标注词义，以解决查单词的低效率问题。现在该 #APP ...](https://t.me/aboutrss/909)
 - [🖼「Substack launches an RSS reader to organize all your newsletter subscriptions」https://www.theverge.com/2020/12/16/22174000/substack-rss-reader-...](https://t.me/aboutrss/908)
-- [🖼「分享我的信息筛选管道服务 Inoreader」 by XDashhttp://xdash.one/use-inoreader-to-filter-news.html通过该日志，我们能够管窥大V们是如何使用 #Inoreade...](https://t.me/aboutrss/907)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
