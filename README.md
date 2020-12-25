@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼一键导出你订阅的所有油管频道 RSS Feed 的 #Userscripthttps://greasyfork.org/zh-TW/scripts/418574-export-youtube-subscriptions-to-rss-opml装上后，即...](https://t.me/aboutrss/915)
+- [🖼一键导出你订阅的所有油管频道 RSS Feed 的 #Userscripthttps://greasyfork.org/scripts/418574装上后，即可在 #YouTube 首页边栏看到一个 Export 按钮，点...](https://t.me/aboutrss/915)
 - [🖼「 Telegram 应用内预览 RSS 订阅机器人部署笔记」 by Spoiencehttps://spoience.com/flowerss-telegram-bot.html部署 #Flowerss #Telegram bot 的 #教程 。](https://t.me/aboutrss/914)
 - [🖼Feedly Notifier ：一款服务于 Feedly 的 第三方 #浏览器扩展https://olsh.me/Feedly-Notifier/该扩展 #开源 ，主要功能是实现基于 #Feedly 在浏览器扩展按...](https://t.me/aboutrss/913)
 - [🖼FocusReader 新增对 本地订阅、 FreshRSS 和 TTRSS 的支持频道提及过的 #Android #RSS阅读器 #FocusReader 更新 2.2.1 版本，从一款以 Feedly / Inoreader ...](https://t.me/aboutrss/912)
