@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼播客制作手册 PDF 版播客先声（曾用名为「独立播客」）频道的道长 Zac 与少数派 Nick 共同制作了一份涵盖 #播客 方方面面的手册。其中第一章 “什么是播客“...](https://t.me/aboutrss/916)
 - [🖼一键导出你订阅的所有油管频道 RSS Feed 的 #Userscripthttps://greasyfork.org/scripts/418574装上后，即可在 #YouTube 首页边栏看到一个 Export 按钮，点...](https://t.me/aboutrss/915)
 - [🖼「 Telegram 应用内预览 RSS 订阅机器人部署笔记」 by Spoiencehttps://spoience.com/flowerss-telegram-bot.html部署 #Flowerss #Telegram bot 的 #教程 。](https://t.me/aboutrss/914)
 - [🖼Feedly Notifier ：一款服务于 Feedly 的 第三方 #浏览器扩展https://olsh.me/Feedly-Notifier/该扩展 #开源 ，主要功能是实现基于 #Feedly 在浏览器扩展按...](https://t.me/aboutrss/913)
 - [🖼FocusReader 新增对 本地订阅、 FreshRSS 和 TTRSS 的支持频道提及过的 #Android #RSS阅读器 #FocusReader 更新 2.2.1 版本，从一款以 Feedly / Inoreader ...](https://t.me/aboutrss/912)
-- [🖼RSSHub 辅助订阅 APP 的 #开源 安卓版来了 ： RSSAid和 iOS版 RSSBud 一样，#Android 版 #RSSAid 帮你快速发现利用 #RSSHub 路由生成的 RSS Feed，并进行订...](https://t.me/aboutrss/911)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
