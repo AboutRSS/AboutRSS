@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼《星箭廣播》89 集——2020 年都要過了，為什麼我們還在用 RSS 閱讀器？https://blog.starrocket.io/posts/star-rocket-podcast-ep89-rss-readers/#播客发现...](https://t.me/aboutrss/921)
 - [🖼RSS Dashboard ：利用 RSS 打造仿 iGoogle 的个人信息首页看到“仿 iGoogle” ，大家应该能猜到 #RSSDashboard 是老古董了。没错，也是一家长青服务，始于20...](https://t.me/aboutrss/920)
 - [🖼FiveFilters 发布线上服务 Feed Control#FiveFilters 家既 Feed Creator 2.0 之后，上线了一款称为 Feed Control 的内容筛选转发服务：在信息来源上面向 RSS...](https://t.me/aboutrss/919)
 - [🖼#资源 Product Hunt 每日热门的 RSS Feed by timqianhttps://www.v2ex.com/t/739413该 #资源 隶属于频道介绍过的 #开源 项目 #Headllines 。和 RSSHub 的 PH...](https://t.me/aboutrss/918)
 - [🖼两家 RSS 阅读器的圣诞活动🔸#Android #RSS阅读器 #APP —— #Plenary 买断价折扣至 $2.49 ，还剩两日可享。发现于官推： https://twitter.com/spianslabs...](https://t.me/aboutrss/917)
-- [🖼播客制作手册 PDF 版播客先声（曾用名为「独立播客」）频道的道长 Zac 与少数派 Nick 共同制作了一份涵盖 #播客 方方面面的手册。其中第一章 “什么是播客“...](https://t.me/aboutrss/916)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
