@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#开源 #RSS阅读器 #RavenReader 的一个英文 #评测「Raven Reader is a cross-platform, open source RSS feed aggregator that supports podcasts」https://...](https://t.me/aboutrss/924)
 - [🖼TG 频道 “悦读「优质少量 RSS 聚合」” 的订阅源向 DailyRSS 频道所有人要了下订阅源的 #OPML 文件，发在了这里：https://t.me/wikitalk/10447 #资源该频道...](https://t.me/aboutrss/923)
 - [🖼RSSForever.com : 提供公开的 TTRSS 和 RSSHub 实例频道提及过「思有云」博主 Stille 在去年上半年开始提供 #TTRSS 和 #RSSHub 实例，如今 Stille 将其数据...](https://t.me/aboutrss/922)
 - [🖼《星箭廣播》89 集——2020 年都要過了，為什麼我們還在用 RSS 閱讀器？https://blog.starrocket.io/posts/star-rocket-podcast-ep89-rss-readers/#播客发现...](https://t.me/aboutrss/921)
 - [🖼RSS Dashboard ：利用 RSS 打造仿 iGoogle 的个人信息首页看到“仿 iGoogle” ，大家应该能猜到 #RSSDashboard 是老古董了。没错，也是一家长青服务，始于20...](https://t.me/aboutrss/920)
-- [🖼FiveFilters 发布线上服务 Feed Control#FiveFilters 家既 Feed Creator 2.0 之后，上线了一款称为 Feed Control 的内容筛选转发服务：在信息来源上面向 RSS...](https://t.me/aboutrss/919)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
