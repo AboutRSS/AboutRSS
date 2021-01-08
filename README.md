@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼支持 #Windows 和 #Mac 的 #RSS阅读器 ：Dinosaur RSS#DinosaurRSS 是去年底发布的 #开源 两栏式 RSS 订阅客户端，100 个订阅 feed 的限制可通过捐赠解锁。h...](https://t.me/aboutrss/927)
 - [🖼播客 OPML 大收藏推友 Christopher Isene 维护了一个 #播客 的 #OPML 文件收藏，致力于覆盖 #PodcastIndex 上的所有播客。 #资源http://b19.se/data/发现于h...](https://t.me/aboutrss/926)
 - [🖼找 YouTube 原生 RSS Feed 的方法#YouTube 原生 RSS Feed 藏得很深，以致于挺多人都不知道其自带 Feed 。而且，找到 #YouTube 频道和列表的自带 RSS Feed 一...](https://t.me/aboutrss/925)
 - [🖼#开源 #RSS阅读器 #RavenReader 的一个英文 #评测「Raven Reader is a cross-platform, open source RSS feed aggregator that supports podcasts」https://...](https://t.me/aboutrss/924)
 - [🖼TG 频道 “悦读「优质少量 RSS 聚合」” 的订阅源向 DailyRSS 频道所有人要了下订阅源的 #OPML 文件，发在了这里：https://t.me/wikitalk/10447 #资源该频道...](https://t.me/aboutrss/923)
-- [🖼RSSForever.com : 提供公开的 TTRSS 和 RSSHub 实例频道提及过「思有云」博主 Stille 在去年上半年开始提供 #TTRSS 和 #RSSHub 实例，如今 Stille 将其数据...](https://t.me/aboutrss/922)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
