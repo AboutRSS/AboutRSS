@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼RSS 阅读器 #期待 限免中这是一则晚了半个月的推送。#iOS #RSS阅读器 #期待 #Angelia 自去年最后一天开启限免，持续一个月。发现于其官方群组：https://t.me...](https://t.me/aboutrss/932)
 - [🖼RECAST: 播客考古必备，生成从头推送旧节目的 Podcast Feed将一个 #播客 的 RSS Feed 填入 #RECAST ，Ta 就会生成一个新的 RSS Feed，从头开始推送该播客的...](https://t.me/aboutrss/931)
 - [🖼An Otter RSS 上架 App Store此前提及过的 #RSS阅读器 #AnOtterRSS 结束了 TestFlight ，支持 #iOS 和 #Mac 。🔸免费🔸通过 iCloud 同步🔸分析 url 以...](https://t.me/aboutrss/930)
 - [🖼「A collection of over 900 RSS feeds for web developers, updated monthly」一个 GitHub 上的 #开源 #OPML ，月更国外 Web 开发方面的 RSS Feeds ，且已...](https://t.me/aboutrss/929)
 - [🖼「一些干货」频道主理人的 YouTube 订阅源分享频道提及导出 #YouTube 订阅源为 #OPML 文件的 #UserScript 后，「一些干货」频道主理人在附属群组分享了 Ta ...](https://t.me/aboutrss/928)
-- [🖼支持 #Windows 和 #Mac 的 #RSS阅读器 ：Dinosaur RSS#DinosaurRSS 是去年底发布的 #开源 两栏式 RSS 订阅客户端，100 个订阅 feed 的限制可通过捐赠解锁。h...](https://t.me/aboutrss/927)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
