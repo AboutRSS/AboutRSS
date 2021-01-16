@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Inoreader 国内使用的小技巧1️⃣ #Inoreader 访问设置站： https://makemenotme.ga/发现于「一些干货」频道主根据 https://reabble.cn/help 的整理：https:...](https://t.me/aboutrss/934)
 - [🖼Focus Reader 开发者发起新功能调查2021年，#RSS阅读器 #App #FocusReader 将开启付费用户模式，开发者因此发布问卷，摸底大家最想要的功能：https://jinshu...](https://t.me/aboutrss/933)
 - [🖼RSS 阅读器 #期待 限免中这是一则晚了半个月的推送。#iOS #RSS阅读器 #期待 #Angelia 自去年最后一天开启限免，持续一个月。发现于其官方群组：https://t.me...](https://t.me/aboutrss/932)
 - [🖼RECAST: 播客考古必备，生成从头推送旧节目的 Podcast Feed将一个 #播客 的 RSS Feed 填入 #RECAST ，Ta 就会生成一个新的 RSS Feed，从头开始推送该播客的...](https://t.me/aboutrss/931)
 - [🖼An Otter RSS 上架 App Store此前提及过的 #RSS阅读器 #AnOtterRSS 结束了 TestFlight ，支持 #iOS 和 #Mac 。🔸免费🔸通过 iCloud 同步🔸分析 url 以...](https://t.me/aboutrss/930)
-- [🖼「A collection of over 900 RSS feeds for web developers, updated monthly」一个 GitHub 上的 #开源 #OPML ，月更国外 Web 开发方面的 RSS Feeds ，且已...](https://t.me/aboutrss/929)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
