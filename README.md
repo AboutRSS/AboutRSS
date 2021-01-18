@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼RSS Maker : 公共 RSS 订阅源「RSS Maker 是一项公益服务，旨在提供快速、稳定、优质的订阅源。」https://rss.mk/发现于https://www.v2ex.com/t/738335此前...](https://t.me/aboutrss/936)
 - [🖼RSS #玩家 #心得 两则1️⃣ 「RSS 訂閱 Blogger 教學」 #教程http://gundambox.github.io/2021/01/11/RSS-%E8%A8%82%E9%96%B1-Blogger-%E6%95%99%E5%AD%B8/2...](https://t.me/aboutrss/935)
 - [🖼Inoreader 国内使用的小技巧1️⃣ #Inoreader 访问设置站： https://makemenotme.ga/发现于「一些干货」频道主根据 https://reabble.cn/help 的整理：https:...](https://t.me/aboutrss/934)
 - [🖼Focus Reader 开发者发起新功能调查2021年，#RSS阅读器 #App #FocusReader 将开启付费用户模式，开发者因此发布问卷，摸底大家最想要的功能：https://jinshu...](https://t.me/aboutrss/933)
 - [🖼RSS 阅读器 #期待 限免中这是一则晚了半个月的推送。#iOS #RSS阅读器 #期待 #Angelia 自去年最后一天开启限免，持续一个月。发现于其官方群组：https://t.me...](https://t.me/aboutrss/932)
-- [🖼RECAST: 播客考古必备，生成从头推送旧节目的 Podcast Feed将一个 #播客 的 RSS Feed 填入 #RECAST ，Ta 就会生成一个新的 RSS Feed，从头开始推送该播客的...](https://t.me/aboutrss/931)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
