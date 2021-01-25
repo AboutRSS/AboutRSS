@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼知微 ： RSS+ 作者开发的安卓 RSS 阅读器RSS+ 是用于显示当前网站所有 RSS 的 #UserScript ，自18年迭代至今：https://greasyfork.org/scripts/373252其作者...](https://t.me/aboutrss/943)
 - [🖼#iOS / iPadOS RSS 阅读器 #APP : #Pindoo RSS中文名是「品读」 #RSS阅读器 ：🔸全文获取并离线阅读🔸汉字排版框架🔸暗色模式🔸公式支持🔸OPML出...](https://t.me/aboutrss/942)
 - [🖼「The Story of the First Podcast Feed」RSS 原本是只服务链接和文字的，当时为什么要往支持音频文件方向扩展呢？这篇 #Podnews 的文章讲述了这一段历史。h...](https://t.me/aboutrss/941)
 - [🖼ReadDig : 一款线上三栏 RSS 阅读器开发者自用 #RSS阅读器 #ReadDig ：🔸JSONFeed 和 RSS🔸OPML出入🔸Podcast 支持🔸PWA 支持🔸所有添加的源公开h...](https://t.me/aboutrss/940)
 - [🖼ReadKit 发布了 iOS / iPadOS 版 App#RSS阅读器 #ReadKit for #Mac 发布于 2013 年，时隔 8 年， Ta 家终于出了 ReadKit for #iOS and iPadOS ，标价 25 人...](https://t.me/aboutrss/939)
+- [🖼预言 2021 : 「Return of the RSS reader」哈佛大学尼曼新闻基金会旗下 NiemanLab 每年会邀请新闻和媒体界的知名人士对接下来一年发表一些预测性的看法，其...](https://t.me/aboutrss/938)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
