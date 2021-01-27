@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼将电报上的文本生成为 RSS Feed 的方法接频道 「🇸 🇺 🌎 🇳 🇪 🇹 奇點大學」道长之一 NKX喵喵叫🐱 的投稿， Ta 分享了自己在 #电报 上实现 ...](https://t.me/aboutrss/946)
 - [🖼一键在 #Heroku 上部署 #RSS阅读器 Miniflux接推友 sayo melu 投稿：https://twitter.com/sayomelu/status/1352981374861361154Ta 分享了自己的 Repo 「hero...](https://t.me/aboutrss/945)
 - [🖼「时光网」取消 RSS 支持虽然网页源代码上还是有以下这几行：<link rel="alternate" type="application/rss+xml" title="影评" href="http://feed.mtime.com...](https://t.me/aboutrss/944)
 - [🖼知微 ： RSS+ 作者开发的安卓 RSS 阅读器RSS+ 是用于显示当前网站所有 RSS 的 #UserScript ，自18年迭代至今：https://greasyfork.org/scripts/373252其作者...](https://t.me/aboutrss/943)
 - [🖼#iOS / iPadOS RSS 阅读器 #APP : #Pindoo RSS中文名是「品读」 #RSS阅读器 ：🔸全文获取并离线阅读🔸汉字排版框架🔸暗色模式🔸公式支持🔸OPML出...](https://t.me/aboutrss/942)
-- [🖼「The Story of the First Podcast Feed」RSS 原本是只服务链接和文字的，当时为什么要往支持音频文件方向扩展呢？这篇 #Podnews 的文章讲述了这一段历史。h...](https://t.me/aboutrss/941)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
