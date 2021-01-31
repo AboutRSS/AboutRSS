@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「添加多方 RSS 服务且支持订阅Twitter、Reddit，#NetNewsWire 6 测试版抢先体验」https://sspai.com/post/64851#RSS阅读器](https://t.me/aboutrss/951)
 - [🖼RSS #玩家 #心得 两则1️⃣ 「知道RSS的人越少，我就越希望它能被人知道！」https://mp.weixin.qq.com/s/fUOj5cU7bVRMPdBwHXlUVA2️⃣ 「2021年里的一位RSS...](https://t.me/aboutrss/950)
 - [🖼Fluent Reader 推出移动 RSS 客户端 Fluent Reader Lite8天前，作者在 V2EX 发帖宣传了测试期的 #开源 移动端 #RSS阅读器 #FluentReaderLite ：https://www....](https://t.me/aboutrss/949)
 - [🖼An Otter RSS 作者 Josh Holtz 做客 #播客 「AppForce1: news and info for iOS app developers」https://www.buzzsprout.com/1414396/7178059发现于https:/...](https://t.me/aboutrss/948)
 - [🖼一个覆盖 Information Security News 的 OPML来自专长于网络安全的博主 Secribee：https://securib.ee/beelog/information-security-news-resources/订阅 Ta...](https://t.me/aboutrss/947)
-- [🖼将电报上的文本生成为 RSS Feed 的方法接频道 「🇸 🇺 🌎 🇳 🇪 🇹 奇點大學」道长之一 NKX喵喵叫🐱 的投稿， Ta 分享了自己在 #电报 上实现 ...](https://t.me/aboutrss/946)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
