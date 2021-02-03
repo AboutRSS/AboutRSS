@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#资源 ：iOS 开发博客聚合「The iOS Dev Directory is a comprehensive list of blogs & sites covering iOS development.」https://iosdevdirectory.com/#...](https://t.me/aboutrss/954)
 - [🖼「微信公众号 RSS 订阅源烧录教程」频道介绍过的 #微信 #公众号 RSS订阅源分享站 WeChatRSS.com 已停更，但作者分享了其基于 #RSSHub 的 公众号 Feed 制作 #...](https://t.me/aboutrss/953)
 - [🖼synk.info : 一个在线 RSS 内容过滤服务https://synk.info/可添加多个 Feed 同时 #filter 。除关键词外，过滤参数还可设置时间，比如在过去 X 天内的内容进...](https://t.me/aboutrss/952)
 - [🖼「添加多方 RSS 服务且支持订阅Twitter、Reddit，#NetNewsWire 6 测试版抢先体验」https://sspai.com/post/64851#RSS阅读器](https://t.me/aboutrss/951)
 - [🖼RSS #玩家 #心得 两则1️⃣ 「知道RSS的人越少，我就越希望它能被人知道！」https://mp.weixin.qq.com/s/fUOj5cU7bVRMPdBwHXlUVA2️⃣ 「2021年里的一位RSS...](https://t.me/aboutrss/950)
-- [🖼Fluent Reader 推出移动 RSS 客户端 Fluent Reader Lite8天前，作者在 V2EX 发帖宣传了测试期的 #开源 移动端 #RSS阅读器 #FluentReaderLite ：https://www....](https://t.me/aboutrss/949)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
