@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「使用 Actionsflow 在 #GitHub 上免费部署 RSSHub」什么是 #Actionsflow ？请参见作者的另一篇「 Actionsflow 介绍 - 可以一键部署在 #GitHub上 的 IFTTT /...](https://t.me/aboutrss/956)
 - [🖼「使用 #Docker 部署 #FreshRSS 自建专属 RSS 服务」曾经为 TTRSS 和 RSSHub 写过教程的博主 ChrAlpha 再次带来新的 #教程 ：https://blog.ichr.me/post/doc...](https://t.me/aboutrss/955)
 - [🖼#资源 ：iOS 开发博客聚合「The iOS Dev Directory is a comprehensive list of blogs & sites covering iOS development.」https://iosdevdirectory.com/#...](https://t.me/aboutrss/954)
 - [🖼「微信公众号 RSS 订阅源烧录教程」频道介绍过的 #微信 #公众号 RSS订阅源分享站 WeChatRSS.com 已停更，但作者分享了其基于 #RSSHub 的 公众号 Feed 制作 #...](https://t.me/aboutrss/953)
 - [🖼synk.info : 一个在线 RSS 内容过滤服务https://synk.info/可添加多个 Feed 同时 #filter 。除关键词外，过滤参数还可设置时间，比如在过去 X 天内的内容进...](https://t.me/aboutrss/952)
-- [🖼「添加多方 RSS 服务且支持订阅Twitter、Reddit，#NetNewsWire 6 测试版抢先体验」https://sspai.com/post/64851#RSS阅读器](https://t.me/aboutrss/951)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
