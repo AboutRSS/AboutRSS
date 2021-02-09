@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#Android #RSS阅读器 #App gReader 回归频道此前提及过这款安卓阅读器。时隔4年，昨日更新到了 v5 版，版本号到了 5.0.3 。详见 「中断更新 4 年后，RSS 阅...](https://t.me/aboutrss/958)
 - [🖼RSS #玩家 #心得 #观点 三则1️⃣「Why I Still Use RSS」https://atthis.link/blog/2021/rss.html2️⃣「RSS: The Rise and Fall... and Rise Again」https...](https://t.me/aboutrss/957)
 - [🖼「使用 Actionsflow 在 #GitHub 上免费部署 RSSHub」什么是 #Actionsflow ？请参见作者的另一篇「 Actionsflow 介绍 - 可以一键部署在 #GitHub 上 的 IFTTT ...](https://t.me/aboutrss/956)
 - [🖼「使用 #Docker 部署 #FreshRSS 自建专属 RSS 服务」曾经为 TTRSS 和 RSSHub 写过教程的博主 ChrAlpha 再次带来新的 #教程 ：https://blog.ichr.me/post/doc...](https://t.me/aboutrss/955)
 - [🖼#资源 ：iOS 开发博客聚合「The iOS Dev Directory is a comprehensive list of blogs & sites covering iOS development.」https://iosdevdirectory.com/#...](https://t.me/aboutrss/954)
-- [🖼「微信公众号 RSS 订阅源烧录教程」频道介绍过的 #微信 #公众号 RSS订阅源分享站 WeChatRSS.com 已停更，但作者分享了其基于 #RSSHub 的 公众号 Feed 制作 #...](https://t.me/aboutrss/953)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
