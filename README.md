@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Indie Hackers 的非官方订阅源 #资源https://feed.indiehackers.world/发现于https://twitter.com/pyoner/status/1361576760735850496](https://t.me/aboutrss/961)
 - [🖼「在 #群晖 上部署全功能 RSS 订阅托管服务：实现基于 #FreshRSS 自部署和多端访问」https://sspai.com/post/65074 #教程](https://t.me/aboutrss/960)
 - [🖼内群抽奖进行中 「蚁阅」超级兑换码 3枚在 V2EX 上看到 #RSS阅读器「蚁阅」的开发者在发码：https://www.v2ex.com/t/752795所以我去要来了 3 枚时长 10 年的...](https://t.me/aboutrss/959)
 - [🖼#Android #RSS阅读器 #App gReader 回归频道此前提及过这款安卓阅读器。时隔4年，昨日更新到了 v5 版，版本号到了 5.0.3 。详见 「中断更新 4 年后，RSS 阅...](https://t.me/aboutrss/958)
 - [🖼RSS #玩家 #心得 #观点 三则1️⃣「Why I Still Use RSS」https://atthis.link/blog/2021/rss.html2️⃣「RSS: The Rise and Fall... and Rise Again」https...](https://t.me/aboutrss/957)
-- [🖼「使用 Actionsflow 在 #GitHub 上免费部署 RSSHub」什么是 #Actionsflow ？请参见作者的另一篇「 Actionsflow 介绍 - 可以一键部署在 #GitHub 上 的 IFTTT ...](https://t.me/aboutrss/956)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
