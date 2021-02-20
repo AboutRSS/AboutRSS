@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼增加 XML 易读性的一套 XLS 模板此前 Typlog 站长为了增加 RSS Feed 的易用性，用 XSL 美化 XML。现在 AboutFeeds 站长在其基础上发布了 XSL 模板，供大家直...](https://t.me/aboutrss/965)
 - [🖼#教程 「How to Add an RSS Feed to Your #Gatsby Site」https://meganesulli.com/blog/gatsby-rss-feed作者用图解释 RSS 的另一篇文章：https://meganesull...](https://t.me/aboutrss/964)
 - [🖼后续： 「We spoke to the developer behind gReader, and here's what's happening」#gReader 开发者将买断制切换为订阅制是为了平衡收支。以前的 Pro 用户...](https://t.me/aboutrss/963)
 - [🖼#教程 「仅在 localhost 中部署并使用 #RSSHub 」Blogger ChrAlpha 的新作：https://blog.ichr.me/post/localhost-docker-rsshub/发现于其推文：https://twi...](https://t.me/aboutrss/962)
 - [🖼Indie Hackers 的非官方订阅源 #资源https://feed.indiehackers.world/发现于https://twitter.com/pyoner/status/1361576760735850496](https://t.me/aboutrss/961)
-- [🖼「在 #群晖 上部署全功能 RSS 订阅托管服务：实现基于 #FreshRSS 自部署和多端访问」https://sspai.com/post/65074 #教程](https://t.me/aboutrss/960)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
