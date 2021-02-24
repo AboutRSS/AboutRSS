@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「将网页都转变成有声 #播客 ：Audiblogs」#Audiblogs 是一个 Chrome #浏览器扩展 ，可将收录的网页进行 Text-To-Speech 并配以私人 Podcast Feed URL 。支...](https://t.me/aboutrss/969)
 - [🖼#止阅 : 一款微信小程序 #RSS阅读器开发者写的介绍在此：https://mp.weixin.qq.com/s/1PNLyA7IQtEQ8m8iE6MiRg15个订阅限制，可选择是否公开添加进的 Feed 。...](https://t.me/aboutrss/968)
 - [🖼Bookfeed.io : 为书籍作者生成新书提醒的 RSS Feedhttps://bookfeed.io/开发者介绍 #Bookfeed 是基于 Google Books’ APIs 来获取作者新书信息：http://igno...](https://t.me/aboutrss/967)
 - [🖼RSS #玩家 #心得 四则1️⃣「 #Mailbrew - 像 RSS，但是更好」by 海岛心heyhttps://fehey.com/mailbrew/2️⃣「 #蚁阅 ：一款清新的开源网页RSS阅读器」 by ...](https://t.me/aboutrss/966)
 - [🖼增加 XML 易读性的一套 XSL 模板此前 Typlog 站长为了增加 RSS Feed 的易用性，用 XSL 美化 XML。现在 AboutFeeds 站长在其基础上发布了 XSL 模板，供大家直...](https://t.me/aboutrss/965)
-- [🖼#教程 「How to Add an RSS Feed to Your #Gatsby Site」https://meganesulli.com/blog/gatsby-rss-feed作者用图解释 RSS 的另一篇文章：https://meganesull...](https://t.me/aboutrss/964)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
