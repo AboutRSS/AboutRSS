@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼kalaksi : A new social network for a more open internet, based on syndicated feeds不少人试图构建一个基于 RSS feed 的社交网络。比如，频道提及过的 R...](https://t.me/aboutrss/975)
 - [🖼#tips ：用 Bing / Yahoo / DuckDuckGo 搜出含关键词的 RSS feed搜索语法是 “feed: {关键词}”，比如“feed: all about rss”。发现于https://www.reddit.c...](https://t.me/aboutrss/974)
 - [🖼#开源 项目 #GARSS （Github Actions RSS）https://zhaoolee.com/garss/本质上是用 #GitHub Actions 做的 RSS 头条页。开发者介绍如下：「《嘎!RSS》如何零...](https://t.me/aboutrss/973)
 - [🖼#RSS阅读器 #Feeder #Android / #iOS #App 大更新详见官博：「Our biggest app release so far」https://feeder.co/blog/732-our-biggest-app-release-so-fa...](https://t.me/aboutrss/972)
 - [🖼Ark View : 一款免费 #Windows #UWP 本地 #RSS阅读器🔸支持中文的 #TTS🔸Fluent Design🔸两个内购：去广告、阅读器上锁：输入密码方可进入阅读器https...](https://t.me/aboutrss/971)
-- [🖼RSS阅读器 Nooshub 推出 iOS App#Nooshub 是订阅制的线上 #RSS阅读器 ，这次因为只有 #App 才能实现后台持续播放，所以推出了#iOS 版：https://apps.apple.c...](https://t.me/aboutrss/970)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
