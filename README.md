@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「如何聚合订阅好友的微博/推特/即刻动态？」 by XDash增长黑客周刊的 20210301 期介绍了利用 RSSHub / Inoreader / RSSMixer / Mailchimp 将好友动态打包定...](https://t.me/aboutrss/979)
 - [🖼「借助 Integromat 在 #Telegram 上接收 #Inoreader 的文章推送」接频道读者投稿，分享一篇使用工作流自动化工具 #Integromat 打通信息流转的 #教程 ，十分...](https://t.me/aboutrss/978)
 - [🖼「C-LX RSS 一个简单 PHP 版本 Feed 订阅聚合平台【汉化版】」C-LX RSS 是一款基于 PHP / SQLite 的需自架型 #RSS阅读器 ：https://github.com/timovn/C-LX-...](https://t.me/aboutrss/977)
 - [🖼「Brook is a simple RSS Feed management extension for #Firefox 」#Brook Feed Reader 是一款 #开源 的、基于火狐 #浏览器扩展 的 #RSS阅读器 ：https://...](https://t.me/aboutrss/976)
 - [🖼kalaksi : A new social network for a more open internet, based on syndicated feeds不少人试图构建一个基于 RSS feed 的社交网络。比如，频道提及过的 R...](https://t.me/aboutrss/975)
-- [🖼#tips ：用 Bing / Yahoo / DuckDuckGo 搜出含关键词的 RSS feed搜索语法是 “feed: {关键词}”，比如“feed: all about rss”。发现于https://www.reddit.c...](https://t.me/aboutrss/974)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
