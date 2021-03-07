@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Android #开源 #RSS阅读器 Flym News Reader 停止官方维护#Flym 是长青应用，自 2013 年迭代至今，积累了一批用户。开发者近日已将 Repo 归档，并解释了原因...](https://t.me/aboutrss/981)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣「利用Telegram订阅RSS」 by 橙小张的博客https://blog.sailfishc.cn/posts/2020/06/%E5%88%A9%E7%94%A8telegram%E8%AE%A2%E...](https://t.me/aboutrss/980)
 - [🖼「如何聚合订阅好友的微博/推特/即刻动态？」 by XDash增长黑客周刊的 20210301 期介绍了利用 RSSHub / Inoreader / RSSMixer / Mailchimp 将好友动态打包定...](https://t.me/aboutrss/979)
 - [🖼「借助 Integromat 在 #Telegram 上接收 #Inoreader 的文章推送」接频道读者投稿，分享一篇使用工作流自动化工具 #Integromat 打通信息流转的 #教程 ，十分...](https://t.me/aboutrss/978)
 - [🖼「C-LX RSS 一个简单 PHP 版本 Feed 订阅聚合平台【汉化版】」C-LX RSS 是一款基于 PHP / SQLite 的需自架型 #RSS阅读器 ：https://github.com/timovn/C-LX-...](https://t.me/aboutrss/977)
-- [🖼「Brook is a simple RSS Feed management extension for #Firefox 」#Brook Feed Reader 是一款 #开源 的、基于火狐 #浏览器扩展 的 #RSS阅读器 ：https://...](https://t.me/aboutrss/976)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
