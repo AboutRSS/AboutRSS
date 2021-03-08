@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#bilibili 「独特的信息获取方式之 Miniflux + RSSHub」今晨的推送之后，收到读者投稿，分享了搭建 #Miniflux 和 #RSSHub 的视频 #教程 ，十分感谢：https:/...](https://t.me/aboutrss/983)
 - [🖼「打造你独享的 RSS 阅读环境 —— RSSHub 与 Miniflux 自建指南」https://qufy.me/post/%E6%89%93%E9%80%A0%E4%BD%A0%E7%8B%AC%E4%BA%AB%E7%9A%84-rss-%E9%...](https://t.me/aboutrss/982)
 - [🖼Android #开源 #RSS阅读器 Flym News Reader 停止官方维护#Flym 是长青应用，自 2013 年迭代至今，积累了一批用户。开发者近日已将 Repo 归档，并解释了原因...](https://t.me/aboutrss/981)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣「利用Telegram订阅RSS」 by 橙小张的博客https://blog.sailfishc.cn/posts/2020/06/%E5%88%A9%E7%94%A8telegram%E8%AE%A2%E...](https://t.me/aboutrss/980)
 - [🖼「如何聚合订阅好友的微博/推特/即刻动态？」 by XDash增长黑客周刊的 20210301 期介绍了利用 RSSHub / Inoreader / RSSMixer / Mailchimp 将好友动态打包定...](https://t.me/aboutrss/979)
-- [🖼「借助 Integromat 在 #Telegram 上接收 #Inoreader 的文章推送」接频道读者投稿，分享一篇使用工作流自动化工具 #Integromat 打通信息流转的 #教程 ，十分...](https://t.me/aboutrss/978)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
