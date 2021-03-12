@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Revue: 支持从 RSS 导入内容的 Newsletter 平台#Newsletter 平台 #Revue 今年年初刚被 Twitter 收购 ， Ta 家亦支持 #RSS2Newsletter ：http://help.getrevu...](https://t.me/aboutrss/989)
 - [🖼「How to Use Microsoft Outlook as an RSS Feed Reader」此前推送过一篇用 #Outlook 客户端作 #RSS阅读器 的简介，这次来个图文版：https://www.howtogeek....](https://t.me/aboutrss/988)
 - [🖼#资源 ：#Reuters RSS feeds by Feed Creator of fivefilters去年路透社官方 RSS Feed 停止后，人们先是用 #GoogleNews 为其生成了 RSS Feed。这次， #fivef...](https://t.me/aboutrss/987)
 - [🖼「How to move your blog to #WordPress using RSS」https://www.fivefilters.org/2021/how-to-move-your-blog-to-wordpress-using-rss/#FiveFilters 官博出...](https://t.me/aboutrss/986)
 - [🖼借助电报 InstantViewBot 备份 Feed 内容到 Telegraph能够抓取 Feed 内容到 #Telegraph 的电报 RSS Bot #flowerss 曾经是不少人的心头好，因为 Telegraph 支...](https://t.me/aboutrss/985)
-- [🖼Elfeed Emacs Web Feed Reader频道介绍过在 #Emacs 上阅读 RSS ，#Elfeed 是另一个选择。当下其 GitHub Repo 星数刚好 999 。近日一位博主刚好介绍了其使用 ...](https://t.me/aboutrss/984)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
