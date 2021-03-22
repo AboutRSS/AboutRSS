@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「Set up a cronjob for FreshRSS automatic update」设置 #FreshRSS 自动更新的一个 #教程 ：https://www.selectallfromdual.com/blog/en/35024官方其实也...](https://t.me/aboutrss/995)
 - [🖼本周 RSS 玩家 #心得 分享「 浅谈折腾过的开源 RSS 订阅器」 https://www.boyhu.cn/share/on-the-tossed-open-source-rss-subscriber.html「群晖自建比 Tiny...](https://t.me/aboutrss/994)
 - [🖼「How to create an RSS reader using SharePoint news」Microsoft #SharePoint 是微软出品的团队协作软件，集成在 Office 365 企业版中。这篇 #教程 介绍了...](https://t.me/aboutrss/993)
 - [🖼Stupid RSS Reader： #开源 #PWA RSS 阅读器频道提及过几个 Progressive Web App 的 #RSS阅读器 ，Stupid RSS 是新发现的一个：https://gurov.github.io/stu...](https://t.me/aboutrss/992)
 - [🖼Backfeed – the memorable feed processor#Backfeed 的功能是借助 Archive.org 将 feed 的历史 items 恢复出来，需要先向开发者申请 Access Key ：http://b...](https://t.me/aboutrss/991)
-- [🖼本周 RSS #玩家 #心得 分享「 RSS 服务/阅读器不完全对比」 by KABOOMhttps://kaboom.net/blog/rss-comparison/作者用一两句话评述了其体验过的 9 家 #RSS阅...](https://t.me/aboutrss/990)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
