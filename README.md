@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼最近一些支持自带 RSS / Atom Feed 的 #博客 平台或生成器🔸 #Nobelium ：https://github.com/craigary/nobelium用 #Notion 写博客，#开源 需自架；Newlea...](https://t.me/aboutrss/999)
 - [🖼#RSS阅读器 #NetNewsWire 6.0 for #Mac 发布https://nnw.ranchero.com/2021/03/27/netnewswire-for-mac.htmlNNW 6 的亮点在于支持多方同步和订阅两家社媒，...](https://t.me/aboutrss/998)
 - [🖼Socialife ： 索尼大法家的 #RSS阅读器 #App 仍在更新#Win 版的 #Socialife 受地域限制而无法安装，至少可以尝试下 #Android 版本。全称是 News Siute by So...](https://t.me/aboutrss/997)
 - [🖼「How to Send RSS Feeds to a #Slack Channel / a #MicrosoftTeams Channel」此前推送过一篇使用 Outlook 作为 RSS 阅读器的 #教程，原来作者还有两篇，可...](https://t.me/aboutrss/996)
 - [🖼「Set up a cronjob for FreshRSS automatic update」设置 #FreshRSS 自动更新的一个 #教程 ：https://www.selectallfromdual.com/blog/en/35024官方其实也...](https://t.me/aboutrss/995)
-- [🖼本周 RSS 玩家 #心得 分享「 浅谈折腾过的开源 RSS 订阅器」 https://www.boyhu.cn/share/on-the-tossed-open-source-rss-subscriber.html「群晖自建比 Tiny...](https://t.me/aboutrss/994)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
