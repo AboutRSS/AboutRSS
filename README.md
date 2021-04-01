@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [📹Stories Now : 颜控的 App —— Ins 风 RSS 阅读器#RSS阅读器 的世界五花八门，有侧重版式布局的，有专注标题快览的。今天介绍的 #StoriesNow （#iOS / #And...](https://t.me/aboutrss/1002)
 - [🖼Rest In Peace Google Reader一个致力于消解 Google 影响力、呼吁拥抱开放网络的组织建立了一个悼念 #GoogleReader 的网站：https://www.ripgooglereader.co...](https://t.me/aboutrss/1001)
 - [🖼线上 RSS 阅读器 GoodNews#GoodNews 也是历史悠久的线上 #RSS阅读器 了：🔸12 种排版🔸内置推荐 RSS 源🔹有广告https://goodnews.click/](https://t.me/aboutrss/1000)
 - [🖼最近一些支持自带 RSS / Atom Feed 的 #博客 平台或生成器🔸 #Nobelium ：https://github.com/craigary/nobelium用 #Notion 写博客，#开源 需自架；Newlea...](https://t.me/aboutrss/999)
 - [🖼#RSS阅读器 #NetNewsWire 6.0 for #Mac 发布https://nnw.ranchero.com/2021/03/27/netnewswire-for-mac.htmlNNW 6 的亮点在于支持多方同步和订阅两家社媒，...](https://t.me/aboutrss/998)
-- [🖼Socialife ： 索尼大法家的 #RSS阅读器 #App 仍在更新#Win 版的 #Socialife 受地域限制而无法安装，至少可以尝试下 #Android 版本。全称是 News Siute by So...](https://t.me/aboutrss/997)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
