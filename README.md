@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Brave Today 新增 RSS 订阅功能Brave 是注重隐私并开源的浏览器，Brave Today 是其集成的新闻阅读器。 Brave #iOS #App 新增支持用 Brave Today 订阅 RSS Fe...](https://t.me/aboutrss/1006)
 - [🖼「How to turn a webpage into an RSS feed using Feed Creator」Part 1️⃣：https://www.fivefilters.org/2021/how-to-turn-a-webpage-into-an-rss-feed/P...](https://t.me/aboutrss/1005)
 - [🖼本周 RSS #玩家 #心得1️⃣ 「 FreshRSS + RSSHub : 解决被新闻看的问题」 by 恰同学三文鱼https://sspai.com/post/656932️⃣ 「Why Have Blog Audiences D...](https://t.me/aboutrss/1004)
 - [🖼RSSBud 和 Ego Reader 的新功能：RSS 探测1️⃣ #iOS 上的 RSSHub Radar —— #RSSBud —— 新增检测网页中 RSS 源的功能。终于可以检测除 RSSHub 路由外的 ...](https://t.me/aboutrss/1003)
 - [📹Stories Now : 颜控的 App —— Ins 风 RSS 阅读器#RSS阅读器 的世界五花八门，有侧重版式布局的，有专注标题快览的。今天介绍的 #StoriesNow （#iOS / #And...](https://t.me/aboutrss/1002)
-- [🖼Rest In Peace Google Reader一个致力于消解 Google 影响力、呼吁拥抱开放网络的组织建立了一个悼念 #GoogleReader 的网站：https://www.ripgooglereader.co...](https://t.me/aboutrss/1001)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
