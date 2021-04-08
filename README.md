@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼「 NewsFlash : 一款支持 Feedly 的现代开源 Feed 阅读器」https://linux.cn/article-13264-1.html来自于 Linux中国 的一篇译文，介绍频道提及过的 #RSS阅读...](https://t.me/aboutrss/1008)
 - [🖼Unvisited.io ：付费线上 #RSS阅读器#Unvisited 是付费服务（每月 5 加元），功能有：🔸给 Feed 打标签🔸集成稍后读🔸两种布局：正文单栏、标题多栏�...](https://t.me/aboutrss/1007)
 - [🖼Brave Today 新增 RSS 订阅功能Brave 是注重隐私并开源的浏览器，Brave Today 是其集成的新闻阅读器。 Brave #iOS #App 新增支持用 Brave Today 订阅 RSS Fe...](https://t.me/aboutrss/1006)
 - [🖼「How to turn a webpage into an RSS feed using Feed Creator」Part 1️⃣：https://www.fivefilters.org/2021/how-to-turn-a-webpage-into-an-rss-feed/P...](https://t.me/aboutrss/1005)
 - [🖼本周 RSS #玩家 #心得1️⃣ 「 FreshRSS + RSSHub : 解决被新闻看的问题」 by 恰同学三文鱼https://sspai.com/post/656932️⃣ 「Why Have Blog Audiences D...](https://t.me/aboutrss/1004)
+- [🖼RSSBud 和 Ego Reader 的新功能：RSS 探测1️⃣ #iOS 上的 RSSHub Radar —— #RSSBud —— 新增检测网页中 RSS 源的功能。终于可以检测除 RSSHub 路由外的 ...](https://t.me/aboutrss/1003)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
