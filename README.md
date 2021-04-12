@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「Automated morning music with #Pipedream , #Huginn, and #Mailbrew 」 by Magnus Skoghttps://www.mskog.com/posts/automated-morning-music-with-piped...](https://t.me/aboutrss/1010)
 - [🖼两个 #Telegram RSS 机器人项目群友分享了两个其发现的 #电报 RSS #Bot #开源 项目：1️⃣ #RobotRSS ： https://github.com/cbrgm/telegram-robot-rss2️⃣...](https://t.me/aboutrss/1009)
 - [🖼「 NewsFlash : 一款支持 Feedly 的现代开源 Feed 阅读器」https://linux.cn/article-13264-1.html来自于 Linux中国 的一篇译文，介绍频道提及过的 #RSS阅读...](https://t.me/aboutrss/1008)
 - [🖼Unvisited.io ：付费线上 #RSS阅读器#Unvisited 是付费服务（每月 5 加元），功能有：🔸给 Feed 打标签🔸集成稍后读🔸两种布局：正文单栏、标题多栏�...](https://t.me/aboutrss/1007)
 - [🖼Brave Today 新增 RSS 订阅功能Brave 是注重隐私并开源的浏览器，Brave Today 是其集成的新闻阅读器。 Brave #iOS #App 新增支持用 Brave Today 订阅 RSS Fe...](https://t.me/aboutrss/1006)
-- [🖼「How to turn a webpage into an RSS feed using Feed Creator」Part 1️⃣：https://www.fivefilters.org/2021/how-to-turn-a-webpage-into-an-rss-feed/P...](https://t.me/aboutrss/1005)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
