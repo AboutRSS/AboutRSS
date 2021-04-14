@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼osmos::feed - 用 #GitHub 作 RSS 订阅页和以前提及的 GARSS 差不多，也是在 Repo 用 GitHub Pages 搭配 Actions 撸 Feed 并更新静态页面。https://github.c...](https://t.me/aboutrss/1012)
 - [🖼The RSS endpoint #Gist和本频道创建差不多的时候，另一位 RSS #玩家 也开始了 Ta 的 list 搜整之路，其思路是列出各平台的原生或第三方 RSS 地址规则：http...](https://t.me/aboutrss/1011)
 - [🖼「Automated morning music with #Pipedream , #Huginn, and #Mailbrew 」 by Magnus Skoghttps://www.mskog.com/posts/automated-morning-music-with-piped...](https://t.me/aboutrss/1010)
 - [🖼两个 #Telegram RSS 机器人项目群友分享了两个其发现的 #电报 RSS #Bot #开源 项目：1️⃣ #RobotRSS ： https://github.com/cbrgm/telegram-robot-rss2️⃣...](https://t.me/aboutrss/1009)
 - [🖼「 NewsFlash : 一款支持 Feedly 的现代开源 Feed 阅读器」https://linux.cn/article-13264-1.html来自于 Linux中国 的一篇译文，介绍频道提及过的 #RSS阅读...](https://t.me/aboutrss/1008)
-- [🖼Unvisited.io ：付费线上 #RSS阅读器#Unvisited 是付费服务（每月 5 加元），功能有：🔸给 Feed 打标签🔸集成稍后读🔸两种布局：正文单栏、标题多栏�...](https://t.me/aboutrss/1007)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
