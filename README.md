@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼Google: FeedBurner 即将迎来变更https://developers.google.com/search/blog/2021/04/changes-to-feedburner一些报道：1️⃣https://www.cnbeta.com/articl...](https://t.me/aboutrss/1013)
+- [🖼Google: #FeedBurner 即将迎来变更https://developers.google.com/search/blog/2021/04/changes-to-feedburner一些报道：1️⃣https://www.cnbeta.com/artic...](https://t.me/aboutrss/1013)
 - [🖼osmos::feed - 用 #GitHub 作 RSS 订阅页和以前提及的 GARSS 差不多，也是在 Repo 用 GitHub Pages 搭配 Actions 撸 Feed 并更新静态页面。https://github.c...](https://t.me/aboutrss/1012)
 - [🖼The RSS endpoint #Gist和本频道创建差不多的时候，另一位 RSS #玩家 也开始了 Ta 的 list 搜整之路，其思路是列出各平台的原生或第三方 RSS 地址规则：http...](https://t.me/aboutrss/1011)
 - [🖼「Automated morning music with #Pipedream , #Huginn, and #Mailbrew 」 by Magnus Skoghttps://www.mskog.com/posts/automated-morning-music-with-piped...](https://t.me/aboutrss/1010)
