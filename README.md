@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼Journalist : 一款 #MAC #Linux 等系统上的 CLI #RSS阅读器🔸 多平台支持 macOS, Linux, FreeBSD, NetBSD, OpenBSD & Plan9🔸 支持 #Fever API🔸 #开...](https://t.me/aboutrss/1015)
+- [🖼Journalist : 一款 #MAC #Linux 等系统上的 #RSS阅读器 客户端🔸 多平台支持 macOS, Linux, FreeBSD, NetBSD, OpenBSD & Plan9🔸 支持 #Fever API🔸 ...](https://t.me/aboutrss/1015)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣「 RSS Part 1: What is RSS and what are 'aggregators'?」https://onlyrss.org/posts/rss-part-1.html2️⃣「Use RSS feed...](https://t.me/aboutrss/1014)
 - [🖼Google: #FeedBurner 即将迎来变更https://developers.google.com/search/blog/2021/04/changes-to-feedburner一些报道：1️⃣https://www.cnbeta.com/artic...](https://t.me/aboutrss/1013)
 - [🖼osmos::feed - 用 #GitHub 作 RSS 订阅页和以前提及的 GARSS 差不多，也是在 Repo 用 GitHub Pages 搭配 Actions 撸 Feed 并更新静态页面。https://github.c...](https://t.me/aboutrss/1012)
