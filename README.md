@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Miniflux Indexer: 为 Miniflux 适配中文搜索的 #开源 工具#Miniflux Indexer 是一位推友兼频道读者的作品：https://github.com/QuantumGhost/miniflux-inde...](https://t.me/aboutrss/1022)
 - [🖼Pluma RSS Reader ： Android 上一个颜值和体验俱佳的 #RSS阅读器虽然 #Pluma 还未正是发布，但其体验版在安卓圈儿已足够惊艳。被推友评价为：“ #Android ...](https://t.me/aboutrss/1021)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣「我的 RSS 资源获取站点」https://sspai.com/post/661502️⃣「Generate a RSS Feed of recent files inside a Git reposit...](https://t.me/aboutrss/1020)
 - [🖼「'follow.it' A Great alternative to Google's Feedburner ? let us Know.」频道提及过 #FollowIt 这家服务。最近因 FeedBurner 有动作， Ta 家自然也不放...](https://t.me/aboutrss/1019)
 - [🖼feedo : Android 平台社媒 Feed 流订阅 + #RSS阅读器群友的 #电报 频道介绍了 #feedo ：「一个 #Android 端本地运行的资讯应用，使用原生 Material Design ...](https://t.me/aboutrss/1018)
-- [🖼Newsfeeder ： #开源 的 PWA 在线 RSS 阅读器「#Newsfeeder 是基于 PWA 实现的一款 #RSS阅读器，UI 界面采用了 Material Design 设计语言，同时支持导入/导...](https://t.me/aboutrss/1017)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
