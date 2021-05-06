@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「Net­NewsWire vs #Reed­er : Which RSS Read­er App Is Bet­ter on iPhone」https://www.guidingtech.com/netnewswire-vs-reeder-rss-reader-app-comp...](https://t.me/aboutrss/1026)
 - [🖼「Embed RSS Feeds into your Notion pages」一个 #开源 项目，使你能在 #Notion 页插入 RSS Feed 内容：https://notion-widget-rss.vercel.app/发现于https...](https://t.me/aboutrss/1025)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣「Ethan, the maker of 1Feed, shares some of the challenges he encountered when making 1Feed and how he tackled them....](https://t.me/aboutrss/1024)
 - [🖼「How to generate an RSS feed for your blog with #JavaScript and #Netlify functions」#教程 https://www.contentful.com/blog/2021/03/05/generate-blo...](https://t.me/aboutrss/1023)
 - [🖼Miniflux Indexer: 为 Miniflux 适配中文搜索的 #开源 工具#Miniflux Indexer 是一位推友兼频道读者的作品：https://github.com/QuantumGhost/miniflux-inde...](https://t.me/aboutrss/1022)
-- [🖼Pluma RSS Reader ： Android 上一个颜值和体验俱佳的 #RSS阅读器虽然 #Pluma 还未正是发布，但其体验版在安卓圈儿已足够惊艳。被推友评价为：“ #Android ...](https://t.me/aboutrss/1021)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
