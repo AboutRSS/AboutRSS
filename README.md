@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Readian News： 让你在主流新闻中不缺失个人兴趣点https://readian.io/#Readian News 是一款线上和 #Android 端的新闻阅读服务，集成 RSS 订阅功能以强化用...](https://t.me/aboutrss/1029)
 - [🖼「Google News RSS feeds」fivefilters 也出了一篇 Google News RSS feeds 的生成 #教程 ：https://www.fivefilters.org/2021/google-news-rss-feeds/](https://t.me/aboutrss/1028)
 - [🖼Pétrolette ：#开源 定制化多栏线上 RSS 订阅可定制化的多栏 #RSS阅读器 是不少 RSS 玩家的心头好。 Pétrolette 的可定制化程度还是挺高的：https://petro...](https://t.me/aboutrss/1027)
 - [🖼「Net­NewsWire vs #Reed­er : Which RSS Read­er App Is Bet­ter on iPhone」https://www.guidingtech.com/netnewswire-vs-reeder-rss-reader-app-comp...](https://t.me/aboutrss/1026)
 - [🖼「Embed RSS Feeds into your Notion pages」一个 #开源 项目，使你能在 #Notion 页插入 RSS Feed 内容：https://notion-widget-rss.vercel.app/发现于https...](https://t.me/aboutrss/1025)
-- [🖼本周 RSS #玩家 #心得 分享1️⃣「Ethan, the maker of 1Feed, shares some of the challenges he encountered when making 1Feed and how he tackled them....](https://t.me/aboutrss/1024)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
