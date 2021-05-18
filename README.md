@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「一个 V2EX RSS 的代理网址」 #资源「部署在 CloudFlare Workers，无需代理即可获取所有 #V2EX 的 RSS 内容」：https://tir.cool/detail/393.html发现于htt...](https://t.me/aboutrss/1033)
 - [🖼「Transform Notion into RSS reader with AWS Lambda and AWS CDK」上周 #Notion API (beta) 上线，这周立即有人利用 Notion database 和 Amazon Web Servi...](https://t.me/aboutrss/1032)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣ 「RSS feed for youtube channels and GitHub project」https://pawelgrzybek.com/rss-feed-for-youtube-channels-and-gith...](https://t.me/aboutrss/1031)
 - [🖼「RSS3 来了」四天前， #RSS3 发布了协议的第一个 alpha 版本：https://github.com/NaturalSelectionLabs/RSS3/blob/main/versions/v0.1.0-alpha.0.md昨天，...](https://t.me/aboutrss/1030)
 - [🖼Readian News： 让你在主流新闻中不缺失个人兴趣点https://readian.io/#Readian News 是一款线上和 #Android 端的新闻阅读服务，集成 RSS 订阅功能以强化用...](https://t.me/aboutrss/1029)
-- [🖼「Google News RSS feeds」fivefilters 也出了一篇 Google News RSS feeds 的生成 #教程 ：https://www.fivefilters.org/2021/google-news-rss-feeds/](https://t.me/aboutrss/1028)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
