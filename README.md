@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「使用 #Vercel 快速免费的部署 #RSSHub 」https://lcwhhh.blogspot.com/2021/05/vercelrsshub.html #教程](https://t.me/aboutrss/1038)
 - [🖼本周大小 RSS #玩家 #心得 #教程 分享1️⃣「Making Your RSS Feeds Automatically Discoverable」https://blog.jim-nielsen.com/2021/automatically-discov...](https://t.me/aboutrss/1037)
 - [🖼RSS3 团队直面社区圆桌会北京时间今天晚上 7:00 #RSS3 团队在 Twitter Spaces 上举办圆桌会介绍在 RSS3 设计背后的故事，讨论未来的发展，与社区互动。感兴...](https://t.me/aboutrss/1036)
 - [🖼「Epilogue: Flowreader is closing」13 年上线的 Google Reader 替代 —— #Flowreader —— 已关闭服务，现在首页跳转至其官博宣布关闭的日志：https://bl...](https://t.me/aboutrss/1035)
 - [🖼安卓 Canary 版  Chrome 浏览器将面向美国用户试验一项新功能：RSS 订阅🔸拥有 RSS Feed 的网站将在 Chrome 菜单多一个 Follow 按钮🔸新标签页将多一个...](https://t.me/aboutrss/1034)
-- [🖼「一个 V2EX RSS 的代理网址」 #资源「部署在 CloudFlare Workers，无需代理即可获取所有 #V2EX 的 RSS 内容」：https://tir.cool/detail/393.html发现于htt...](https://t.me/aboutrss/1033)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
