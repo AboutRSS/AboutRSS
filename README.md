@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Stream ： 极简免费 #iOS #RSS阅读器#Stream 特别简单，不支持 Feed 分类，仅适合一篇接一篇的休闲阅读。就像其名一样，是单纯的信息流：https://stream.hay...](https://t.me/aboutrss/1041)
 - [🖼「新手 #教程 ： #Nginx + #TTRSS + #RSSHub 整合 #docker 容器化快速一键部署方案」https://www.ioiox.com/archives/133.html来自 Stille 的日志，欢迎到 T...](https://t.me/aboutrss/1040)
 - [🖼Event RSS FeediCal 是苹果的日历数据交换标准，其有个 XML 格式版本叫 xCal ：https://datatracker.ietf.org/doc/html/rfc6321那么基于 XML 的 RSS 和 xCal...](https://t.me/aboutrss/1039)
 - [🖼「使用 #Vercel 快速免费的部署 #RSSHub 」https://lcwhhh.blogspot.com/2021/05/vercelrsshub.html #教程](https://t.me/aboutrss/1038)
 - [🖼本周大小 RSS #玩家 #心得 #教程 分享1️⃣「Making Your RSS Feeds Automatically Discoverable」https://blog.jim-nielsen.com/2021/automatically-discov...](https://t.me/aboutrss/1037)
-- [🖼RSS3 团队直面社区圆桌会北京时间今天晚上 7:00 #RSS3 团队在 Twitter Spaces 上举办圆桌会介绍在 RSS3 设计背后的故事，讨论未来的发展，与社区互动。感兴...](https://t.me/aboutrss/1036)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
