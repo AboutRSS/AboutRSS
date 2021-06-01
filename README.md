@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [📹flowerss 和 wechat-feeds 相结合接推友投稿， Ta 为 #开源 #电报 RSS 订阅机器人 #flowerss 集成了基于 wechat-feeds 的公众号订阅功能。👍可以用的镜像...](https://t.me/aboutrss/1044)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣ 「Using Feedly to generate post ideas」https://www.lexblog.com/2021/05/19/using-feedly-to-generate-post-ideas/2️⃣...](https://t.me/aboutrss/1043)
 - [🖼Apple 的开发者论坛为各 Tag 增配 RSS Feedhttps://developer.apple.com/news/?id=n33tv3lm发现于https://twitter.com/dezinezync/status/13977705104448880...](https://t.me/aboutrss/1042)
 - [🖼Stream ： 极简免费 #iOS #RSS阅读器#Stream 特别简单，不支持 Feed 分类，仅适合一篇接一篇的休闲阅读。就像其名一样，是单纯的信息流：https://stream.hay...](https://t.me/aboutrss/1041)
 - [🖼「新手 #教程 ： #Nginx + #TTRSS + #RSSHub 整合 #docker 容器化快速一键部署方案」https://www.ioiox.com/archives/133.html来自 Stille 的日志，欢迎到 T...](https://t.me/aboutrss/1040)
-- [🖼Event RSS FeediCal 是苹果的日历数据交换标准，其有个 XML 格式版本叫 xCal ：https://datatracker.ietf.org/doc/html/rfc6321那么基于 XML 的 RSS 和 xCal...](https://t.me/aboutrss/1039)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
