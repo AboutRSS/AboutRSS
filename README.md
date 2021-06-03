@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#ReadMark : #轻芒杂志 Pro 的海外版俊煜原话：「一款可以马克的 #RSS阅读器 」、「产品将和 Feedly、Inoreader 等在同一个领域竞争」：https://mp.weixin.q...](https://t.me/aboutrss/1046)
 - [🖼Catch ： #Mac 下衔接 RSS Feed 和 BitTorrent 客户端的软件Catch 用于订阅包含电视节目磁力下载链接的 RSS Feed （如 ShowRSS.info ），然后调取 BitTorren...](https://t.me/aboutrss/1045)
 - [📹flowerss 和 wechat-feeds 相结合接推友投稿， Ta 为 #开源 #电报 RSS 订阅机器人 #flowerss 集成了基于 wechat-feeds 的公众号订阅功能。👍可以用的镜像...](https://t.me/aboutrss/1044)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣ 「Using Feedly to generate post ideas」https://www.lexblog.com/2021/05/19/using-feedly-to-generate-post-ideas/2️⃣...](https://t.me/aboutrss/1043)
 - [🖼Apple 的开发者论坛为各 Tag 增配 RSS Feedhttps://developer.apple.com/news/?id=n33tv3lm发现于https://twitter.com/dezinezync/status/13977705104448880...](https://t.me/aboutrss/1042)
-- [🖼Stream ： 极简免费 #iOS #RSS阅读器#Stream 特别简单，不支持 Feed 分类，仅适合一篇接一篇的休闲阅读。就像其名一样，是单纯的信息流：https://stream.hay...](https://t.me/aboutrss/1041)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
