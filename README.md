@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「 #Vivaldi 4.0 introduces translate feature and Mail, Calendar and Feed Reader functionality」https://www.ghacks.net/2021/06/09/vivaldi-4-0-intro...](https://t.me/aboutrss/1049)
 - [🖼程序员向 #教程 半打英文，又有点多，就不逐一放送了，攒到一起：1️⃣ 「How to Create Your Own Next.js RSS Reader App」https://ashleemboyer.com/creat...](https://t.me/aboutrss/1048)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣ 「Feed 入门介绍」https://phuker.github.io/web-feed.html2️⃣ 「搭建好用RSS阅读器——FreshRSS（安装教程）」https://w...](https://t.me/aboutrss/1047)
 - [🖼#ReadMark : #轻芒杂志 Pro 的海外版俊煜原话：「一款可以马克的 #RSS阅读器 」、「产品将和 Feedly、Inoreader 等在同一个领域竞争」：https://mp.weixin.q...](https://t.me/aboutrss/1046)
 - [🖼Catch ： #Mac 下衔接 RSS Feed 和 BitTorrent 客户端的软件Catch 用于订阅包含电视节目磁力下载链接的 RSS Feed （如 ShowRSS.info ），然后调取 BitTorren...](https://t.me/aboutrss/1045)
-- [📹flowerss 和 wechat-feeds 相结合接推友投稿， Ta 为 #开源 #电报 RSS 订阅机器人 #flowerss 集成了基于 wechat-feeds 的公众号订阅功能。👍可以用的镜像...](https://t.me/aboutrss/1044)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
