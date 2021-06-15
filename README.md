@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Slow Feeds: 通过发布频率进行内容过滤的 RSS 阅读器#SlowFeeds 是 #RSS阅读器 Web Subscriber 的前身，去年回归推出 Slow Feeds 6，专注于通过 Feed 的更新...](https://t.me/aboutrss/1052)
 - [🖼本周 RSS #玩家 #教程 分享1️⃣「搭建一个 rss 订阅 bot」https://ednovas.xyz/2021/06/07/rss_bot/2️⃣「How to add a RSS feed to a #rails blog」https...](https://t.me/aboutrss/1051)
 - [🖼#GoogleSheet2RSS 工具： #crssnt无论是自己编辑，还是用工作流自动化工具收集信息生成个 GoogleSheet ，都较容易。搭配 crssnt 再生成个 RSS Feed ，发挥空...](https://t.me/aboutrss/1050)
 - [🖼「 #Vivaldi 4.0 introduces translate feature and Mail, Calendar and Feed Reader functionality」https://www.ghacks.net/2021/06/09/vivaldi-4-0-intro...](https://t.me/aboutrss/1049)
 - [🖼程序员向 #教程 半打英文，又有点多，就不逐一放送了，攒到一起：1️⃣ 「How to Create Your Own Next.js RSS Reader App」https://ashleemboyer.com/creat...](https://t.me/aboutrss/1048)
-- [🖼本周 RSS #玩家 #心得 分享1️⃣ 「Feed 入门介绍」https://phuker.github.io/web-feed.html2️⃣ 「搭建好用RSS阅读器——FreshRSS（安装教程）」https://w...](https://t.me/aboutrss/1047)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
