@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼社群重拾以 #OPML 进行条目梳理的开放性和便利性#OPML 被创造时就是为了在应用间标准化地交换层级条目，但最为人熟知的，却是用 #OPML 文件分享订阅的 Feed ...](https://t.me/aboutrss/1055)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣ 「 #Feedly Vs. #Inoreader: The Best Content Curation Tool [Reviewed]」 #评测https://www.hongkiat.com/blog/feedly-vs...](https://t.me/aboutrss/1054)
 - [🖼#Harbor : Apple 全平台下的 Timeline 型 #RSS阅读器支持 Timeline 模式，搭配订阅时的 Feed 类型选择：可以错过一两篇的休闲型 Feed ，还是每篇必看的硬核...](https://t.me/aboutrss/1053)
 - [🖼Slow Feeds: 通过发布频率进行内容过滤的 RSS 阅读器#SlowFeeds 是 #RSS阅读器 Web Subscriber 的前身，去年回归推出 Slow Feeds 6，专注于通过 Feed 的更新...](https://t.me/aboutrss/1052)
 - [🖼本周 RSS #玩家 #教程 分享1️⃣「搭建一个 rss 订阅 bot」https://ednovas.xyz/2021/06/07/rss_bot/2️⃣「How to add a RSS feed to a #rails blog」https...](https://t.me/aboutrss/1051)
-- [🖼#GoogleSheet2RSS 工具： #crssnt无论是自己编辑，还是用工作流自动化工具收集信息生成个 GoogleSheet ，都较容易。搭配 crssnt 再生成个 RSS Feed ，发挥空...](https://t.me/aboutrss/1050)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
