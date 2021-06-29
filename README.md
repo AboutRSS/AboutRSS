@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Ego Reader 作者发文纪念 App 一周年「我写的这个 #RSS阅读器 一年了」https://zhuanlan.zhihu.com/p/384230037祝一周年快乐！Ego Reader 官频：https://t.m...](https://t.me/aboutrss/1058)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣ 「 #irreader – 这款难得免费网站和RSS订阅阅读器客户端软件」https://www.immaizi.com/irreader.html2️⃣ WikiDB 频道关...](https://t.me/aboutrss/1057)
 - [🖼#Bilibili #视频 ：Kindle 上两个 RSS 订阅服务的上手介绍 1️⃣「 好像很好用的 #Kindle RSS 订阅界面服务：#Reabble （via #inoreader ）」https://www.bi...](https://t.me/aboutrss/1056)
 - [🖼社群重拾以 #OPML 进行条目梳理的开放性和便利性#OPML 被创造时就是为了在应用间标准化地交换层级条目，但最为人熟知的，却是用 #OPML 文件分享订阅的 Feed ...](https://t.me/aboutrss/1055)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣ 「 #Feedly Vs. #Inoreader: The Best Content Curation Tool [Reviewed]」 #评测https://www.hongkiat.com/blog/feedly-vs...](https://t.me/aboutrss/1054)
-- [🖼#Harbor : Apple 全平台下的 Timeline 型 #RSS阅读器支持 Timeline 模式，搭配订阅时的 Feed 类型选择：可以错过一两篇的休闲型 Feed ，还是每篇必看的硬核...](https://t.me/aboutrss/1053)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
