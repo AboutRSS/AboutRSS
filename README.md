@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼RSSHub 的替代品： RSSerpent来自于 @Queensferryme 的新 #开源 项目 #RSSerpent 发布了 0.1.0 版本，用 #Python 实现。作者在其日志介绍了项目初衷、设想与...](https://t.me/aboutrss/1063)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣ 「資訊碎片化 — 點樣睇文好？」2️⃣「终于支持 iCloud 同步，现在的 NNW 可能是国区最好用的 RSS 阅读 App」3️⃣ 「We’...](https://t.me/aboutrss/1062)
 - [🖼#开源 #RSS阅读器 NewsBlur 新设计版上线#NewsBlur 此次更新带来了 web 端、 #iOS 和 #Android App 的全部最新设计版，详见其官方日志：https://blog.newsbl...](https://t.me/aboutrss/1061)
 - [🖼「借助 RSSHub 对源站 RSS 内容过滤 (和全文输出)」感谢群友投稿 #教程 ：通过给 #RSSHub 增加 rss-parser 让其支持解析 RSS 内容，再利用 RSSHub 自带的 fi...](https://t.me/aboutrss/1060)
 - [🖼「Sage-Like is a customizable RSS feed reader extension for Firefox」Sage-Like 是火狐上的一款侧栏式 #RSS阅读器 #浏览器扩展 ：https://www.ghacks.ne...](https://t.me/aboutrss/1059)
-- [🖼Ego Reader 作者发文纪念 App 一周年「我写的这个 #RSS阅读器 一年了」https://zhuanlan.zhihu.com/p/384230037祝一周年快乐！Ego Reader 官频：https://t.m...](https://t.me/aboutrss/1058)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
