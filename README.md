@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼最近发现的一些 Feed 分享1️⃣ Emacs China 论坛上就 Tech Blog 的分享https://emacs-china.org/t/elfeed-tech-feeds-rss/176802️⃣ 推友 mogita 就外文非...](https://t.me/aboutrss/1071)
 - [🖼通过 Google Sheet 进行 RSS 内容翻译该 #技巧 用到三个 #GoogleSheet 支持的函数：IMPORTFEED 、GOOGLETRANSLATE 、 DETECTLANGUAGE ：1️⃣ 在新建 Google...](https://t.me/aboutrss/1070)
 - [🖼「ViennaRSS – 开源 RSS 阅读器，支持 5 大在线阅读器」Mr. Zan 频道做了关于 #Mac 上 #Vienna #RSS阅读器 的分享后，小众软件跟进做了较详细的介绍：https...](https://t.me/aboutrss/1069)
 - [🖼一个专门收集基于 RSS 的新闻资讯类电报频道的频道电报上有不少新闻资讯类频道是通过 RSS2TelegramChannel 实现的。「RSS 频道收集」频道专门收录这些基于 R...](https://t.me/aboutrss/1068)
 - [🖼上周 RSS #玩家 #心得 分享1️⃣「【Feedbro】打造你的专属文献订阅器」2️⃣「阿里云部署 Tiny Tiny RSS 踩坑笔记」3️⃣「用 PHP 自定义 WordPress RSS 内...](https://t.me/aboutrss/1067)
-- [🖼「Feed me up, Scotty! ：用 CSS Selector 產生 RSS feed」Feed me up, Scotty！是一款需使用户可利用 CSS 的适配来为实现 #PAGE2RSS 的 #开源 工具。Ta 可...](https://t.me/aboutrss/1066)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
