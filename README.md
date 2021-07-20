@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼RSS订阅器： 一款 #微信 上的 #小程序 RSS 阅读器内置不少 RSS 源，带收藏功能。来自于群友 @fanfpy 的作品。同时，Ta 自架有一个 #FreshRSS 实例：http://f...](https://t.me/aboutrss/1074)
 - [🖼Awesome RSS Feeds 项目诞生RSS阅读器 Plenary 的开发团队为了解决 RSS 新手找 Feed 难的问题，在 GitHub 上出手创建了 #开源 Awesome 列表： RSS Feeds ，...](https://t.me/aboutrss/1073)
 - [🖼本周 RSS #玩家 #心得 #观点 分享1️⃣ 「竹炉山房：NetNewsWire」2️⃣「RSS, Read It Later and Newsletters」3️⃣「Creating an RSS Feed from Nuxt Con...](https://t.me/aboutrss/1072)
 - [🖼最近发现的一些 Feed 分享1️⃣ Emacs China 论坛上就 Tech Blog 的分享https://emacs-china.org/t/elfeed-tech-feeds-rss/176802️⃣ 推友 mogita 就外文非...](https://t.me/aboutrss/1071)
 - [🖼通过 Google Sheet 进行 RSS 内容翻译该 #技巧 用到三个 #GoogleSheet 支持的函数：IMPORTFEED 、GOOGLETRANSLATE 、 DETECTLANGUAGE ：1️⃣ 在新建 Google...](https://t.me/aboutrss/1070)
-- [🖼「ViennaRSS – 开源 RSS 阅读器，支持 5 大在线阅读器」Mr. Zan 频道做了关于 #Mac 上 #Vienna #RSS阅读器 的分享后，小众软件跟进做了较详细的介绍：https...](https://t.me/aboutrss/1069)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
