@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼本周 RSS #玩家 #心得 #教程 分享1️⃣「聊一聊 RSS」、「RSS 阅读服务上线啦」2️⃣「嘗試使用 #Feed43 自製遊戲更新 RSS 」、「試做使用 #IFTTT 推送 RSS ...](https://t.me/aboutrss/1077)
 - [🖼两家 #MAIL2RSS 服务1️⃣ Emails to RSS Forwardinghttp://emails2rss.appspot.com/2️⃣ MAILNESIAhttps://mailnesia.com/zh-cn/](https://t.me/aboutrss/1076)
 - [🖼用 RSS 订阅 Awesome List 的更新变动#TrackAwesomeList 是推友开发的 #开源 项目：https://www.trackawesomelist.com提供 #GitHub 上各个 Awesome List 最...](https://t.me/aboutrss/1075)
 - [🖼RSS订阅器： 一款 #微信 上的 #小程序 RSS 阅读器内置不少 RSS 源，带收藏功能。来自于群友 @fanfpy 的作品。同时，Ta 自架有一个 #FreshRSS 实例：http://f...](https://t.me/aboutrss/1074)
 - [🖼Awesome RSS Feeds 项目诞生RSS阅读器 Plenary 的开发团队为了解决 RSS 新手找 Feed 难的问题，在 GitHub 上出手创建了 #开源 Awesome 列表： RSS Feeds ，...](https://t.me/aboutrss/1073)
-- [🖼本周 RSS #玩家 #心得 #观点 分享1️⃣ 「竹炉山房：NetNewsWire」2️⃣「RSS, Read It Later and Newsletters」3️⃣「Creating an RSS Feed from Nuxt Con...](https://t.me/aboutrss/1072)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
