@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼本周 RSS #玩家 #心得 分享1️⃣「手机搭建RSS——高效信息筛选获取」https://zhuanlan.zhihu.com/p/3932002472️⃣「2021年还有哪些值得使用的 RSS 阅读器...](https://t.me/aboutrss/1081)
 - [🖼#TOFEED : 一个将 #Twitter 时间线中的 url 抽取出来制成 RSS feed 的 #工具https://tofeed.net/还可以为 List 生成 RSS Feed ，可惜不免费。发现于https://...](https://t.me/aboutrss/1080)
 - [🖼RSSBlog: 一个博文聚合站#RSSBlog 是一个新的 Blog Aggregator ，并且 #开源 ：https://rssblog.cn/官方介绍在此：https://bbing.com.cn/202107/rss-rssblog...](https://t.me/aboutrss/1079)
 - [🖼「INK RSS：基于 Serverless 的 RSS 通知服务」转自友台，详细信息还请移步友台Newlearnerの自留地：https://t.me/NewlearnerChannel/7603](https://t.me/aboutrss/1078)
 - [🖼本周 RSS #玩家 #心得 #教程 分享1️⃣「聊一聊 RSS」、「RSS 阅读服务上线啦」2️⃣「嘗試使用 #Feed43 自製遊戲更新 RSS 」、「試做使用 #IFTTT 推送 RSS ...](https://t.me/aboutrss/1077)
-- [🖼两家 #MAIL2RSS 服务1️⃣ Emails to RSS Forwardinghttp://emails2rss.appspot.com/2️⃣ MAILNESIAhttps://mailnesia.com/zh-cn/](https://t.me/aboutrss/1076)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
