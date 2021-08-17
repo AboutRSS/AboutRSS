@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼中国科学技术大学研究生公选课《文献管理与信息分析》之 「RSS-同步世界最新资讯」「RSS-同步世界最新资讯」是该课程其中一周的主题，在网易公开课由 8 个视...](https://t.me/aboutrss/1090)
 - [🖼本周 RSS #玩家 #心得 #教程 分享1️⃣「在线 RSS 阅读器收集整理汇总 - 在线 RSS 阅读服务榜单」 2️⃣「Why you should consider using RSS」 3️⃣「 #Ne...](https://t.me/aboutrss/1089)
 - [🖼「14 Best Free Linux News Aggregators」LinuxLinks 对 14 个 #Linux 下 RSS 订阅工具（不限于 #RSS阅读器 ）的比较和打分：https://www.linuxlinks.com/ne...](https://t.me/aboutrss/1088)
 - [🖼可以 Mark 的 #RSS阅读器 - ReadMark 结束测试，发布 1.0 版🔸支持 #iOS 和 #Android 双版本🔸可将个人标注同步至 Evernote / OneNote / Notion🔸可将...](https://t.me/aboutrss/1087)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣「The Day the Good Internet Died」 #长文2️⃣「RSS应该被时代遗忘吗？RSS详细使用教程都在这！」3️⃣「为不支持 RSS 网...](https://t.me/aboutrss/1086)
-- [🖼「摸鱼工具，高仿 Outlook RSS 阅读器，支持查看 V2EX 评论」本来以为频道提及的 VSCode RSS 阅读器插件乃用 RSS 摸鱼的巅峰，不曾想还有更厉害的：https://...](https://t.me/aboutrss/1085)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
