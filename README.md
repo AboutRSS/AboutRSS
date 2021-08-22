@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼本周 RSS #玩家 #心得 #教程 分享1️⃣「碎片时间都在刷手机？ #RSSHub 带你逃出信息洪流！」2️⃣「青柠学术 RSS 更换了，欢迎订阅！」 #学术圈3️⃣「New ...](https://t.me/aboutrss/1092)
 - [🖼Feeddd : 一个新的免费微信公众号订阅源19年9月， 频道推送过一条用 #Hamibot 实现 #微信 RSS 订阅提醒的分享。这次，该作者带来了 #Feeddd ，同样是基于 Ha...](https://t.me/aboutrss/1091)
 - [🖼中国科学技术大学研究生公选课《文献管理与信息分析》之 「RSS-同步世界最新资讯」「RSS-同步世界最新资讯」是该课程其中一周的主题，在网易公开课由 8 个视...](https://t.me/aboutrss/1090)
 - [🖼本周 RSS #玩家 #心得 #教程 分享1️⃣「在线 RSS 阅读器收集整理汇总 - 在线 RSS 阅读服务榜单」 2️⃣「Why you should consider using RSS」 3️⃣「 #Ne...](https://t.me/aboutrss/1089)
 - [🖼「14 Best Free Linux News Aggregators」LinuxLinks 对 14 个 #Linux 下 RSS 订阅工具（不限于 #RSS阅读器 ）的比较和打分：https://www.linuxlinks.com/ne...](https://t.me/aboutrss/1088)
-- [🖼可以 Mark 的 #RSS阅读器 - ReadMark 结束测试，发布 1.0 版🔸支持 #iOS 和 #Android 双版本🔸可将个人标注同步至 Evernote / OneNote / Notion🔸可将...](https://t.me/aboutrss/1087)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
