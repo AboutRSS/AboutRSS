@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [#视频 #教程 —— 利用 #KSWEB 在 #Android 手机上搭建 #TTRSS 的续篇，讲解 TTRSS 的基本配置和过滤器使用方法：https://www.bilibili.com/video/BV1Zq4y1m7io ...](https://t.me/aboutrss/1096)
 - [🖼「基于 RSS 的信息体系构建」 #教程「如果你和我一样，选择了自己掌握信息获取的主动权。那 RSS 应该是无法绕过的一个技术，可能也是综合考量后的唯一选择。...](https://t.me/aboutrss/1095)
 - [🖼「Backstop Your Google Alerts With Bing News RSS Feeds」#Bing 是支持将搜索结果生成为 RSS Feed 的，频道此前提过一嘴。如果想从订阅 Google Alerts 批...](https://t.me/aboutrss/1094)
 - [🖼利用 #KSWEB 在 #Android 手机上搭建 #TTRSS 的 #视频 #教程https://www.bilibili.com/video/BV1PP4y1p7qz #bilibiliKSWEB 是一款使安卓变身服务器的 APP。...](https://t.me/aboutrss/1093)
 - [🖼本周 RSS #玩家 #心得 #教程 分享1️⃣「碎片时间都在刷手机？ #RSSHub 带你逃出信息洪流！」2️⃣「青柠学术 RSS 更换了，欢迎订阅！」 #学术圈3️⃣「New ...](https://t.me/aboutrss/1092)
-- [🖼Feeddd : 一个新的免费微信公众号订阅源19年9月， 频道推送过一条用 #Hamibot 实现 #微信 RSS 订阅提醒的分享。这次，该作者带来了 #Feeddd ，同样是基于 Ha...](https://t.me/aboutrss/1091)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
