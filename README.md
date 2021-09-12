@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼与 RSS 有关的 Coding 向 #教程 分享：第1期频道打算把周末分享再细分一下，初步计划拆分为心得观点类和 Coding 向教程类。本期是第一次尝试：1️⃣「Create...](https://t.me/aboutrss/1101)
 - [🖼支持竖排展示 RSS Feed 内容的网页竖排工具https://tategaki.de可「将任何 RSS feed 转为竖排，只要将 feed 地址拷贝到 tategaki.de/feed?url= 后即可」。发...](https://t.me/aboutrss/1100)
 - [🖼最近发现的一些 Feed #源 分享：第2期1️⃣「2021 V2EX RSS 订阅分享大会」2️⃣ 电报频道：「Find Blog👁发现博客」3️⃣ RPG feed (755 blogs) shared b...](https://t.me/aboutrss/1099)
 - [🖼本周 RSS #玩家 #心得 分享1️⃣「Why and how to use RSS for consuming knowledge」https://bluprince13.com/blog/why-and-how-to-use-rss-for-consuming-...](https://t.me/aboutrss/1098)
 - [🖼SnipRSS ： 通过网摘发布你的定制内容到 RSS#SnipRSS 是 FlipRSS 团队的作品：通过网摘进行内容打包，然后独立页面发布，并支持 RSS Feed 。不过，一些网摘...](https://t.me/aboutrss/1097)
-- [#视频 #教程 —— 利用 #KSWEB 在 #Android 手机上搭建 #TTRSS 的续篇，讲解 TTRSS 的基本配置和过滤器使用方法：https://www.bilibili.com/video/BV1Zq4y1m7io ...](https://t.me/aboutrss/1096)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
