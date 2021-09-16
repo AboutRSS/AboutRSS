@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#bilibili 视频 #教程 「追番的N种方式——RSS」讲解如何使用 #qBittorrent 的 RSS 订阅功能追踪动漫剧集：https://www.bilibili.com/s/video/BV13f4y1P7TX](https://t.me/aboutrss/1104)
 - [🖼FreshRSS 作者分享开发历程在 #开源 、需自架的 #RSS阅读器 程序中， #FreshRSS 已是翘楚之一。其作者在学业结束之后，将项目交由其他开发者管理。这次有人...](https://t.me/aboutrss/1103)
 - [🖼专为短动态类消息设计的 RSS Bot 项目RSStT Bot 项目此前专为基于 RSSHub 的微博 RSS 源开发，作者也在我们内群。这次该项目「作了很大的更新，不再限定于微...](https://t.me/aboutrss/1102)
 - [🖼与 RSS 有关的 Coding 向 #教程 分享：第1期频道打算把周末分享再细分一下，初步计划拆分为心得观点类和 Coding 向教程类。本期是第一次尝试：1️⃣「Create...](https://t.me/aboutrss/1101)
 - [🖼支持竖排展示 RSS Feed 内容的网页竖排工具https://tategaki.de可「将任何 RSS feed 转为竖排，只要将 feed 地址拷贝到 tategaki.de/feed?url= 后即可」。发...](https://t.me/aboutrss/1100)
-- [🖼最近发现的一些 Feed #源 分享：第2期1️⃣「2021 V2EX RSS 订阅分享大会」2️⃣ 电报频道：「Find Blog👁发现博客」3️⃣ RPG feed (755 blogs) shared b...](https://t.me/aboutrss/1099)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
