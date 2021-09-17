@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼#bilibili 视频 #教程 「追番的N种方式——RSS」讲解如何使用 #qBittorrent 的 RSS 订阅功能追踪动漫剧集：https://www.bilibili.com/s/video/BV13f4y1P7TX](https://t.me/aboutrss/1104)
+- [🖼#bilibili 视频 #教程 「追番的N种方式——RSS」讲解如何使用 #qBittorrent 的 RSS 订阅功能追踪动漫剧集：https://www.bilibili.com/video/BV13f4y1P7TX](https://t.me/aboutrss/1104)
 - [🖼FreshRSS 作者分享开发历程在 #开源 、需自架的 #RSS阅读器 程序中， #FreshRSS 已是翘楚之一。其作者在学业结束之后，将项目交由其他开发者管理。这次有人...](https://t.me/aboutrss/1103)
 - [🖼专为短动态类消息设计的 RSS Bot 项目RSStT Bot 项目此前专为基于 RSSHub 的微博 RSS 源开发，作者也在我们内群。这次该项目「作了很大的更新，不再限定于微...](https://t.me/aboutrss/1102)
 - [🖼与 RSS 有关的 Coding 向 #教程 分享：第1期频道打算把周末分享再细分一下，初步计划拆分为心得观点类和 Coding 向教程类。本期是第一次尝试：1️⃣「Create...](https://t.me/aboutrss/1101)
