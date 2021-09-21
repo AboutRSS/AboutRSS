@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼iOS / iPadOS #RSS阅读器 lire 5 发布距离 4 的发布正好一年， #lire 发布了 lire 5，可直接由 4.x 免费升级。🔸适配最新 #iOS 15🔸实现了 iCloud Sync...](https://t.me/aboutrss/1107)
 - [🖼flus : 来自 FreshRSS 作者的线上 RSS 阅读器本周提及了 FreshRSS 作者的开发故事，其中 Ta 提到了新的作品 #flus ，基本上是一个线上 #RSS阅读器：🔸卡片...](https://t.me/aboutrss/1106)
 - [🖼#bilibili 视频 #教程 「追番的N种方式——RSS」讲解如何使用 #qBittorrent 的 RSS 订阅功能追踪动漫剧集：https://www.bilibili.com/video/BV13f4y1P7TX](https://t.me/aboutrss/1104)
 - [🖼FreshRSS 作者分享开发历程在 #开源 、需自架的 #RSS阅读器 程序中， #FreshRSS 已是翘楚之一。其作者在学业结束之后，将项目交由其他开发者管理。这次有人...](https://t.me/aboutrss/1103)
 - [🖼专为短动态类消息设计的 RSS Bot 项目RSStT Bot 项目此前专为基于 RSSHub 的微博 RSS 源开发，作者也在我们内群。这次该项目「作了很大的更新，不再限定于微...](https://t.me/aboutrss/1102)
-- [🖼与 RSS 有关的 Coding 向 #教程 分享：第1期频道打算把周末分享再细分一下，初步计划拆分为心得观点类和 Coding 向教程类。本期是第一次尝试：1️⃣「Create...](https://t.me/aboutrss/1101)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
