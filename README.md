@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼rss.yt : YouTube Channel RSS Feed Generator频道在「找 YouTube 原生 RSS Feed 的方法」中分享过一些油管原生 Feed url 的构建方法和工具。这次发现的 rss...](https://t.me/aboutrss/1115)
 - [🖼Workflow Automation 工具 integrately感谢群友，分享了一款线上 Workflow Automation 服务 : #integrately 。🔸 免费版支持 5 个任务，共 200 次执行，每...](https://t.me/aboutrss/1114)
 - [🖼Renewed Tab: 支持在新标签页摆 RSS 订阅 #挂件 的 #开源 #浏览器扩展支持 #Chrome 和 #Firefoxhttps://renewedtab.com/en/频道介绍过的同类项目： Epiboard](https://t.me/aboutrss/1113)
 - [🖼FeedPaper: 一个报纸样式的 RSS 阅读器#FeedPaper 和频道以前介绍过的 TheWebpage 很像，都是打造多栏报纸风格的 RSS 阅读体验，但后者的条目内容混排更彻底...](https://t.me/aboutrss/1112)
 - [🖼本周 RSS #玩家 #心得 分享：第 28 期1️⃣「我的碎片信息处理系统」2️⃣「RSS使用的网站、订阅源与APP介绍分享」 #系列3️⃣「Getting up to date news th...](https://t.me/aboutrss/1111)
-- [🖼Feeds Mage: 「discover the blogs & newsletters of your follows」频道提及过一个叫「 #Twitter Followings OPML Export」的工具，用于从你 fo 的推友的 B...](https://t.me/aboutrss/1110)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
