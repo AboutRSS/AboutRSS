@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼基于 Python 的 RSSerpent  项目发布插件开发文档频道介绍过的 #RSSerpent 项目正在参加 Hacktoberfest：https://github.com/RSSerpent/RSSerpent/discussio...](https://t.me/aboutrss/1117)
 - [🖼域名 RSS.com 的故事频道此前推送过 RSS.com 域名花落谁家的历程，不过局外人难知细节。这次官方撰文介绍了 RSS.com 背后关于域名、网站和当下播客平台的发...](https://t.me/aboutrss/1116)
 - [🖼rss.yt : YouTube Channel RSS Feed Generator频道在「找 YouTube 原生 RSS Feed 的方法」中分享过一些油管原生 Feed url 的构建方法和工具。这次发现的 rss...](https://t.me/aboutrss/1115)
 - [🖼Workflow Automation 工具 integrately感谢群友，分享了一款线上 Workflow Automation 服务 : #integrately 。🔸 免费版支持 5 个任务，共 200 次执行，每...](https://t.me/aboutrss/1114)
 - [🖼Renewed Tab: 支持在新标签页摆 RSS 订阅 #挂件 的 #开源 #浏览器扩展支持 #Chrome 和 #Firefoxhttps://renewedtab.com/en/频道介绍过的同类项目： Epiboard](https://t.me/aboutrss/1113)
-- [🖼FeedPaper: 一个报纸样式的 RSS 阅读器#FeedPaper 和频道以前介绍过的 TheWebpage 很像，都是打造多栏报纸风格的 RSS 阅读体验，但后者的条目内容混排更彻底...](https://t.me/aboutrss/1112)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
