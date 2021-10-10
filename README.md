@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼本周 RSS #玩家 #心得 分享：第 29 期1️⃣「RSS Everywhere」: #群晖 上鼓捣 RSShttps://post.smzdm.com/p/awk87kqp/2️⃣「【安利向】RSS的世界（附Blende...](https://t.me/aboutrss/1119)
 - [🖼「Google #Chrome 的 RSS 功能正式開放給所有 #Android 用戶」今年 5 月试验的功能终于全面推出了。https://chinese.engadget.com/google-chrome-rss-follow...](https://t.me/aboutrss/1118)
 - [🖼基于 Python 的 RSSerpent  项目发布插件开发文档频道介绍过的 #RSSerpent 项目正在参加 Hacktoberfest：https://github.com/RSSerpent/RSSerpent/discussio...](https://t.me/aboutrss/1117)
 - [🖼域名 RSS.com 的故事频道此前推送过 RSS.com 域名花落谁家的历程，不过局外人难知细节。这次官方撰文介绍了 RSS.com 背后关于域名、网站和当下播客平台的发...](https://t.me/aboutrss/1116)
 - [🖼rss.yt : YouTube Channel RSS Feed Generator频道在「找 YouTube 原生 RSS Feed 的方法」中分享过一些油管原生 Feed url 的构建方法和工具。这次发现的 rss...](https://t.me/aboutrss/1115)
-- [🖼Workflow Automation 工具 integrately感谢群友，分享了一款线上 Workflow Automation 服务 : #integrately 。🔸 免费版支持 5 个任务，共 200 次执行，每...](https://t.me/aboutrss/1114)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
