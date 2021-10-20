@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Emacs 上的 EAF RSS 阅读器发现自 https://twitter.com/manateelazycat/status/1450332367894110208 ，以下是其介绍：「EAF #RSS阅读器 ，用vue.js写的，比 ...](https://t.me/aboutrss/1124)
 - [🖼Feedrabbit: 老牌 #RSS2MAIL 服务#Feedrabbit 自 2014 年就运营了，我才发现。😂免费版可以：🔸10 个订阅🔸1 个邮箱地址🔸每日 20 封邮件https://fe...](https://t.me/aboutrss/1123)
 - [🖼与 RSS 有关的 Coding 向 #教程 分享：第 3 期1️⃣「How to create an RSS & Atom feed in Umbraco V9」2️⃣「How to Make a Separate RSS Feed for Each ...](https://t.me/aboutrss/1122)
 - [🖼「Sheet-posting : Turn a Google Sheets spreadsheet into a blog page and RSS feed」又一个 #GoogleSheet2RSS 工具。但不止于此，还可以用来当博客写：ht...](https://t.me/aboutrss/1121)
 - [🖼「Google Groups kills RSS support without notice」https://www.theregister.com/2021/08/16/google_groups_rss/这是一篇后知后觉的推送， Google Groups ...](https://t.me/aboutrss/1120)
-- [🖼本周 RSS #玩家 #心得 分享：第 29 期1️⃣「RSS Everywhere」: #群晖 上鼓捣 RSShttps://post.smzdm.com/p/awk87kqp/2️⃣「【安利向】RSS的世界（附Blende...](https://t.me/aboutrss/1119)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
