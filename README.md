@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼#Feedibus :  一个机器学习加持下的 #iOS #RSS阅读器根据作者在 Reddit 的介绍，通过机器学习来增强的三个方面是：全文获取、话题去重和基于阅读习惯的条目...](https://t.me/aboutrss/1127)
 - [🖼#NotionFeeder : 在 Notion 自架一个 RSS 阅读器终于有一款基于 #Notion 的 #RSS阅读器 了。项目 #开源 、免费。遵循官方教程配置即可，功能特性详见 Produc...](https://t.me/aboutrss/1126)
 - [🖼本周 RSS #玩家 #心得 分享：第 30 期1️⃣「RSS 完结篇：RSSHub、Huginn 转移 NAS」2️⃣「在树莓派上使用 Docker 搭建 TTRSS」3️⃣「《树莓派4B家庭服务...](https://t.me/aboutrss/1125)
 - [🖼Emacs 上的 EAF RSS 阅读器发现自 https://twitter.com/manateelazycat/status/1450332367894110208 ，以下是其介绍：「EAF #RSS阅读器 ，用vue.js写的，比 ...](https://t.me/aboutrss/1124)
 - [🖼Feedrabbit: 老牌 #RSS2MAIL 服务#Feedrabbit 自 2014 年就运营了，我才发现。😂免费版可以：🔸10 个订阅🔸1 个邮箱地址🔸每日 20 封邮件https://fe...](https://t.me/aboutrss/1123)
-- [🖼与 RSS 有关的 Coding 向 #教程 分享：第 3 期1️⃣「How to create an RSS & Atom feed in Umbraco V9」2️⃣「How to Make a Separate RSS Feed for Each ...](https://t.me/aboutrss/1122)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
