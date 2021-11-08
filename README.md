@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [周边两则🔸 #Inoreader 双十一促销中https://t.me/appinnfeed/4351🔸 Aaron Swartz Rememberance Day This Mondayhttps://news.ycombinator.com/item?id=291...](https://t.me/aboutrss/1131)
 - [🖼与 RSS 有关的 Coding 向 #教程 分享：第 4 期1️⃣「⚡️ Serverless .NET solution for hosting your 🔊 podcasts with &lpar;nearly&rpar; zero costs using Azur...](https://t.me/aboutrss/1130)
 - [🖼Super RSS Reader : 一个用于制作 RSS 条目挂件的 #WordPress #插件免费版支持：🔸多标签式多 Feed 显示🔸带图条目🔸主题色可变Pro 版支持：🔸Short...](https://t.me/aboutrss/1129)
 - [🖼Tickr : 桌面上轮播显示 RSS 条目的 #Widget#Tickr 也是历史悠久了，自 2009 年问世至今，最新更新是释出于今年 8 月底。其功用是在桌面滚动显示 RSS 条目，...](https://t.me/aboutrss/1128)
 - [🖼#Feedibus :  一个机器学习加持下的 #iOS #RSS阅读器根据作者在 Reddit 的介绍，通过机器学习来增强的三个方面是：全文获取、话题去重和基于阅读习惯的条目...](https://t.me/aboutrss/1127)
-- [🖼#NotionFeeder : 在 Notion 自架一个 RSS 阅读器终于有一款基于 #Notion 的 #RSS阅读器 了。项目 #开源 、免费。遵循官方教程配置即可，功能特性详见 Produc...](https://t.me/aboutrss/1126)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
