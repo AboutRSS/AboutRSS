@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Bubo Reader: An Absurdly Minimalist RSS Feed Reader#开源，极简，根据 Feed 更新生成静态页面，陈列 RSS 条目的标题。可部署于 Glitch 或 Netlify。作者...](https://t.me/aboutrss/1134)
 - [🖼「将简悦变成你的 RSS 阅读器（自动下载快照到本地）」#简悦 主打沉浸式阅读功能，但也兼具工作流自动化式的信息管理能力。借助频道介绍过的 Integrately ，...](https://t.me/aboutrss/1133)
 - [🖼FeedMail : 又一个 #RSS2MAIL 服务🔸有免费额度供使用，用完后需要付费购买。🔸获取到新条目立即推送邮件。https://feedmail.org/官方和作者对 #FeedMai...](https://t.me/aboutrss/1132)
 - [周边两则🔸 #Inoreader 双十一促销中https://t.me/appinnfeed/4351🔸 Aaron Swartz Rememberance Day This Mondayhttps://news.ycombinator.com/item?id=291...](https://t.me/aboutrss/1131)
 - [🖼与 RSS 有关的 Coding 向 #教程 分享：第 4 期1️⃣「⚡️ Serverless .NET solution for hosting your 🔊 podcasts with &lpar;nearly&rpar; zero costs using Azur...](https://t.me/aboutrss/1130)
-- [🖼Super RSS Reader : 一个用于制作 RSS 条目挂件的 #WordPress #插件免费版支持：🔸多标签式多 Feed 显示🔸带图条目🔸主题色可变Pro 版支持：🔸Short...](https://t.me/aboutrss/1129)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
