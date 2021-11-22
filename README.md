@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「微信公众号转 RSS」又有达人涉足这个领域了：https://wechat2rss.xlab.app/目前公开了一些安全/开发相关的公众号。发现于https://t.me/appinnfeed/4417](https://t.me/aboutrss/1137)
 - [🖼The RSS Discovery Engine#开源 的 RSS Discovery Engine 是为了应对订阅源发现困难的一种尝试：输入带 RSS 的博客或网站链接，其会检测该 RSS Feed 内容里...](https://t.me/aboutrss/1136)
 - [🖼「搭建你的私人资讯采集助手 ｜ 让 RSS 自动汇入 Cubox」在友台看到了 #Cubox 的介绍，发现和 #简悦 差不多也能通过 API 进行 RSS 条目的收录：https://mp.w...](https://t.me/aboutrss/1135)
 - [🖼Bubo Reader: An Absurdly Minimalist RSS Feed Reader#开源，极简，根据 Feed 更新生成静态页面，陈列 RSS 条目的标题。可部署于 Glitch 或 Netlify。作者...](https://t.me/aboutrss/1134)
 - [🖼「将简悦变成你的 RSS 阅读器（自动下载快照到本地）」#简悦 主打沉浸式阅读功能，但也兼具工作流自动化式的信息管理能力。借助频道介绍过的 Integrately ，...](https://t.me/aboutrss/1133)
-- [🖼FeedMail : 又一个 #RSS2MAIL 服务🔸有免费额度供使用，用完后需要付费购买。🔸获取到新条目立即推送邮件。https://feedmail.org/官方和作者对 #FeedMai...](https://t.me/aboutrss/1132)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
