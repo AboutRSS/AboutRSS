@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼本周 RSS #玩家 #心得 分享：第 31 期1️⃣「为自己搭建 RSS 订阅提醒服务」2️⃣「INTEGRATELY，又一个自动化工具」3️⃣ 基于 Inoreader 和 简悦 的信息收...](https://t.me/aboutrss/1140)
 - [🖼Cake Reader: 一款线上 #RSS阅读器订阅方面的常规功能都有，过滤这种稍高端的则不支持，但关键是免费。https://cakereader.com/tour该产品已投稿 Product Hu...](https://t.me/aboutrss/1139)
 - [🖼#RSS2Newsletter 工具： Bulletyn#Bulletyn 可以从 RSS 、 Hacker News 、 Reddit 三个消息源获取信息，再定时输出为一份 Email。http://bulletyn.co/发现于...](https://t.me/aboutrss/1138)
 - [🖼「微信公众号转 RSS」又有达人涉足这个领域了：https://wechat2rss.xlab.app/目前公开了一些安全/开发相关的公众号。发现于https://t.me/appinnfeed/4417](https://t.me/aboutrss/1137)
 - [🖼The RSS Discovery Engine#开源 的 RSS Discovery Engine 是为了应对订阅源发现困难的一种尝试：输入带 RSS 的博客或网站链接，其会检测该 RSS Feed 内容里...](https://t.me/aboutrss/1136)
-- [🖼「搭建你的私人资讯采集助手 ｜ 让 RSS 自动汇入 Cubox」在友台看到了 #Cubox 的介绍，发现和 #简悦 差不多也能通过 API 进行 RSS 条目的收录：https://mp.w...](https://t.me/aboutrss/1135)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
