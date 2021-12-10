@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼支持 RSS 订阅的本地邮箱软件：Postbox🔸#MAC 和 #Windows 双版本🔸当前活动价 $29 买断https://www.postbox-inc.com/发现于友台：https://t.me/MrZanCh...](https://t.me/aboutrss/1145)
 - [🖼NewsWave 将于明年停止服务频道曾于去年夏季介绍过这款 #iOS 和 #MAC 双版本 #RSS阅读器。其作者表示停止运维的原因是收益与投入的精力无法相抵，同时撰文介...](https://t.me/aboutrss/1144)
 - [🖼最近发现的一些 Feed #源 分享： 第 3 期1️⃣「2021年仍然在更新的译者博客」2️⃣「北青深一度和谷雨实验室全文RSS」3️⃣「My &lpar;Automated&rpar; Reading List...](https://t.me/aboutrss/1143)
 - [🖼MarketChorus News Alerts：为关键词搜索结果建立 RSS Feed既 Talkwalker Alerts 后，MarketChorus News Alerts 是又一家可为关键词检索结果生成 RSS Feed ...](https://t.me/aboutrss/1142)
 - [🖼「如何在 Obsidian 中订阅 RSS ？」文字版 #教程 ：https://zhuanlan.zhihu.com/p/438437154油管版 : https://www.youtube.com/watch?v=5rVcLsPjdDo相关 #Ob...](https://t.me/aboutrss/1141)
-- [🖼本周 RSS #玩家 #心得 分享：第 31 期1️⃣「为自己搭建 RSS 订阅提醒服务」2️⃣「INTEGRATELY，又一个自动化工具」3️⃣ 基于 Inoreader 和 简悦 的信息收...](https://t.me/aboutrss/1140)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
