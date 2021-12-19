@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼本周 RSS #玩家 #心得 分享：第 32 期1️⃣「为什么 RSS 如此重要（下）| Thinking about Web3」2️⃣「自建 FreshRSS 教程」3️⃣ 「2021 年，我为什么选择...](https://t.me/aboutrss/1148)
 - [🖼最近几家 RSS 阅读器的功能增强播报🔸 Inoreader ： 支持订阅 #Telegram 频道 （需 Pro）https://www.inoreader.com/blog/2021/12/turn-every-public-tele...](https://t.me/aboutrss/1147)
 - [🖼Taco Digest ： 支持从 RSS 等多个信源生成 Newsletter除了 #RSS2Newsletter 外，支持的信源还包括：YouTube、reddit、天气、汇率。免费版支持 3 个信源， 1...](https://t.me/aboutrss/1146)
 - [🖼支持 RSS 订阅的本地邮箱软件：Postbox🔸#MAC 和 #Windows 双版本🔸当前活动价 $29 买断https://www.postbox-inc.com/发现于友台：https://t.me/MrZanCh...](https://t.me/aboutrss/1145)
 - [🖼NewsWave 将于明年停止服务频道曾于去年夏季介绍过这款 #iOS 和 #MAC 双版本 #RSS阅读器。其作者表示停止运维的原因是收益与投入的精力无法相抵，同时撰文介...](https://t.me/aboutrss/1144)
-- [🖼最近发现的一些 Feed #源 分享： 第 3 期1️⃣「2021年仍然在更新的译者博客」2️⃣「北青深一度和谷雨实验室全文RSS」3️⃣「My &lpar;Automated&rpar; Reading List...](https://t.me/aboutrss/1143)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
