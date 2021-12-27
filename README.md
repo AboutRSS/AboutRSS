@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼「The Unreader: an opinionated Feedbin client for iOS and iPadOS」是一款 #Feedbin 的第三方 #iOS / iPadOS 客户端，美区售价 $2.99，支持后台更新和新...](https://t.me/aboutrss/1151)
 - [🖼TikTok 和 Twitch 的 RSS generator🔸 #TikTok ：https://ttrss.mybluemix.net/发现于https://twitter.com/thefranke/status/1471416895308013569如果有自...](https://t.me/aboutrss/1150)
 - [🖼「【NotionFeed】一个在 Notion 中订阅 RSS 的服务」既 NotionFeeder 后，又一个基于 #Notion 的 #RSS阅读器：Notion-Feed ：https://notion-feed.com/相比...](https://t.me/aboutrss/1149)
 - [🖼本周 RSS #玩家 #心得 分享：第 32 期1️⃣「为什么 RSS 如此重要（下）| Thinking about Web3」2️⃣「自建 FreshRSS 教程」3️⃣ 「2021 年，我为什么选择...](https://t.me/aboutrss/1148)
 - [🖼最近几家 RSS 阅读器的功能增强播报🔸 Inoreader ： 支持订阅 #Telegram 频道 （需 Pro）https://www.inoreader.com/blog/2021/12/turn-every-public-tele...](https://t.me/aboutrss/1147)
-- [🖼Taco Digest ： 支持从 RSS 等多个信源生成 Newsletter除了 #RSS2Newsletter 外，支持的信源还包括：YouTube、reddit、天气、汇率。免费版支持 3 个信源， 1...](https://t.me/aboutrss/1146)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
