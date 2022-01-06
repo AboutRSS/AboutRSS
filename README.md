@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Desktop Ticker: 桌面上轮播显示 RSS 条目的 #Widget感谢频道读者分享其所用的工具——Desktop Ticker，和频道介绍过的 Tickr 是同类软件，同样自十多年前迭...](https://t.me/aboutrss/1156)
 - [🖼LinkLonk: 利用“赞”和“踩”文章来调整内容曝光度的 RSS 社区频道曾介绍过 FeedIt （已夭折），通过“赞”和“踩”的评级，来进行 RSS 订阅内容的排序。 #...](https://t.me/aboutrss/1155)
 - [🖼本周 RSS #玩家 #心得 分享：第 33 期1️⃣「关于 RSS 协议的一些迷思」 感谢 #投稿 ！2️⃣「Unread in 2021 and 2022」3️⃣「Three content consumption ...](https://t.me/aboutrss/1154)
 - [🖼#nosh : 一款在线的三栏 RSS 阅读器项目 #开源 、免费，支持深色模式，支持 #PWA ，致敬 web 2.0 时代的 #RSS阅读器。2020年3月面世，持续更新中。https://n...](https://t.me/aboutrss/1153)
 - [🖼Feedfry：付费的 #PAGE2RSS 服务和 rssproxy 的用法很像，都是按照页面源码的不同重复规律建立若干个内容拣选样板，用户从中选择需要的样板来生成 Feed 。有...](https://t.me/aboutrss/1152)
-- [🖼「The Unreader: an opinionated Feedbin client for iOS and iPadOS」是一款 #Feedbin 的第三方 #iOS / iPadOS 客户端，美区售价 $2.99，支持后台更新和新...](https://t.me/aboutrss/1151)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
