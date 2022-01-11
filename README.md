@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼rssto.email : 又一家 #RSS2MAILhttps://rssto.email/该项目 #开源 ，实现 RSS2MAIL 的同时，可借助 Ta 为 blog 集成邮件订阅功能。作者称其为 “Substack f...](https://t.me/aboutrss/1159)
 - [🖼与 RSS 有关的 Coding 向 #教程 分享：第 5 期1️⃣「Working With Web Feeds: It’s More Than RSS」2️⃣「Railway 部署 docker 服务——以 ttrss 为例」3...](https://t.me/aboutrss/1158)
 - [🖼为 mirror.xyz 生成 RSS Feed最近 Web 2.0 和 3.0 的玩家都在苦恼 mirror.xyz 没有 RSS feed，无法订阅。终于有大佬出手了。🔸方法一：把 url 里的 mirror...](https://t.me/aboutrss/1157)
 - [🖼Desktop Ticker: 桌面上轮播显示 RSS 条目的 #Widget感谢频道读者分享其所用的工具——Desktop Ticker，和频道介绍过的 Tickr 是同类软件，同样自十多年前迭...](https://t.me/aboutrss/1156)
 - [🖼LinkLonk: 利用“赞”和“踩”文章来调整内容曝光度的 RSS 社区频道曾介绍过 FeedIt （已夭折），通过“赞”和“踩”的评级，来进行 RSS 订阅内容的排序。 #...](https://t.me/aboutrss/1155)
-- [🖼本周 RSS #玩家 #心得 分享：第 33 期1️⃣「关于 RSS 协议的一些迷思」 感谢 #投稿 ！2️⃣「Unread in 2021 and 2022」3️⃣「Three content consumption ...](https://t.me/aboutrss/1154)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
