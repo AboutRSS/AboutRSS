@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼readrrr : 简单的线上 #RSS阅读器https://readrrr.co单栏布局，免费版支持订阅 3 个 Feed 。发现于官方推文:https://twitter.com/_readrrr/status/148383650...](https://t.me/aboutrss/1165)
 - [🖼RSSCube : #iOS 上一款新的 #RSS阅读器 APP「目前支持的功能列表：- feed添加- 两种订阅列表风格切换- 内容收藏，归档- 两种主题配色- 导出长图文章」https:...](https://t.me/aboutrss/1164)
 - [🖼#Subworthy : 一个 #RSS2NEWSLETTER 服务https://subworthy.com/作者写的介绍：https://blog.subworthy.com/post/20220109-introducing-subworthy/发现于htt...](https://t.me/aboutrss/1163)
 - [🖼RSS3 是 Web3 的 Feed 协议，那么 Revery 就是订阅器 频道自 RSS3 诞生之初开始关注，最近终于尝试了一下去年年底上线的 Web3 Feed Aggregator 雏形—— Rev...](https://t.me/aboutrss/1162)
 - [🖼本周 RSS #玩家 #心得 分享：第 34 期1️⃣「已经厌倦了微博公众号？教你玩转经典的 RSS 订阅」2️⃣「从 Web2 到 Web3 ，互联网重新站在历史分叉路口」3️...](https://t.me/aboutrss/1161)
-- [🖼rerss：实现一年后推送当前 RSS feed 内容https://rerss.xyz发现于https://news.ycombinator.com/item?id=29804581](https://t.me/aboutrss/1160)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
