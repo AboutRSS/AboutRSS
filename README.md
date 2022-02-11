@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼来自 The Not So Big Company 的 Big News 阅读器目前是 iOS / iPadOS 适配，未来有 MAC 版本：🔸提供用于订阅 Newsletter 的邮箱🔸支持跨设备同步🔸...](https://t.me/aboutrss/1170)
 - [🖼RSS Manager : 火狐上用于页面 RSS 发现的附加组件和 WANTMYRSS 差不多功用， #RSSManager 也是当页面自带 RSS Feed 时，其 #Firefox #浏览器扩展 图标由灰...](https://t.me/aboutrss/1169)
 - [🖼sumi.news : 22刀一年的线上 RSS 阅读器考虑到大家应该都拿到了压岁钱，所以推送一个付费 #RSS阅读器 : https://sumi.news🔸支持订阅 RSS 和 Newsletter�...](https://t.me/aboutrss/1168)
 - [🖼与 RSS 有关的 Coding 向 #教程 分享：第 6 期1️⃣「基于 Liuli 构建纯净的 RSS #公众号 信息流」 #微信 🔥2️⃣「Add RSS Feeds to Your Website to Kee...](https://t.me/aboutrss/1167)
 - [🖼Airss Reader : #开源  超轻量线上 #RSS阅读器因为是纯浏览器端应用，所以需要浏览器或 RSS Feed 能够跨域共享。亦可以搭配 Airtable 作为后端实现多设备同...](https://t.me/aboutrss/1166)
-- [🖼readrrr : 简单的线上 #RSS阅读器https://readrrr.co单栏布局，免费版支持订阅 3 个 Feed 。发现于官方推文:https://twitter.com/_readrrr/status/148383650...](https://t.me/aboutrss/1165)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
