@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼线上 RSS 阅读器 Qi Reader 发布去年夏天 #QiReader 作者告诉我正在开发一款 #RSS阅读器 ，最近终于上线：https://www.qireader.com/主要功能：🔸#PWA 支...](https://t.me/aboutrss/1174)
 - [🖼本周 RSS #玩家 #心得 分享：第 35 期1️⃣「An example of why RSS is useful and important」2️⃣「将 Notion 打造成 RSS 阅读器」3️⃣「Reeder 5 详细...](https://t.me/aboutrss/1173)
 - [🖼为关键词搜索结果建立 RSS Feed 的另一家服务 : GigaAlertGigaAlert 支持中文关键词的新检索结果通知服务（邮件或生成 RSS Feed），可免费检索三个关键词，...](https://t.me/aboutrss/1171)
 - [🖼来自 The Not So Big Company 的 Big News 阅读器目前是 iOS / iPadOS 适配，未来有 MAC 版本：🔸提供用于订阅 Newsletter 的邮箱🔸支持跨设备同步🔸...](https://t.me/aboutrss/1170)
 - [🖼RSS Manager : 火狐上用于页面 RSS 发现的附加组件和 WANTMYRSS 差不多功用， #RSSManager 也是当页面自带 RSS Feed 时，其 #Firefox #浏览器扩展 图标由灰...](https://t.me/aboutrss/1169)
-- [🖼sumi.news : 22刀一年的线上 RSS 阅读器考虑到大家应该都拿到了压岁钱，所以推送一个付费 #RSS阅读器 : https://sumi.news🔸支持订阅 RSS 和 Newsletter�...](https://t.me/aboutrss/1168)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
