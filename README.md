@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼Notion RSS Reader : 利用 #Notion 和 GitHub Actions 的 RSS 阅读器和频道介绍过的 NotionFeeder 同一个套路， #开源 ，需自行配置。官推： https://twitte...](https://t.me/aboutrss/1176)
 - [🖼Cupfeed : 一个 iOS / iPadOS RSS 阅读器https://cupfeed.app/订阅版除了增加订阅数外，可解锁收藏、全文获取、离线使用。发现于https://www.producthunt.co...](https://t.me/aboutrss/1175)
 - [🖼线上 RSS 阅读器 Qi Reader 发布去年夏天 #QiReader 作者告诉我正在开发一款 #RSS阅读器 ，最近终于上线：https://www.qireader.com/主要功能：🔸#PWA 支...](https://t.me/aboutrss/1174)
 - [🖼本周 RSS #玩家 #心得 分享：第 35 期1️⃣「An example of why RSS is useful and important」2️⃣「将 Notion 打造成 RSS 阅读器」3️⃣「Reeder 5 详细...](https://t.me/aboutrss/1173)
 - [🖼为关键词搜索结果建立 RSS Feed 的另一家服务 : GigaAlertGigaAlert 支持中文关键词的新检索结果通知服务（邮件或生成 RSS Feed），可免费检索三个关键词，...](https://t.me/aboutrss/1171)
-- [🖼来自 The Not So Big Company 的 Big News 阅读器目前是 iOS / iPadOS 适配，未来有 MAC 版本：🔸提供用于订阅 Newsletter 的邮箱🔸支持跨设备同步🔸...](https://t.me/aboutrss/1170)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
