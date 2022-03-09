@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 KOReader：支持 RSS 订阅的 E-ink 阅读器  #KOReader 是一款 #开源 阅读工具（10K ⭐️），为 E-ink 设备打造，专注于重排版；可通过插件实现 RSS 订阅的功...](https://t.me/aboutrss/1183)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 7 期  1️⃣「通过 Huginn 制作微信公众号 RSS 源」  2️⃣「Turning a Microsoft ToDo List Into a Public JSON ...](https://t.me/aboutrss/1182)
 - [🖼 「Brave News: Brave desktop users get custom RSS feeds support」  #Brave 浏览器桌面版的 Brave News 开始支持添加自定义 RSS Feed。效果如题图。Ghack...](https://t.me/aboutrss/1180)
 - [🖼 Typefully Profiles 让你用 Twitter Thread 写博客  #Typefully 是 Mailbrew 家的 #Twitter Thread 撰写工具，最近的更新发布了一个让用户利用 #Thread 写...](https://t.me/aboutrss/1177)
 - [🖼 Notion RSS Reader : 利用 #Notion 和 GitHub Actions 的 RSS 阅读器  和频道介绍过的 NotionFeeder 同一个套路， #开源 ，需自行配置。  官推： https://t...](https://t.me/aboutrss/1176)
-- [🖼 Cupfeed : 一个 iOS / iPadOS RSS 阅读器  https://cupfeed.app/  订阅版除了增加订阅数外，可解锁收藏、全文获取、离线使用。  发现于 https://www.produc...](https://t.me/aboutrss/1175)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
