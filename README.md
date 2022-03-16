@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 #播客： RSS3 创始人之一 Joshua 谈 RSS3 与 RSS  上周 #RSS3 创始人之一 Joshua 作客一档 Ask Me Anything 活动，被问及了几个 RSS 用户（包括播客用户）...](https://t.me/aboutrss/1187)
 - [🖼 Smart TOC 二次开发作品：支持 Inoreader 、 Feedly 显示网页大纲  作者基于 Smart TOC 开发了 #Chrome #浏览器扩展，使其支持 HTML 的 H1 H2 等层级大纲在...](https://t.me/aboutrss/1186)
 - [🖼 本周 RSS #玩家 #心得 分享：第 36 期  1️⃣「RSS 订阅使用心得分享」  2️⃣「再聊 RSS」  3️⃣「日拱一卒：使用 Inoreader 订阅 RSS」  4️⃣「RSS使用...](https://t.me/aboutrss/1185)
 - [🖼 Substack Reader 发布 iOS/iPadOS 版  2020年底， #Substack Reader 线上版发布，现在其开始布局 App 端。此次 iOS App 上线之后， Android 版也可在 waitl...](https://t.me/aboutrss/1184)
 - [🖼 KOReader：支持 RSS 订阅的 E-ink 阅读器  #KOReader 是一款 #开源 阅读工具（10K ⭐️），为 E-ink 设备打造，专注于重排版；可通过插件实现 RSS 订阅的功...](https://t.me/aboutrss/1183)
-- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 7 期  1️⃣「通过 Huginn 制作微信公众号 RSS 源」  2️⃣「Turning a Microsoft ToDo List Into a Public JSON ...](https://t.me/aboutrss/1182)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
