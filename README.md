@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSSHub 的近况 今年1月，#RSSHub 的作者 DIYgod 征集项目运维。过完年， RSSHub 的打理人正式变更为 @tony_rl 。我最近与 @tony_rl 联系了一下，获取了一些...](https://t.me/aboutrss/1191)
 - [🖼 「News – 支持 #Miniflux 和 #Nextcloud 的 #RSS阅读器 [ #Android ]」 https://www.appinn.com/co-appreactor-news/ 发现于 https://twitter.com/appinn/...](https://t.me/aboutrss/1190)
 - [🖼 #RSSUnify：RSS Feed 合并服务 可将多个 RSS Feed 合并为一个，并支持一些定制化功能，比如 item 数量、关键词过滤等。 https://feederss.com/index.html ...](https://t.me/aboutrss/1189)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 8 期 1️⃣「RSS 酱 / RSS Chan - A update&amp;push RSS/feed tool」 2️⃣「From #YouTube channel to RSS video po...](https://t.me/aboutrss/1188)
 - [🖼 #播客： RSS3 创始人之一 Joshua 谈 RSS3 与 RSS 上周 #RSS3 创始人之一 Joshua 作客一档 Ask Me Anything 活动，被问及了几个 RSS 用户（包括播客用户）—...](https://t.me/aboutrss/1187)
-- [🖼 Smart TOC 二次开发作品：支持 Inoreader 、 Feedly 显示网页大纲 作者基于 Smart TOC 开发了 #Chrome #浏览器扩展，使其支持 HTML 的 H1 H2 等层级大纲在...](https://t.me/aboutrss/1186)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
