@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Feeder @ GitLab : Android RSS 阅读器 和 Feeder.co 同名，但却是另外一款 #开源 的安卓 RSS阅读器，在 F-Droid 和 Google Play 上发布，更新活跃。 https...](https://t.me/aboutrss/1193)
 - [🖼 本周 RSS #玩家 #心得 分享：第 37 期 1️⃣「RSS 阶段性食用指南【一】」、「RSS 阶段性食用指南【二】」 来自频道 @quanshoulu 的主理人。 2️⃣「RSS + ...](https://t.me/aboutrss/1192)
 - [🖼 RSSHub 的近况 今年1月，#RSSHub 的作者 DIYgod 征集项目运维。过完年， RSSHub 的打理人正式变更为 @tony_rl 。我最近与 @tony_rl 联系了一下，获取了一些...](https://t.me/aboutrss/1191)
 - [🖼 「News – 支持 #Miniflux 和 #Nextcloud 的 #RSS阅读器 [ #Android ]」 https://www.appinn.com/co-appreactor-news/ 发现于 https://twitter.com/appinn/...](https://t.me/aboutrss/1190)
 - [🖼 #RSSUnify：RSS Feed 合并服务 可将多个 RSS Feed 合并为一个，并支持一些定制化功能，比如 item 数量、关键词过滤等。 https://feederss.com/index.html ...](https://t.me/aboutrss/1189)
-- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 8 期 1️⃣「RSS 酱 / RSS Chan - A update&amp;push RSS/feed tool」 2️⃣「From #YouTube channel to RSS video po...](https://t.me/aboutrss/1188)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
