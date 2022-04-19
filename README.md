@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Read You: Android上的仿 Reeder 阅读器 项目 #开源 Repo 上的介绍：「这是一个在 #Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的...](https://t.me/aboutrss/1201)
 - [🖼 本周 RSS #玩家 #心得 分享：第 38 期 1️⃣「我获取信息的方法 2022 版」 2️⃣「没有算法推荐，字节识区能走多远？」 3️⃣「【研究生必看】高效使用RSS...](https://t.me/aboutrss/1200)
 - [🖼 RSS News Ticker：一款 iOS/iPadOS RSS 阅读器 🔸支持 iCloud 同步 🔸支持关键词滤除 https://ticker.salz-amt.co.at/ 发现于 https://sspai.com/post/...](https://t.me/aboutrss/1199)
 - [🖼 RSS2Pocket 工具： Curated #Pocket 是一款稍后读工具，借助 #Curated ，用户可以将 Newsletter、RSS 内容自动导入 Pocket。其官方称未来将设法支持 Twitte...](https://t.me/aboutrss/1198)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 9 期 1️⃣「打破信息茧房，RSSHub 搭建教程」 #bilibili 2️⃣「Feedparser: Python package for reading RSS fe...](https://t.me/aboutrss/1197)
-- [🖼 具备 RSS 阅读器插件的桌面软件 uTools 可以理解 uTools 是一个程序快速启动器，同时其集成了很多自己或社区开发的插件以应对不同的场景，RSS阅读器是其中...](https://t.me/aboutrss/1196)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
