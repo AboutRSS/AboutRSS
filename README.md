@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 10 期 1️⃣「一次个人离线 RSS 体系的搭建过程」 2️⃣「Watching RSS Feeds for Keywords in Pipedream」 3️⃣...](https://t.me/aboutrss/1205)
 - [🖼 iOS RSS 阅读器 期待 发布线上版并开启限免 #期待 发布于 2019 年夏季。昨日发布了 2.35 版，并开启限免： https://apps.apple.com/us/app/%E6%9C%9F%E5%BE...](https://t.me/aboutrss/1204)
 - [🖼 Watch Highlights：在 Apple Watch 上刷 RSS 虽然其版本更新定格于 2020 年，但作为本频道没有涉及过的门类，还是值得一条 post ： https://apps.apple.com...](https://t.me/aboutrss/1203)
 - [🖼 网页 RSS Feed URL 发现服务：Thirdplace Discovery 🔸 #开源 🔸 支持网页端查询、HTTP JSON api 查询、浏览器 bookmarklet 查询 https://discovery.th...](https://t.me/aboutrss/1202)
 - [🖼 Read You: Android上的仿 Reeder 阅读器 项目 #开源 Repo 上的介绍：「这是一个在 #Android 上的 Reeder 仿制品，为了让 Android 拥有一个与 Reeder 相似的...](https://t.me/aboutrss/1201)
-- [🖼 本周 RSS #玩家 #心得 分享：第 38 期 1️⃣「我获取信息的方法 2022 版」 2️⃣「没有算法推荐，字节识区能走多远？」 3️⃣「【研究生必看】高效使用RSS...](https://t.me/aboutrss/1200)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
