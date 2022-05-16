@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Fidder: An RSS reader #bot for #Telegram 新鲜上线的一个电报 RSS 订阅机器人： @FidderBot 。官方频道是： @FidderChannel 。 发现于 https://www.produ...](https://t.me/aboutrss/1209)
 - [🖼 四家老牌 RSS 阅读器发布新版本 1️⃣ ReadKit 3 发布 有相当大的改版，包括价格改为订阅制。可详查这篇日志。 2️⃣ Reeder 发布 5.2 版 增加了 Twitter、...](https://t.me/aboutrss/1208)
 - [🖼 本周 RSS #玩家 #心得 #观点 分享：第 39 期 1️⃣「Notes on Twitter, RSS and the future ahead」 2️⃣「 #FreshRSS 服务器开始测试」（公开实例） 3️...](https://t.me/aboutrss/1207)
 - [[GIF] Reddit Top RSS：设置条件过滤 Subreddit 帖子再生成 RSS Feed 距离上次提及 #Reddit 的 RSS 增强，已过去了两年。这次发现 #开源 的 Reddit Top RSS，可...](https://t.me/aboutrss/1206)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 10 期 1️⃣「一次个人离线 RSS 体系的搭建过程」 2️⃣「Watching RSS Feeds for Keywords in Pipedream」 3️⃣...](https://t.me/aboutrss/1205)
-- [🖼 iOS RSS 阅读器 期待 发布线上版并开启限免 #期待 发布于 2019 年夏季。昨日发布了 2.35 版，并开启限免： https://apps.apple.com/us/app/%E6%9C%9F%E5%BE...](https://t.me/aboutrss/1204)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
