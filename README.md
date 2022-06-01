@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 WebFeed ：一款基于浏览器插件的轻量级 RSS 订阅器 WebFeed 是一款 #浏览器扩展，用于发现网页的 RSS/Atom Feed，并在订阅后提示有新条目。项目 #开源， 支...](https://t.me/aboutrss/1213)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 11 期 1️⃣「RSS Feed Best Practises」 2️⃣「使用自动化工作流聚合信息摄入和输出」 #n8n 3️⃣「使用 #Sonar...](https://t.me/aboutrss/1212)
 - [🖼 pyrsshub： RSSHub 的第三方 Python 版本 项目开源： https://github.com/hillerliao/RSSHub-python ，似乎是在 https://github.com/alphardex/RSSHub-pyth...](https://t.me/aboutrss/1211)
 - [🖼 最近发现的一些 Feed #源 分享： 第 5 期 1️⃣ 「RSS 源分类推荐」 2️⃣ 「值得订阅的中文 RSS」：一个 Twitter Thread 3️⃣ 「Chainfeeds」 ：RSS Aggr...](https://t.me/aboutrss/1210)
 - [🖼 Fidder: An RSS reader #bot for #Telegram 新鲜上线的一个电报 RSS 订阅机器人： @FidderBot 。官方频道是： @FidderChannel 。 发现于 https://www.produ...](https://t.me/aboutrss/1209)
-- [🖼 四家老牌 RSS 阅读器发布新版本 1️⃣ ReadKit 3 发布 有相当大的改版，包括价格改为订阅制。可详查这篇日志。 2️⃣ Reeder 发布 5.2 版 增加了 Twitter、...](https://t.me/aboutrss/1208)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
