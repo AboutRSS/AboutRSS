@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS Feeds 合并工具： mior 项目 #开源，注册用户会得到一个合并后 Feed 的 url，添加的 RSS Feed 支持关键词过滤。 http://mior.ericfu.me/ 发现于作者推...](https://t.me/aboutrss/1215)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 40 期 1️⃣「重新开始使用 RSS 阅读器」 2️⃣「Chainfeeds 的开源信息流解决方案 RAW.opml 的小白完整安装教程」 3️⃣...](https://t.me/aboutrss/1214)
 - [🖼 WebFeed ：一款基于浏览器插件的轻量级 RSS 订阅器 WebFeed 是一款 #浏览器扩展，用于发现网页的 RSS/Atom Feed，并在订阅后提示有新条目。项目 #开源， 支...](https://t.me/aboutrss/1213)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 11 期 1️⃣「RSS Feed Best Practises」 2️⃣「使用自动化工作流聚合信息摄入和输出」 #n8n 3️⃣「使用 #Sonar...](https://t.me/aboutrss/1212)
 - [🖼 pyrsshub： RSSHub 的第三方 Python 版本 项目开源： https://github.com/hillerliao/RSSHub-python ，似乎是在 https://github.com/alphardex/RSSHub-pyth...](https://t.me/aboutrss/1211)
-- [🖼 最近发现的一些 Feed #源 分享： 第 5 期 1️⃣ 「RSS 源分类推荐」 2️⃣ 「值得订阅的中文 RSS」：一个 Twitter Thread 3️⃣ 「Chainfeeds」 ：RSS Aggr...](https://t.me/aboutrss/1210)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
