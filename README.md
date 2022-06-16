@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 聚合阅读平台 Matter Reader 宣告支持 RSS 官方 #Thread ：https://twitter.com/getmatterapp/status/1537117989627080704 内含一个如何添加 RSS url 的指...](https://t.me/aboutrss/1220)
 - [🖼 Reading for RSS：一个 Miniflux 的第三方 iOS 端 APP 是作者为自己自架使用的 #Miniflux 写的 iOS 端， 免费，今年 4 月份发布。 https://apps.apple.com/...](https://t.me/aboutrss/1219)
 - [🖼 ProxiTok: TikTok 的第三方前端 #TikTok 的第三方、无需登录、#开源 、可自架前端也出现了。其就像 Nitter 之于 Twitter，Bibliogram 之于 Instagram，Invi...](https://t.me/aboutrss/1218)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 12 期 1️⃣「RSS 的使用与 Tiny Tiny RSS Selfhost 自建」 2️⃣「Images in Private RSS Feeds」 3️⃣「Make a...](https://t.me/aboutrss/1217)
 - [🖼 OPML-compatible apps list OPML 是基于 XML 的条目式提纲记录格式，常用于收录 RSS Feed url。差不多一年前，频道提及「社群重拾以 #OPML 进行条目梳理的...](https://t.me/aboutrss/1216)
-- [🖼 RSS Feeds 合并工具： mior 项目 #开源，注册用户会得到一个合并后 Feed 的 url，添加的 RSS Feed 支持关键词过滤。 http://mior.ericfu.me/ 发现于作者推...](https://t.me/aboutrss/1215)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
