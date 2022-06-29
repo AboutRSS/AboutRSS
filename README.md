@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Cypht: 带 RSS 阅读器的开源、可自架 Email 网页端服务 邮件服务集成 RSS 订阅并不鲜见，比如 Outlook； #开源 的则有名声在外的 Thunderbird 。还有可自架...](https://t.me/aboutrss/1226)
 - [🖼 Folio Reader：一款 Android 上的 RSS 阅读器 尚在 alpha 阶段，已上架 Google Play： https://foliorss.com/ 有官方电报频道，可以与作者交流反馈： https...](https://t.me/aboutrss/1225)
 - [🖼 频道 @quanshoulu 主理人 Noise 推出 「RSS 指南」项目 Noise 大佬在频道和推特同时发布了这一耗费数月心血得来的 RSS 相关内容收集汇整 #Notion 项目： ht...](https://t.me/aboutrss/1224)
 - [🖼 The feed of Web3 - RSS3: 现支持 RSS 输出 在官网输入钱包地址或 ENS，查询结果页的右上角即有 RSS 标志，即可用 RSS 阅读器订阅该钱包的动态。 URL 用法...](https://t.me/aboutrss/1223)
 - [🖼 Vivaldi Mail 1.0 官方线上直播交流：北京时间 6月24日 01:00 am 浏览器 #Vivaldi 自去年实装邮箱、日历、阅读器功能后，于本月 10 日更新至 Vivaldi Mail ...](https://t.me/aboutrss/1222)
-- [🖼 5000 订阅达成的小礼物 GR14 快要结束，频道截止目前不仅收到 19 位伙伴的捐赠，订阅数亦突破 5000 。撒花！🎊🎊🎊 在达成之前，就在想届时该怎么增...](https://t.me/aboutrss/1221)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
