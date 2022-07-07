@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 在单一 RSS Feed 中进行关键词检索的免费服务 Diva Labs 的一个免费、无需登录产品支持用户自行提交一个 RSS Feed，其索引后即可在该 Feed 的内容中进行关...](https://t.me/aboutrss/1229)
 - [🖼 Symfoz: 主打信息再整合的线上 RSS 阅读器 经过上半年的 Beta 阶段，Symfoz 终于正式面世。其支持订阅 Reddit / Twitter / YouTube / Spotify 和 RSS Feed...](https://t.me/aboutrss/1228)
 - [🖼 电报频道 FindBlog: 收录优质博客并附上 RSS 地址 发现博客 @FindBlog #频道 创建于去年五月。不到 100 篇推送，却已有近 3.5K 的订阅。频道以收录优质中文...](https://t.me/aboutrss/1227)
 - [🖼 Cypht: 带 RSS 阅读器的开源、可自架 Email 网页端服务 邮件服务集成 RSS 订阅并不鲜见，比如 Outlook； #开源 的则有名声在外的 Thunderbird 。还有可自架...](https://t.me/aboutrss/1226)
 - [🖼 Folio Reader：一款 Android 上的 RSS 阅读器 尚在 alpha 阶段，已上架 Google Play： https://foliorss.com/ 有官方电报频道，可以与作者交流反馈： https...](https://t.me/aboutrss/1225)
-- [🖼 频道 @quanshoulu 主理人 Noise 推出 「RSS 指南」项目 Noise 大佬在频道和推特同时发布了这一耗费数月心血得来的 RSS 相关内容收集汇整 #Notion 项目： ht...](https://t.me/aboutrss/1224)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
