@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 iOS RSS 阅读器 Unread 发布 3.0 版 https://www.goldenhillsoftware.com/2022/06/announcing-unread-30-and-unread-cloud/ 与 2020 年发布的 Unread 2 相...](https://t.me/aboutrss/1232)
 - [🖼 Readybot: 面向 Discord 的 RSS 订阅机器人 免费版支持创建 5 个机器人，关联 5 个 #Discord Server，订阅 20 个 RSS Feed，每 10 分钟 1 次内容更新检测。...](https://t.me/aboutrss/1231)
 - [↩️🖼 ALL about RSS 频道 三周岁 生日快乐！ 和 5000 订阅达成的小礼物一样，继续送 Twitter Collection。这次是收集那些分享批量 RSS Feed 的推文，特别是...](https://t.me/aboutrss/1230)
 - [🖼 在单一 RSS Feed 中进行关键词检索的免费服务 Diva Labs 的一个免费、无需登录产品支持用户自行提交一个 RSS Feed，其索引后即可在该 Feed 的内容中进行关...](https://t.me/aboutrss/1229)
 - [🖼 Symfoz: 主打信息再整合的线上 RSS 阅读器 经过上半年的 Beta 阶段，Symfoz 终于正式面世。其支持订阅 Reddit / Twitter / YouTube / Spotify 和 RSS Feed...](https://t.me/aboutrss/1228)
-- [🖼 电报频道 FindBlog: 收录优质博客并附上 RSS 地址 发现博客 @FindBlog #频道 创建于去年五月。不到 100 篇推送，却已有近 3.5K 的订阅。频道以收录优质中文...](https://t.me/aboutrss/1227)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
