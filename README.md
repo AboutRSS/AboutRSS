@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼 FocusReader 作者的新作品：FocusPodcast FocusPodcast 是一款 #Android 上的泛用型 #播客 客户端，来自 FocusReader 作者 Allen ，可惜其电报账号已经 Del...](https://t.me/aboutrss/1233)
+- [🖼 FocusReader 作者的新作品：FocusPodcast FocusPodcast 是一款 #Android 上的泛用型 #播客 客户端，来自 FocusReader 作者 Allen 。可惜其电报账号已经 Del...](https://t.me/aboutrss/1233)
 - [🖼 iOS RSS 阅读器 Unread 发布 3.0 版 https://www.goldenhillsoftware.com/2022/06/announcing-unread-30-and-unread-cloud/ 与 2020 年发布的 Unread 2 相...](https://t.me/aboutrss/1232)
 - [🖼 Readybot: 面向 Discord 的 RSS 订阅机器人 免费版支持创建 5 个机器人，关联 5 个 #Discord Server，订阅 20 个 RSS Feed，每 10 分钟 1 次内容更新检测。...](https://t.me/aboutrss/1231)
 - [↩️🖼 ALL about RSS 频道 三周岁 生日快乐！ 和 5000 订阅达成的小礼物一样，继续送 Twitter Collection。这次是收集那些分享批量 RSS Feed 的推文，特别是...](https://t.me/aboutrss/1230)
