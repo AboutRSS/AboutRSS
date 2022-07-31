@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Podcasting 2.0 ? （二） Podcast Index 的联合创始人 Adam Curry 和 Dave Jones 一直致力于开拓播客领域，筹划播客圈未来发展。自创立 Podcast Index 进行...](https://t.me/aboutrss/1236)
 - [🖼 Podcasting 2.0 ? （一） 还记得 Podcast Index 吗？自 2020 下半年， #Podcastindex 开始为 #播客 的 RSS 协议增加新的字段。经过五轮讨论，目前已在播客 ...](https://t.me/aboutrss/1235)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 41 期 1️⃣「Wait! What happened to RSS?!」 2️⃣「inoreader RSS订阅 让你像刷头条一样获取优质内容」 3️⃣「一个 “...](https://t.me/aboutrss/1234)
 - [🖼 FocusReader 作者的新作品：FocusPodcast FocusPodcast 是一款 #Android 上的泛用型 #播客 客户端，来自 FocusReader 作者 Allen 。可惜其电报账号已经 Del...](https://t.me/aboutrss/1233)
 - [🖼 iOS RSS 阅读器 Unread 发布 3.0 版 https://www.goldenhillsoftware.com/2022/06/announcing-unread-30-and-unread-cloud/ 与 2020 年发布的 Unread 2 相...](https://t.me/aboutrss/1232)
-- [🖼 Readybot: 面向 Discord 的 RSS 订阅机器人 免费版支持创建 5 个机器人，关联 5 个 #Discord Server，订阅 20 个 RSS Feed，每 10 分钟 1 次内容更新检测。...](https://t.me/aboutrss/1231)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
