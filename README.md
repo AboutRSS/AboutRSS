@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 兼容 Markdown 的 RSS —— Dave Winer 的新创造 Dave Winer 在今年提出了一个基于 source namespace，让 RSS 兼容 Markdown 格式的新构想，并在 Twitter ...](https://t.me/aboutrss/1240)
 - [🖼 原生支持 RSS 输出的看板服务：MyBoard 线上 #看板 服务中，频道提及过的 padlet 支持输出 RSS，最近又发现一个 MyBoard 也支持。 在其公开看板的 URL 后面...](https://t.me/aboutrss/1239)
 - [🖼 feeeed: 包括 RSS 订阅在内的信息流定制 App 时下非常流行一站式信息 App， #feeeed 是一款新入局的 #iOS / #iPadOS 平台的这种全能型 #app ，尚在 TestFli...](https://t.me/aboutrss/1238)
 - [🖼 Airshow：Feedbin 家出品的泛用型播客客户端 🔸 iOS / iPadOS 平台 🔸有 Feedbin 账号的话可以跨设备同步 （Feedbin 为付费订阅制） 官网： https://ai...](https://t.me/aboutrss/1237)
 - [🖼 Podcasting 2.0 ? （二） Podcast Index 的联合创始人 Adam Curry 和 Dave Jones 一直致力于开拓播客领域，筹划播客圈未来发展。自创立 Podcast Index 进行...](https://t.me/aboutrss/1236)
-- [🖼 Podcasting 2.0 ? （一） 还记得 Podcast Index 吗？自 2020 下半年， #Podcastindex 开始为 #播客 的 RSS 协议增加新的字段。经过五轮讨论，目前已在播客 ...](https://t.me/aboutrss/1235)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
