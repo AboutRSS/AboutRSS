@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Planet: 兼容 RSS 订阅的静态站点生成器和 IPFS 节点应用 Planet 是 V2EX 站长 Livid 的新产品，让用户通过 IPFS 和 ENS 完全去中心化地读写 #博客 ，同时...](https://t.me/aboutrss/1244)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 13 期 1️⃣「RSS/Atom, Emacs and elfeed」 2️⃣「[WordPress] 客製化 RSS Feed 的方法」 3️⃣「使用RSS打造自...](https://t.me/aboutrss/1243)
 - [🖼 TweetFeed: Dave Winer 的 Twitter-to-RSS 项目 不久前提及的这一项目结束内部测试，现已开放给大家： http://tweetfeed.org/ 本频道推特帐号的 RSS 即为：...](https://t.me/aboutrss/1242)
 - [🖼 Speak News: 主打 text-to-speech 的 RSS 阅读器 该 #iOS / #iPadOS App 于 2016 年发布，更新至今，主打 #TTS ，但是售价较高： http://www.imaja.com/spe...](https://t.me/aboutrss/1241)
 - [🖼 兼容 Markdown 的 RSS —— Dave Winer 的新创造 Dave Winer 在今年提出了一个基于 source namespace，让 RSS 兼容 Markdown 格式的新构想，并在 Twitter ...](https://t.me/aboutrss/1240)
-- [🖼 原生支持 RSS 输出的看板服务：MyBoard 线上 #看板 服务中，频道提及过的 padlet 支持输出 RSS，最近又发现一个 MyBoard 也支持。 在其公开看板的 URL 后面...](https://t.me/aboutrss/1239)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
