@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS #玩家 #心得 #观点 分享：第 42 期 1️⃣「抖音受害者的反思，如何像刷抖音一样地学习」 2️⃣「2022 年还能用的 RSS 源，微信公众号也有！」 3️⃣「T...](https://t.me/aboutrss/1246)
 - [🖼 Android RSS 阅读器 Rolly 转为离线免费应用 收到并感谢内群管理员 @yzqzss 的反馈，因受酷安下架 RSS 应用牵连，小众软件曾介绍过的安卓 RSS 阅读器 App ...](https://t.me/aboutrss/1245)
 - [🖼 Planet: 兼容 RSS 订阅的静态站点生成器和 IPFS 节点应用 Planet 是 V2EX 站长 Livid 的新产品，让用户通过 IPFS 和 ENS 完全去中心化地读写 #博客 ，同时...](https://t.me/aboutrss/1244)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 13 期 1️⃣「RSS/Atom, Emacs and elfeed」 2️⃣「[WordPress] 客製化 RSS Feed 的方法」 3️⃣「使用RSS打造自...](https://t.me/aboutrss/1243)
 - [🖼 TweetFeed: Dave Winer 的 Twitter-to-RSS 项目 不久前提及的这一项目结束内部测试，现已开放给大家： http://tweetfeed.org/ 本频道推特帐号的 RSS 即为：...](https://t.me/aboutrss/1242)
-- [🖼 Speak News: 主打 text-to-speech 的 RSS 阅读器 该 #iOS / #iPadOS App 于 2016 年发布，更新至今，主打 #TTS ，但是售价较高： http://www.imaja.com/spe...](https://t.me/aboutrss/1241)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
