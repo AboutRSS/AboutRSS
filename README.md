@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Buzzing：可供订阅的英文热帖标题的翻译聚合 站方把英文世界里热门讨论的标题用 Deepl 翻译成中文，然后根据不同的主题或来源进行聚合，方便“快速浏览大量...](https://t.me/aboutrss/1250)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 14 期 1️⃣「一种有效的基于 VPS 和 RSS 的科研小白文献阅读策略」 2️⃣「Filtering My RSS Reading」 3️⃣「H...](https://t.me/aboutrss/1249)
 - [🖼 RSS Alerts: RSS 中出现关键词就发邮件通知你 有别于其它 #MAIL2RSS 工具， #RSSAlerts 是加了一层基于设定关键词的过滤，有语义上相关的信息才发邮件： ht...](https://t.me/aboutrss/1248)
 - [🖼 致力于内置解析规则的安卓 RSS 阅读器：想看 作者认为 RSS 阅读器应对不同 RSS Feed 进行定制化解析，比如视频类应该能直接在阅读器内播放。所以「想看」内...](https://t.me/aboutrss/1247)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 42 期 1️⃣「抖音受害者的反思，如何像刷抖音一样地学习」 2️⃣「2022 年还能用的 RSS 源，微信公众号也有！」 3️⃣「T...](https://t.me/aboutrss/1246)
-- [🖼 Android RSS 阅读器 Rolly 转为离线免费应用 收到并感谢内群管理员 @yzqzss 的反馈，因受酷安下架 RSS 应用牵连，小众软件曾介绍过的安卓 RSS 阅读器 App ...](https://t.me/aboutrss/1245)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
