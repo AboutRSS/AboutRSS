@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 FreshRSS 1.20.0 增加网页生成 RSS Feed 功能 接 @dylan_wu 消息， #FreshRSS 在九月的最新更新中有不少新特性支持，其中最为特色的即通过 HTML+XPath 给无...](https://t.me/aboutrss/1256)
 - [🖼 The Feedgram: 基于自然语言处理进行内容推荐的线上 RSS 阅读器 其实也是一种算法推荐，只是完全基于所订阅的 Feed 内容，而不会夹杂浏览时长、交互行为这...](https://t.me/aboutrss/1255)
 - [🖼 根据 Dave Winer ， 9 月 18 日是 RSS 2.0 协议发布 20 周年纪念日： https://twitter.com/davewiner/status/1571417745585242114 频道 ALL-about-RSS GitH...](https://t.me/aboutrss/1254)
 - [🖼 WebFollow 线上 RSS 阅读器：一个开发者的周末项目 作者瑞东的周末开发项目，介绍如下： https://weekendproject.space/posts/webfollow/ 🔸支持 PWA �...](https://t.me/aboutrss/1253)
 - [🖼 Feedolin：KaiOS 上的 RSS 阅读器和播客客户端 KaiOS 是带拨号键盘功能机的智能手机操作系统。Feedolin 是始于 2019 年的面向该系统的 #开源 RSS 阅读器和...](https://t.me/aboutrss/1252)
-- [🖼 RSSPush: 打通 RSS 和 微信 友台介绍得很全乎，本频道就省事了 😎 : 1️⃣ NewlearnerChannel - #RSSPush：监测 RSS 变动，并发送最新内容到 #微信 https...](https://t.me/aboutrss/1251)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
