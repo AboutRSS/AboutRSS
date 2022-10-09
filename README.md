@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS #玩家 #心得 #观点 分享：第 43 期 1️⃣「Why would I need something else than RSS ?」 2️⃣「拒絕演算法洗腦！RSS 讓你奪回閱讀的「自主權」 」 3...](https://t.me/aboutrss/1260)
 - [🖼 Tagembed: 支持用 RSS 生成网页 Widget #Tagembed 是为网页制作挂件的一个服务，支持 #RSS2Widget，且有免费方案： https://tagembed.com/rss-widget/ 常见...](https://t.me/aboutrss/1259)
 - [🖼 Next Level News： 一款 iOS 上的订阅制 RSS 阅读器 Next Level News 主打交互上的丰富功能和便捷，需要每周、每月或每年的订阅付费。 https://nextlevelne...](https://t.me/aboutrss/1258)
 - [🖼 All new Substack Reader for web 2020年底， #Substack 发布了线上阅读器 Substack Reader，前两天释出了直接在 https://substack.com/inbox 阅览的全新版...](https://t.me/aboutrss/1257)
 - [🖼 FreshRSS 1.20.0 增加网页生成 RSS Feed 功能 接 @dylan_wu 消息， #FreshRSS 在九月的最新更新中有不少新特性支持，其中最为特色的即通过 HTML+XPath 给无...](https://t.me/aboutrss/1256)
-- [🖼 The Feedgram: 基于自然语言处理进行内容推荐的线上 RSS 阅读器 其实也是一种算法推荐，只是完全基于所订阅的 Feed 内容，而不会夹杂浏览时长、交互行为这...](https://t.me/aboutrss/1255)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
