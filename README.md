@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Readwise Reader 的一个介绍视频 #YouTube 去年9月就申请加入了 #Readwise Reader 的 waitlist，不过还未收到邀请。好在群友发现了推上大佬体验后并制作的...](https://t.me/aboutrss/1265)
 - [🖼 与 RSS 有关的网页变化监测工具 1️⃣ Check酱：一个浏览器扩展和可自架云端，支持 RSS 内容变化监测 https://gitee.com/easychen/checkchan-dist 2️⃣ Ch...](https://t.me/aboutrss/1264)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 15 期 1️⃣「阿里云函数版 RSS 过滤器」 2️⃣「How I build a clean architecture RSS Feed Reader Android app...](https://t.me/aboutrss/1263)
 - [🖼 「Lettura: 基于 Tauri 的桌面 RSS 阅读器」 #Lettura 是一款面向 #MAC 系统的 RSS 阅读器，作者拟将其从练手项目升级为 #开源 产品，期待大家反馈和鼓励。...](https://t.me/aboutrss/1262)
 - [🖼 Substack 安卓 App 发布 10月5日，Substack Android App 上线 Google Play，自此在移动端和桌面端完成面向主要平台的布局： https://on.substack.com/p/and...](https://t.me/aboutrss/1261)
-- [🖼 RSS #玩家 #心得 #观点 分享：第 43 期 1️⃣「Why would I need something else than RSS ?」 2️⃣「拒絕演算法洗腦！RSS 讓你奪回閱讀的「自主權」 」 3...](https://t.me/aboutrss/1260)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
