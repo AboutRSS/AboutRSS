@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS #玩家 #心得 #观点 分享：第 43 期 1️⃣「RSS 全家桶！」 2️⃣「将邮件转换为 RSS 订阅的工具 Kill the Newsletter」 3️⃣「The Best Self-Hosted, ...](https://t.me/aboutrss/1268)
 - [🖼 Orpington News: 一款需自架的线上版 RSS 阅读器 Self-hosted RSS Reader 门类里有一段时间没有较完整的产品出现了，#开源 的 Orpington News 算是一个。 h...](https://t.me/aboutrss/1267)
 - [🖼 祝贺 FreshRSS 拾年！1024 程序员节快乐！ FreshRSS 发布官网新 UI ，并制作了专门页面以庆祝问世 10 周年： https://freshrss.org/10-years.html 大家可以...](https://t.me/aboutrss/1266)
 - [🖼 Readwise Reader 的一个介绍视频 #YouTube 去年9月就申请加入了 #Readwise Reader 的 waitlist，不过还未收到邀请。好在群友发现了推上大佬体验后并制作的...](https://t.me/aboutrss/1265)
 - [🖼 与 RSS 有关的网页变化监测工具 1️⃣ Check酱：一个浏览器扩展和可自架云端，支持 RSS 内容变化监测 https://gitee.com/easychen/checkchan-dist 2️⃣ Ch...](https://t.me/aboutrss/1264)
-- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 15 期 1️⃣「阿里云函数版 RSS 过滤器」 2️⃣「How I build a clean architecture RSS Feed Reader Android app...](https://t.me/aboutrss/1263)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
