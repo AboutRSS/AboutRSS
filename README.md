@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Dave Winer 的 FeedBase 改名 FeedLand 重新发布 FeedBase 是 FeedLand 的前身，从 “Base” 到 “Land” 意味着 Dave 往里加了不少创意。除了此前的 Feeds...](https://t.me/aboutrss/1271)
 - [🖼 HamsterBase：支持 RSS 输出的网页存档工具 该工具 #开源 ，结束 beta 后会转为收费服务。其支持将存档页面的 url 以 RSS 输出。咨询了开发者，是否会像 Ar...](https://t.me/aboutrss/1270)
 - [🖼 Tabhub.app： 支持在新标签页摆 RSS 订阅 #挂件 的 #浏览器扩展 支持 #Chrome 和 #Edge https://www.tabhub.app/ 发现于 https://twitter.com/liangwenhao3...](https://t.me/aboutrss/1269)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 43 期 1️⃣「RSS 全家桶！」 2️⃣「将邮件转换为 RSS 订阅的工具 Kill the Newsletter」 3️⃣「The Best Self-Hosted, ...](https://t.me/aboutrss/1268)
 - [🖼 Orpington News: 一款需自架的线上版 RSS 阅读器 Self-hosted RSS Reader 门类里有一段时间没有较完整的产品出现了，#开源 的 Orpington News 算是一个。 h...](https://t.me/aboutrss/1267)
-- [🖼 祝贺 FreshRSS 拾年！1024 程序员节快乐！ FreshRSS 发布官网新 UI ，并制作了专门页面以庆祝问世 10 周年： https://freshrss.org/10-years.html 大家可以...](https://t.me/aboutrss/1266)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
