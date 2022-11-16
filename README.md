@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Artykul: 支持苹果系统桌面端和移动端的 RSS 阅读器 感谢群管理转发 Efficiency资源干货全收录 频道内容，分享了一款适配 #Mac #iOS #iPadOS 的 RSS 阅读器...](https://t.me/aboutrss/1274)
 - [🖼 最近发现的一些 Feed #源 分享： 第 6 期 1️⃣「2022年值得持续阅读的内容平台」 2️⃣「Scrapes the headlines from BBC News indexes every five minute...](https://t.me/aboutrss/1273)
 - [🖼 Mastofeed: 一个 RSS2Mastodon 工具 用于让 #Mastodon 账号自动发布 RSS Feed 内容。 https://mastofeed.org/ 发现于 https://twitter.com/crid/status/158...](https://t.me/aboutrss/1272)
 - [🖼 Dave Winer 的 FeedBase 改名 FeedLand 重新发布 FeedBase 是 FeedLand 的前身，从 “Base” 到 “Land” 意味着 Dave 往里加了不少创意。除了此前的 Feeds...](https://t.me/aboutrss/1271)
 - [🖼 HamsterBase：支持 RSS 输出的网页存档工具 该工具非开源，仅提供压缩后的 javascript； 提供了 #开源 的 SDK 和 API 文档；结束 beta 后会转为收费服务。...](https://t.me/aboutrss/1270)
-- [🖼 Tabhub.app： 支持在新标签页摆 RSS 订阅 #挂件 的 #浏览器扩展 支持 #Chrome 和 #Edge https://www.tabhub.app/ 发现于 https://twitter.com/liangwenhao3...](https://t.me/aboutrss/1269)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
