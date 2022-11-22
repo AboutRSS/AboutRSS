@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Feedle: A Search Engine for Blogs and Podcasts 本频道此前聊过基于 RSS Feed 的搜索引擎，但相关应用在实用和美观方面都不尽人意。最近 NetNewsWire 官...](https://t.me/aboutrss/1277)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 16 期 1️⃣「开发一个 RSS 阅读器 02 - 建立模型和基本的页面」 2️⃣「开发一个 RSS 阅读器 03 - 文章列表」 3...](https://t.me/aboutrss/1276)
 - [🖼 OpenRSS: 致力于给诸多平台上的公开信息提供 RSS 支持 如其名称一样， OpenRSS 致力于助力信息的公开流动，为各大平台集成 RSS 功能，第三方地发布以 openr...](https://t.me/aboutrss/1275)
 - [🖼 Artykul: 支持苹果系统桌面端和移动端的 RSS 阅读器 感谢群管理转发 Efficiency资源干货全收录 频道内容，分享了一款适配 #Mac #iOS #iPadOS 的 RSS 阅读器...](https://t.me/aboutrss/1274)
 - [🖼 最近发现的一些 Feed #源 分享： 第 6 期 1️⃣「2022年值得持续阅读的内容平台」 2️⃣「Scrapes the headlines from BBC News indexes every five minute...](https://t.me/aboutrss/1273)
-- [🖼 Mastofeed: 一个 RSS2Mastodon 工具 用于让 #Mastodon 账号自动发布 RSS Feed 内容。 https://mastofeed.org/ 发现于 https://twitter.com/crid/status/158...](https://t.me/aboutrss/1272)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
