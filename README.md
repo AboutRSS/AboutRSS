@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 17 期 1️⃣「Open source Five Filters Full Text RSS can be self-hosted in a Docker container to retrieve f...](https://t.me/aboutrss/1280)
 - [🖼 Feed Filter Maker： RSS Feed 过滤和合并工具 🔸导入 OPML 后将其中 Feeds 合并输出为一个 RSS Feed 🔸过滤支持 include 和 exclude 两种模式 https:/...](https://t.me/aboutrss/1279)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 45 期 1️⃣「构建自己的信息简报」 2️⃣「Use RSS for privacy and efficiency」 3️⃣「RSS — 20 年前的技术助你在纷...](https://t.me/aboutrss/1278)
 - [🖼 Feedle: A Search Engine for Blogs and Podcasts 本频道此前聊过基于 RSS Feed 的搜索引擎，但相关应用在实用和美观方面都不尽人意。最近 NetNewsWire 官...](https://t.me/aboutrss/1277)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 16 期 1️⃣「开发一个 RSS 阅读器 02 - 建立模型和基本的页面」 2️⃣「开发一个 RSS 阅读器 03 - 文章列表」 3...](https://t.me/aboutrss/1276)
-- [🖼 OpenRSS: 致力于给诸多平台上的公开信息提供 RSS 支持 如其名称一样， OpenRSS 致力于助力信息的公开流动，为各大平台集成 RSS 功能，第三方地发布以 openr...](https://t.me/aboutrss/1275)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
