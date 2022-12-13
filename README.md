@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Infomate.club: 自架一个个人信息集散地 用 RSS 构建自己的一站式信息入口，除了自架阅读器外，也可以尝试 Informate.club 这种信息页自架工具，依据主题或...](https://t.me/aboutrss/1283)
 - [🖼 最近一些自带 RSS Feed 的 #博客 平台或生成器 （二） 频道曾出过一期 blog 平台的列表，最近又有些新的可以补充进来了，且花样更多，比如用 iOS 备忘录写...](https://t.me/aboutrss/1282)
 - [🖼 FeedBurner 新界面及使用教程 一年半之前 Google 宣布 FeedBurner 将有所变化，答案即为功能的精简和风格的统一化。「免費資源網路社群」就此作了详尽介绍...](https://t.me/aboutrss/1281)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 17 期 1️⃣「Open source Five Filters Full Text RSS can be self-hosted in a Docker container to retrieve f...](https://t.me/aboutrss/1280)
 - [🖼 Feed Filter Maker： RSS Feed 过滤和合并工具 🔸导入 OPML 后将其中 Feeds 合并输出为一个 RSS Feed 🔸过滤支持 include 和 exclude 两种模式 https:/...](https://t.me/aboutrss/1279)
-- [🖼 RSS #玩家 #心得 #观点 分享：第 45 期 1️⃣「构建自己的信息简报」 2️⃣「Use RSS for privacy and efficiency」 3️⃣「RSS — 20 年前的技术助你在纷...](https://t.me/aboutrss/1278)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
