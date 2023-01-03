@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Yakread： 线上一站式阅读器 为什么说一站式，因为 Ta： 🔸支持 RSS 和 Newsletter 订阅 🔸支持导入 Pocket 和 Instapaper 稍后读 🔸支持关联 Twitte...](https://t.me/aboutrss/1288)
 - [🖼 RSS Can：基于 Go 语言的 RSSHub 新替代 RSS 罐头是最新的 RSSHub 替代项目，#开源，目前有 6 个 Feed 生成路由： https://github.com/soulteary/RSS-Can ...](https://t.me/aboutrss/1287)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 18 期 1️⃣「How to post to mastodon automatically from an RSS Feed」 2️⃣「Create a YouTube RSS Feed Wit...](https://t.me/aboutrss/1286)
 - [🖼 RSS2JSON 服务 线上： 🔸 https://rss2json.com 🔸 https://feed2json.org/ 🔸 https://rss-to-json-serverless-api.vercel.app/ #开源 需部署： �...](https://t.me/aboutrss/1285)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 46 期 1️⃣「WordPress 博客只有订阅才能长存」 2️⃣「如何发布一档播客」 3️⃣「Rediscovering RSS」 4️⃣「RSS 入门...](https://t.me/aboutrss/1284)
-- [🖼 Infomate.club: 自架一个个人信息集散地 用 RSS 构建自己的一站式信息入口，除了自架阅读器外，也可以尝试 Informate.club 这种信息页自架工具，依据主题或...](https://t.me/aboutrss/1283)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
