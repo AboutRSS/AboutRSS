@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 最近发现的一些 Feed #源 分享： 第 7 期 1️⃣「Feed43 生成 RSS 订阅源分享」 2️⃣「A Big Pile of Personal Developer &amp; Designer Blogs in an OPML Fi...](https://t.me/aboutrss/1296)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 48 期 1️⃣「Dinosaur Rss 🦕 的前世今生」 2️⃣「使用 InoReader 和 Readwise Reader 实现双层过滤与稍后读」 #bilib...](https://t.me/aboutrss/1295)
 - [🖼 小众软件：「烟·红 – 在新标签页查看 RSS 订阅」 支持 #Firefox 和 #Chrome： https://www.appinn.com/yan-hong-rss-reader-in-new-tab/ 类似 #浏览器扩...](https://t.me/aboutrss/1294)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 19 期 1️⃣「Self-hosting FreshRSS &lpar;for free&rpar; on Fly.io in under 10 minutes」 2️⃣「Dynamic Sitemap + RSS...](https://t.me/aboutrss/1293)
 - [🖼 Aaron Swartz 逝世 10 周年 分享一则纪念推串： https://twitter.com/Patticus/status/1613218956122198032](https://t.me/aboutrss/1292)
-- [🖼 付费工具 Ktool 支持 #RSS2Kindle 和导入 OPML Ktool 用于将各种网络内容优化并发送至 #Kindle ，近期陆续上线了 RSS 订阅功能和 OPML 导入功能，见作者官...](https://t.me/aboutrss/1291)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
