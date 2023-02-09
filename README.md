@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 therssproject：RSS2Webhook 工具 频道以前介绍过一款 Webhook2RSS 的工具， therssproject 则是反过来，将 RSS 新内容变为一个 webhook 发送到指定位置： ...](https://t.me/aboutrss/1299)
 - [🖼 Matcha：面向 Obsidian 等 Markdown 浏览软件的 RSS 订阅器 #开源，可在 Markdown 阅读器或命令行终端中使用，支持 Mac / Linux / Win 系统。 https://gith...](https://t.me/aboutrss/1298)
 - [🖼 Stario Launcher: 有一屏 RSS 订阅的 Android 启动器 Stario 是一款 #安卓 手机桌面 #启动器，支持在一屏上实现 RSS 条目标题展示： https://www.producthu...](https://t.me/aboutrss/1297)
 - [🖼 最近发现的一些 Feed #源 分享： 第 7 期 1️⃣「Feed43 生成 RSS 订阅源分享」 2️⃣「A Big Pile of Personal Developer &amp; Designer Blogs in an OPML Fi...](https://t.me/aboutrss/1296)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 48 期 1️⃣「Dinosaur Rss 🦕 的前世今生」 2️⃣「使用 InoReader 和 Readwise Reader 实现双层过滤与稍后读」 #bilib...](https://t.me/aboutrss/1295)
-- [🖼 小众软件：「烟·红 – 在新标签页查看 RSS 订阅」 支持 #Firefox 和 #Chrome： https://www.appinn.com/yan-hong-rss-reader-in-new-tab/ 类似 #浏览器扩...](https://t.me/aboutrss/1294)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
