@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS 应用官方 Mastodon 帐号收集 退推潮中，一些 RSS 应用另设了 #Mastodon 帐号，收集如下，欢迎补充： Feedbin: @feedbin@feedbin.social Unread: @unrea...](https://t.me/aboutrss/1301)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 20 期 1️⃣「利用 check酱 监控网页并生成 RSS」 2️⃣「RSS Feed Integration using Node.js &lpar;Express&rpar;」 3️⃣...](https://t.me/aboutrss/1300)
 - [🖼 therssproject：RSS2Webhook 工具 频道以前介绍过一款 Webhook2RSS 的工具， therssproject 则是反过来，将 RSS 新内容变为一个 webhook 发送到指定位置： ...](https://t.me/aboutrss/1299)
 - [🖼 Matcha：面向 Obsidian 等 Markdown 浏览软件的 RSS 订阅器 #开源，可在 Markdown 阅读器或命令行终端中使用，支持 Mac / Linux / Win 系统。 https://gith...](https://t.me/aboutrss/1298)
 - [🖼 Stario Launcher: 有一屏 RSS 订阅的 Android 启动器 Stario 是一款 #安卓 手机桌面 #启动器，支持在一屏上实现 RSS 条目标题展示： https://www.producthu...](https://t.me/aboutrss/1297)
-- [🖼 最近发现的一些 Feed #源 分享： 第 7 期 1️⃣「Feed43 生成 RSS 订阅源分享」 2️⃣「A Big Pile of Personal Developer &amp; Designer Blogs in an OPML Fi...](https://t.me/aboutrss/1296)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
