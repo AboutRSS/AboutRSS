@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 21 期 1️⃣「RSSHub 编写新手教程」 2️⃣「FreshRSS 使用 Xpath 订阅没有开放 RSS 的博客」 3️⃣「Create an R...](https://t.me/aboutrss/1304)
 - [🖼 MoFeed：正在寻求内测的线上 RSS / Newsletter 阅读器 作者在 Reddit 上开贴介绍了 MoFeed 这一独立开发产品： https://www.reddit.com/r/rss/comments/119...](https://t.me/aboutrss/1303)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 49 期 1️⃣「How I Follow the News with RSS」 2️⃣「Finding RSS feeds」 3️⃣「以 RSS 为中心的信息获取系统」 4️...](https://t.me/aboutrss/1302)
 - [🖼 RSS 应用官方 Mastodon 帐号收集 退推潮中，一些 RSS 应用另设了 #Mastodon 帐号，收集如下，欢迎补充： Feedbin: @feedbin@feedbin.social Unread: @unrea...](https://t.me/aboutrss/1301)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 20 期 1️⃣「利用 check酱 监控网页并生成 RSS」 2️⃣「RSS Feed Integration using Node.js &lpar;Express&rpar;」 3️⃣...](https://t.me/aboutrss/1300)
-- [🖼 therssproject：RSS2Webhook 工具 频道以前介绍过一款 Webhook2RSS 的工具， therssproject 则是反过来，将 RSS 新内容变为一个 webhook 发送到指定位置： ...](https://t.me/aboutrss/1299)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
