@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 SearQ: 一个基于 RSS Feeds 的搜索 API 此前开发了 RSS 搜索引擎 DatoRSS 的作者，将其搜索服务以 RESTful API 的形式重新推出： https://searq.org/ 作者...](https://t.me/aboutrss/1308)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 50 期 1️⃣「Becoming a Power Reader: Battling Information Overload, Developing Skills, and Building a Personal Br...](https://t.me/aboutrss/1307)
 - [🖼 Huntly: 一个需自架的信息管理工具 #开源 项目，作者推文把功能介绍得很清楚： https://twitter.com/lcomplete_wild/status/1632686445671636993 有 Demo ...](https://t.me/aboutrss/1306)
 - [🖼 线上书： 《Indie Microblogging》 去年，Micro.blog 的站长 Manton Reece 写了一本线上公开的书，关于开放网络下的微型博客。我最近才发现，虽然后知后觉...](https://t.me/aboutrss/1305)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 21 期 1️⃣「RSSHub 编写新手教程」 2️⃣「FreshRSS 使用 Xpath 订阅没有开放 RSS 的博客」 3️⃣「Create an R...](https://t.me/aboutrss/1304)
-- [🖼 MoFeed：正在寻求内测的线上 RSS / Newsletter 阅读器 作者在 Reddit 上开贴介绍了 MoFeed 这一独立开发产品： https://www.reddit.com/r/rss/comments/119...](https://t.me/aboutrss/1303)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
