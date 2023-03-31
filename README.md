@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 一个就叫「RSS 阅读器」的 Chrome / Edge 浏览器扩展 详见「小众软件」的介绍： https://www.appinn.com/rss-reader-in-chrome/ 项目主页： https://logspo...](https://t.me/aboutrss/1312)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 22 期 1️⃣「NAS 下搭建 RSS 订阅监测，随时获取最新动态」 2️⃣「Site Search Powered by JSON Feed」 3️⃣「...](https://t.me/aboutrss/1311)
 - [🖼 FeedGears：一个免费、在线 RSS 阅读器 作者在 Reddit 写了介绍： https://www.reddit.com/r/rss/comments/11qj60k/feedgears_rss_readeraggregator_platfo...](https://t.me/aboutrss/1310)
 - [🖼 Versionfeeds: 将多个开源项目 Release 生成为一个 Feed 作者就喜欢在 RSS 阅读器里获知其关注项目的版本更新，所以做了这个服务来专门解决这个问题。支持 ...](https://t.me/aboutrss/1309)
 - [🖼 SearQ: 一个基于 RSS Feeds 的搜索 API 此前开发了 RSS 搜索引擎 DatoRSS 的作者，将其搜索服务以 RESTful API 的形式重新推出： https://searq.org/ 作者...](https://t.me/aboutrss/1308)
-- [🖼 RSS #玩家 #心得 #观点 分享：第 50 期 1️⃣「Becoming a Power Reader: Battling Information Overload, Developing Skills, and Building a Personal Br...](https://t.me/aboutrss/1307)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
