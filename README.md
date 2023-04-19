@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 FeedGrid.io : 一个主打网格式布局的在线 RSS 阅读器 如其名称，该站把订阅内容网格化排布，每个 Item 一个网格，以题图和文章标题展示。可以多个网格标签...](https://t.me/aboutrss/1317)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 51 期 1️⃣「10 years of empowering users: Happy birthday, Inoreader! 🎂」 👏 2️⃣「今天才发现 V2EX 可以 RSS ...](https://t.me/aboutrss/1316)
 - [🖼 GistReader: 利用 AI 生成文章摘要的线上 RSS 阅读器 自 Feedly 和 Matcha 之后，又看到一个集成了 AI 来生成订阅文章摘要的 #RSS阅读器 ： https://gistre...](https://t.me/aboutrss/1315)
 - [🖼 MeRead - 悦读: 一款使用 Flutter 构建的 Android RSS 阅读器 项目开源，据 RSS 玩家反馈：“可以调行距，自定义 CSS”。 https://github.com/gvenusleo/me...](https://t.me/aboutrss/1314)
 - [🖼 Feed43 的替代品： RSSEverything Feed43 是一个为无 RSS 网页生成 RSS Feed 的工具，大家都很喜欢，因为容易上手。但自从失效后，苦于并无合适的替代。好...](https://t.me/aboutrss/1313)
-- [🖼 一个就叫「RSS 阅读器」的 Chrome / Edge 浏览器扩展 详见「小众软件」的介绍： https://www.appinn.com/rss-reader-in-chrome/ 项目主页： https://logspo...](https://t.me/aboutrss/1312)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
