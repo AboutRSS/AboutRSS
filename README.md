@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Kodoku: 一个「开源自部署网页，帮助更好的追踪你的 RSS 订阅」 项目 #开源，可基于 Notion 模板并一键部署于 Vercel 上。支持看板式条目展示，预览网页： ...](https://t.me/aboutrss/1321)
 - [🖼 最近发现的一些 Feed #源 分享： 第 8 期 1️⃣「制作了几个 Twitter List 的 RSS 订阅源」：前端及 AI 方面 2️⃣「中文优质 RSS 源 top - 高质量信息」：...](https://t.me/aboutrss/1320)
 - [🖼 Legado | 开源阅读：支持 RSS 订阅的阅读工具 开源阅读主打读书服务，其频道有 20k 人，影响力可见一斑。该 #Android 应用支持导入 RSS 订阅源。 https://g...](https://t.me/aboutrss/1319)
 - [POD GENIE：一个 RSS2Podcast 的收费服务 该服务支持用 AI 将 RSS 文本生成为 #播客 有声内容，适合文字工作者向音频领域拓展。和 RSS 阅读器的 TTS 支持都是文...](https://t.me/aboutrss/1318)
 - [🖼 FeedGrid.io : 一个主打网格式布局的在线 RSS 阅读器 如其名称，该站把订阅内容网格化排布，每个 Item 一个网格，以题图和文章标题展示。可以多个网格标签...](https://t.me/aboutrss/1317)
-- [🖼 RSS #玩家 #心得 #观点 分享：第 51 期 1️⃣「10 years of empowering users: Happy birthday, Inoreader! 🎂」 👏 2️⃣「今天才发现 V2EX 可以 RSS ...](https://t.me/aboutrss/1316)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
