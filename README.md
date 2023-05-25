@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Mastofeeder: 把 Mastodon 当 RSS 阅读器用 项目 #开源，让 Mastodon 可以订阅任何 RSS Feed，原理是将 RSS Feed 包装成一个 Mastodon 用户，例如 @xkcd.co...](https://t.me/aboutrss/1327)
 - [🖼 RSS Gizmos: 一个 RSS 玩家的自制工具箱 目前 RSS Gizmos 包含 9 个面向 RSS 使用中一些痛点的小工具，比如，输入一个 RSS Feed Url，基于前 20 个条目反馈...](https://t.me/aboutrss/1326)
 - [🖼 Apricot: 讲究随时随地使用的线上 RSS 阅读器 🔸无广告 🔸可切换算法排序和按时间排序 🔸支持基于 ChatGPT 的摘要生成 🔸支持 OPML 导入导出 🔸...](https://t.me/aboutrss/1325)
 - [🖼 RSS-Translation：使用 GitHub Action + Google Translate 实现翻译 RSS 订阅源全文 如题，项目 #开源，目前翻译了 3 个 RSS 源。项目地址如下： https://t...](https://t.me/aboutrss/1324)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 23 期 1️⃣「Embedding RSS Feeds on My Static Website」 2️⃣「把群晖打造成 BT 自动下载服务器」 3️⃣「使...](https://t.me/aboutrss/1323)
-- [🖼 Zeabur：支持一键部署 RSSHub 实例 Zeabur 是一个线上服务的一键部署平台，目前支持了 RSSHub 的一键部署。站方也提供了简单教程和操作动图： https://t.me...](https://t.me/aboutrss/1322)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
