@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS Hosting: RSS Feed 自定义生成 频道曾经介绍过 rsstodolist，自行填充 url 来生成一个 RSS Feed。 RSS Hosting 也是同类服务，自由度更大，填充文本也...](https://t.me/aboutrss/1329)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 52 期 1️⃣「使用 RSS 深度阅读的正确姿势」 2️⃣「杜冰. 基于RSS阅读器的文献追踪方法与实践[J]. 教育进展, 2023, 13&lpar;2...](https://t.me/aboutrss/1328)
 - [🖼 Mastofeeder: 把 Mastodon 当 RSS 阅读器用 项目 #开源，让 Mastodon 可以订阅任何 RSS Feed，原理是将 RSS Feed 包装成一个 Mastodon 用户，例如 @xkcd.co...](https://t.me/aboutrss/1327)
 - [🖼 RSS Gizmos: 一个 RSS 玩家的自制工具箱 目前 RSS Gizmos 包含 9 个面向 RSS 使用中一些痛点的小工具，比如，输入一个 RSS Feed Url，基于前 20 个条目反馈...](https://t.me/aboutrss/1326)
 - [🖼 Apricot: 讲究随时随地使用的线上 RSS 阅读器 🔸无广告 🔸可切换算法排序和按时间排序 🔸支持基于 ChatGPT 的摘要生成 🔸支持 OPML 导入导出 🔸...](https://t.me/aboutrss/1325)
-- [🖼 RSS-Translation：使用 GitHub Action + Google Translate 实现翻译 RSS 订阅源全文 如题，项目 #开源，目前翻译了 3 个 RSS 源。项目地址如下： https://t...](https://t.me/aboutrss/1324)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
