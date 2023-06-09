@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 feed-generator.app：直观进行 RSS 2.0、ATOM、JSON 三种 Feed 格式的比较 频道转发过介绍 Feed 格式的文章，也转发过开发者的不同喜好，这次终于有直接比...](https://t.me/aboutrss/1335)
 - [🖼 FeedSubscription：为博客更新提供邮箱订阅支持 该服务本质上是一个 #RSS2MAIL ，递交博客的 RSS 然后生成邮箱订阅框供嵌入到博客主页： https://feedsubsc...](https://t.me/aboutrss/1334)
 - [🖼 Reabble for Android: 第三方优化适配 的 Reabble 安卓版 App 应用作者为 #Kindle 等电纸书上的 RSS 阅读器 Reabble 套了壳以用在 #安卓 系统上，并进行了...](https://t.me/aboutrss/1333)
 - [🖼 两个 RSS 相关应用的大版本更新 🔹RSS 阅读器 CommaFeed 更新 3.0 版：新UI 、官方 Docker 支持 https://twitter.com/CommaFeed/status/1651160081499652...](https://t.me/aboutrss/1332)
 - [🖼 积薪： 一个中文独立博客导航站 博客聚合一直是发现好内容，进而 RSS 订阅之的途径之一。Darmau 的中文 #独立博客 导航站“积薪”利用 AI 进行文章分类、摘...](https://t.me/aboutrss/1331)
-- [🖼 Call Annie: 内嵌 RSS 订阅内容语音播报支持 这是一款主打 AI 对话的应用，其 iOS APP 在每日早报功能中支持播报一个 RSS Feed 的内容及由 AI 生成的摘要。...](https://t.me/aboutrss/1330)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
