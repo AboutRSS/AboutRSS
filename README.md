@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 简朴: 内置 RSS 阅读器的安卓手机管理工具 App #开源，属于主打多功能集成的一站式手机管理工具，所以内置了 RSS 阅读器： https://github.com/ismartcodin...](https://t.me/aboutrss/1338)
 - [🖼 RSSbot: 一个 RSSHub 和自架 TTRSS 阅读器之间的中转电报机器人 当自架有 Tiny Tiny RSS （TTRSS） 时，可以一并自架该 bot，用于在 Telegram 上完成 RSSHu...](https://t.me/aboutrss/1337)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 24 期 1️⃣「Embedding RSS Feeds on My Static Website」 2️⃣「使用 Cloudflare Workers 反代 RSS 订阅」 3️...](https://t.me/aboutrss/1336)
 - [🖼 feed-generator.app：直观进行 RSS 2.0、ATOM、JSON 三种 Feed 格式的比较 频道转发过介绍 Feed 格式的文章，也转发过开发者的不同喜好，这次终于有直接比...](https://t.me/aboutrss/1335)
 - [🖼 FeedSubscription：为博客更新提供邮箱订阅支持 该服务本质上是一个 #RSS2MAIL ，递交博客的 RSS 然后生成邮箱订阅框供嵌入到博客主页： https://feedsubsc...](https://t.me/aboutrss/1334)
-- [🖼 Reabble for Android: 第三方优化适配 的 Reabble 安卓版 App 应用作者为 #Kindle 等电纸书上的 RSS 阅读器 Reabble 套了壳以用在 #安卓 系统上，并进行了...](https://t.me/aboutrss/1333)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
