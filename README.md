@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 feedless: RSS 使用过程中的中间套件 该中间件工具亦是一站式架构，集成众多功能： 🔸全文获取、多媒体内容识别 🔸Webpage2RSS 🔸RSS 合并 🔸RSS ...](https://t.me/aboutrss/1340)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 53 期 1️⃣「618 RSSHub 订阅《什么值得买》榜单分享」 2️⃣「Browsers removed the RSS Button and they should bring ...](https://t.me/aboutrss/1339)
 - [🖼 简朴: 内置 RSS 阅读器的安卓手机管理工具 App #开源，属于主打多功能集成的一站式手机管理工具，所以内置了 RSS 阅读器： https://github.com/ismartcodin...](https://t.me/aboutrss/1338)
 - [🖼 RSSbot: 一个 RSSHub 和自架 TTRSS 阅读器之间的中转电报机器人 当自架有 Tiny Tiny RSS （TTRSS） 时，可以一并自架该 bot，用于在 Telegram 上完成 RSSHu...](https://t.me/aboutrss/1337)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 24 期 1️⃣「Embedding RSS Feeds on My Static Website」 2️⃣「使用 Cloudflare Workers 反代 RSS 订阅」 3️...](https://t.me/aboutrss/1336)
-- [🖼 feed-generator.app：直观进行 RSS 2.0、ATOM、JSON 三种 Feed 格式的比较 频道转发过介绍 Feed 格式的文章，也转发过开发者的不同喜好，这次终于有直接比...](https://t.me/aboutrss/1335)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
