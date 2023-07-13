@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Stratum: iOS / Android 双端 RSS 阅读器 App App 今年上线，采用免费 + 订阅制开启 AI 摘要、无限 Feed 、无广告等高级功能的模式。具备账户系统，因此可...](https://t.me/aboutrss/1348)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 54 期 1️⃣「Atom Feed Format Was Born 20 Years Ago」✨ 2️⃣「十年前的 7 月：Google Reader 被关闭」 3️⃣「RSS fo...](https://t.me/aboutrss/1347)
 - [🖼 ALL about RSS 频道 四周岁 生日快乐！ RSS 虽老，但活力不减，以致于频道又实现了年更百篇。本想用 tg-archive 做一下备份，生成一个带 RSS Feed 的静态站...](https://t.me/aboutrss/1346)
 - [🖼 Vore: 极简单栏线上 RSS 阅读器 极简风格，只有订阅、展示内容功能，别无其它： https://vore.website/ 作者写的介绍： https://j3s.sh/thought/vore-a-new...](https://t.me/aboutrss/1345)
 - [🖼 feedsin.space: RSS feeds on the Fediverse 项目 #开源，和 MastoFeed 差不多，都是用 RSS 伪装成一个 #Mastodon 帐号。 https://feedsin.space/ 作者写的...](https://t.me/aboutrss/1344)
-- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 25 期 1️⃣「如何给你的 Next.js（App 路由）应用添加 RSS」 2️⃣「Sitemap, RSS Feed, &amp; Static Routes with N...](https://t.me/aboutrss/1343)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
