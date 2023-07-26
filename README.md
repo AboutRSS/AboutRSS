@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Schema Structured Syndication: 面向网文/网漫等个人创作内容的 Feed 规范 为便于个人创作者面向受众自由发布其作品，不受制于平台，在 RSS 规范的启发下...](https://t.me/aboutrss/1352)
 - [🖼 Podcast-Standard: 基于 60K+ 播客 Feed 的 RSS 字段分析报告 该数据分析和可视化站专注于 #播客 RSS Feed 中各个字段的使用频率，可以直观感受哪些字段最...](https://t.me/aboutrss/1351)
 - [🖼 Feed4Email: 一个 #Newsletter2RSS 服务 该项目采用订阅制，2.99 刀每月，可免费试用 14 天。 https://feed4.email/ 同类服务有 Kill the Newsletter 等。 ...](https://t.me/aboutrss/1350)
 - [🖼 最近发现的一些 Feed #源 分享： 第 9 期 1️⃣「Find Blog👁发现博客」频道主理人的 RSS 订阅源分享 2️⃣「List &lpar;OPML&rpar; of Hacker News Users Personal...](https://t.me/aboutrss/1349)
 - [🖼 Stratum: iOS / Android 双端 RSS 阅读器 App App 今年上线，采用免费 + 订阅制开启 AI 摘要、无限 Feed 、无广告等高级功能的模式。具备账户系统，因此可...](https://t.me/aboutrss/1348)
-- [🖼 RSS #玩家 #心得 #观点 分享：第 54 期 1️⃣「Atom Feed Format Was Born 20 Years Ago」✨ 2️⃣「十年前的 7 月：Google Reader 被关闭」 3️⃣「RSS fo...](https://t.me/aboutrss/1347)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
