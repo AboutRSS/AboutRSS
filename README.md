@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSSBud v2.0 发布 时隔两年，RSSBud 终于发布了 2.0 版本。相较定位为 #RSSHub 的 #开源 辅助 App 的 1.0 版本，2.0 版本已升级为一个 RSS Feed 发现工具和...](https://t.me/aboutrss/1356)
 - [🖼 FeedFlow: 极简 RSS 订阅 App 项目 #开源；有安卓、iOS/iPadOS、macOS 版；订阅条目仅供浏览器打开。 https://www.feedflow.dev/ 发现于作者写的介绍推文串...](https://t.me/aboutrss/1355)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 26 期 1️⃣「How does the Official Node.js News Feeder work?」 2️⃣「RSS Enclosure Support in Micro.Blog...](https://t.me/aboutrss/1353)
 - [🖼 Schema Structured Syndication: 面向网文/网漫等个人创作内容的 Feed 规范 为便于个人创作者面向受众自由发布其作品，不受制于平台，在 RSS 规范的启发下...](https://t.me/aboutrss/1352)
 - [🖼 Podcast-Standard: 基于 60K+ 播客 Feed 的 RSS 字段分析报告 该数据分析和可视化站专注于 #播客 RSS Feed 中各个字段的使用频率，可以直观感受哪些字段最...](https://t.me/aboutrss/1351)
-- [🖼 Feed4Email: 一个 #Newsletter2RSS 服务 该项目采用订阅制，2.99 0.99 刀每月，可免费试用 14 天。 https://feed4.email/ 同类服务有 Kill the Newsletter ...](https://t.me/aboutrss/1350)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
