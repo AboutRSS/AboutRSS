@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Digest: 一个 Newsletter 生成服务 饱受好评的 Newsletter 生成服务 Mailbrew 自四月易主后被打入冷宫以来，其官方账号和开发者推特下就一直不缺来咨询或求...](https://t.me/aboutrss/1361)
 - [🖼 Read Copilot: AI 加持的 iOS 平台 RSS 阅读器 App 该项目上线月余，主打 AI 摘要生成特色。 https://cybertrek.eu.org/ 发现于作者推文： https://twitter...](https://t.me/aboutrss/1360)
 - [🖼 「用 RSSHub 替代 Feed43」 为了让 #RSSHub 能够规则化地将任意的 HTML 和 JSON 转换为 RSS，Wechat2RSS 作者贡献了代码，且已并入 RSSHub。 原理是在路由...](https://t.me/aboutrss/1359)
 - [🖼 RSS 阅读器 #蚁阅 作者 家中遭遇不幸，目前正在寻求法律援助。看到的朋友如果有能力帮忙，可以私信我获取他的联系方式；或者帮手转发，以助尽快找到律师。...](https://t.me/aboutrss/1358)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 55 期 1️⃣「我有特别的 RSS 使用技巧」 2️⃣「Settings for QuiteRSS」 3️⃣「RSS 的不完全实践，搭建自己感兴趣的信...](https://t.me/aboutrss/1357)
-- [🖼 RSSBud v2.0 发布 时隔两年，RSSBud 终于发布了 2.0 版本。相较定位为 #RSSHub 的 #开源 辅助 App 的 1.0 版本，2.0 版本已升级为一个 RSS Feed 发现工具和...](https://t.me/aboutrss/1356)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
