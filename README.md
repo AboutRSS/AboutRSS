@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 FeedReader App: 一个用于显示 RSS Feed 内容的 bookmarklet 把 FeedReader 主页上的按钮拖到浏览器收藏夹里即可用来查询和显示当前网页的 RSS Feed： http...](https://t.me/aboutrss/1364)
 - [🖼 RSSPath：用 AI 烧制 RSS Feed 题目里“烧制”这个词放在当下应该很难被看懂，其来源于 FeedBurner，现在看来很有刀耕火种的质感。AI 则是一把新火，一样可...](https://t.me/aboutrss/1363)
 - [🖼 Den for RSS: 一款多栏苹果生态 RSS 阅读器 App 该项目问世于 2020 年，作者持续更新至今，App #开源，支持 MacOS\iOS\iPadOS，需付费购买。 https://den.i...](https://t.me/aboutrss/1362)
 - [🖼 Digest: 一个 Newsletter 生成服务 饱受好评的 Newsletter 生成服务 Mailbrew 自四月易主后被打入冷宫以来，其官方账号和开发者推特下就一直不缺来咨询或求...](https://t.me/aboutrss/1361)
 - [🖼 Read Copilot: AI 加持的 iOS 平台 RSS 阅读器 App 该项目上线月余，主打 AI 摘要生成特色。 https://cybertrek.eu.org/ 发现于作者推文： https://twitter...](https://t.me/aboutrss/1360)
-- [🖼 「用 RSSHub 替代 Feed43」 为了让 #RSSHub 能够规则化地将任意的 HTML 和 JSON 转换为 RSS，Wechat2RSS 作者贡献了代码，且已并入 RSSHub。 原理是在路由...](https://t.me/aboutrss/1359)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
