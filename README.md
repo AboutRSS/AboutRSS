@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 27 期 1️⃣「exploring rssreader with jbang」 1 &amp; 2 2️⃣「Get Your Own Self-hosted RSS Reader With Tiny T...](https://t.me/aboutrss/1366)
 - [🖼 Nitter Instance Uptime &amp; Health #Nitter 是 X 的第三方开源前端，著名用法是 #Twitter2RSS 。现在为推文生成 RSS 越来越艰难，所以有个实例附带了 「Nitt...](https://t.me/aboutrss/1365)
 - [🖼 FeedReader App: 一个用于显示 RSS Feed 内容的 bookmarklet 把 FeedReader 主页上的按钮拖到浏览器收藏夹里即可用来查询和显示当前网页的 RSS Feed： http...](https://t.me/aboutrss/1364)
 - [🖼 RSSPath：用 AI 烧制 RSS Feed 题目里“烧制”这个词放在当下应该很难被看懂，其来源于 FeedBurner，现在看来很有刀耕火种的质感。AI 则是一把新火，一样可...](https://t.me/aboutrss/1363)
 - [🖼 Den for RSS: 一款多栏苹果生态 RSS 阅读器 App 该项目问世于 2020 年，作者持续更新至今，App #开源，支持 MacOS\iOS\iPadOS，需付费购买。 https://den.i...](https://t.me/aboutrss/1362)
-- [🖼 Digest: 一个 Newsletter 生成服务 饱受好评的 Newsletter 生成服务 Mailbrew 自四月易主后被打入冷宫以来，其官方账号和开发者推特下就一直不缺来咨询或求...](https://t.me/aboutrss/1361)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
