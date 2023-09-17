@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS #玩家 #心得 #观点 分享：第 56 期 1️⃣「Feed43 倒了，还有好用的网页生成RSS服务吗？」 2️⃣「Add Miniflux Feed on-the-go with Shortcuts」 3️...](https://t.me/aboutrss/1369)
 - [🖼 Omnivore: 支持用 RSS 输入内容的稍后读服务 该 Read-it-later 服务 #开源，有 iOS / Android app、浏览器扩展、Logseq 插件、Obsidian 插件等等，可以订阅...](https://t.me/aboutrss/1368)
 - [🖼 RSS-GPT: 「AI 总结 RSS Feed」 此前介绍的 RSSPath 能用 AI 烧制 RSS Feed，这次的 RSS-GPT 则是用 GitHub Actions 完成了该概念的 #开源 实现。作者写了...](https://t.me/aboutrss/1367)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 27 期 1️⃣「exploring rssreader with jbang」 1 &amp; 2 2️⃣「Get Your Own Self-hosted RSS Reader With Tiny T...](https://t.me/aboutrss/1366)
 - [🖼 Nitter Instance Uptime &amp; Health #Nitter 是 X 的第三方开源前端，著名用法是 #Twitter2RSS 。现在为推文生成 RSS 越来越艰难，所以有个实例附带了 「Nitt...](https://t.me/aboutrss/1365)
-- [🖼 FeedReader App: 一个用于显示 RSS Feed 内容的 bookmarklet 把 FeedReader 主页上的按钮拖到浏览器收藏夹里即可用来查询和显示当前网页的 RSS Feed： http...](https://t.me/aboutrss/1364)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
