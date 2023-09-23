@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 最近发现的一些 Feed #源 分享： 第 10 期 1️⃣「我制作并维护的微信公众号 RSS 列表（40 个）」 2️⃣ xLog 热榜 RSS Feeds 3️⃣「Engineering blogs」 ...](https://t.me/aboutrss/1371)
 - [🖼 ReadBot: 一款 iOS 端 RSS 阅读器 作者写的介绍挺全面了，请移步： https://v2ex.com/t/972052](https://t.me/aboutrss/1370)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 56 期 1️⃣「Feed43 倒了，还有好用的网页生成RSS服务吗？」 2️⃣「Add Miniflux Feed on-the-go with Shortcuts」 3️...](https://t.me/aboutrss/1369)
 - [🖼 Omnivore: 支持用 RSS 输入内容的稍后读服务 该 Read-it-later 服务 #开源，有 iOS / Android app、浏览器扩展、Logseq 插件、Obsidian 插件等等，可以订阅...](https://t.me/aboutrss/1368)
 - [🖼 RSS-GPT: 「AI 总结 RSS Feed」 此前介绍的 RSSPath 能用 AI 烧制 RSS Feed，这次的 RSS-GPT 则是用 GitHub Actions 完成了该概念的 #开源 实现。作者写了...](https://t.me/aboutrss/1367)
-- [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 27 期 1️⃣「exploring rssreader with jbang」 1 &amp; 2 2️⃣「Get Your Own Self-hosted RSS Reader With Tiny T...](https://t.me/aboutrss/1366)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
