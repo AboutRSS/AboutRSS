@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Feedful: 线上多栏 RSS 阅读器 该站点是一个免费的多栏 RSS 阅读器。“多栏”现在也叫“TweetDeck”风格。 https://feedful.app/ ilovefreesoftware 写了一...](https://t.me/aboutrss/1374)
 - [🖼 RSS feed ASAP: 一站式 RSS Feed 发现服务 该工具支持将 · YouTube · Spotify · iTunes Podcasts · Google Podcasts · Google News · SoundCloud · ...](https://t.me/aboutrss/1373)
 - [🖼 「[免费] RSS 翻译器 开始内测啦」 该工具支持输入一个 RSS Feed，返回一个把 item title 翻译为所选语言的 RSS Feed： https://www.rsstranslator.com/ 作...](https://t.me/aboutrss/1372)
 - [🖼 最近发现的一些 Feed #源 分享： 第 10 期 1️⃣「我制作并维护的微信公众号 RSS 列表（40 个）」 2️⃣ xLog 热榜 RSS Feeds 3️⃣「Engineering blogs」 ...](https://t.me/aboutrss/1371)
 - [🖼 ReadBot: 一款 iOS 端 RSS 阅读器 作者写的介绍挺全面了，请移步： https://v2ex.com/t/972052](https://t.me/aboutrss/1370)
-- [🖼 RSS #玩家 #心得 #观点 分享：第 56 期 1️⃣「Feed43 倒了，还有好用的网页生成RSS服务吗？」 2️⃣「Add Miniflux Feed on-the-go with Shortcuts」 3️...](https://t.me/aboutrss/1369)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
