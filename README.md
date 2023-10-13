@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Proxigram: 可自架的 #开源 #Instagram 前端 自频道提及过的 Bibliogram 项目终止之后，#Instagram2RSS 一直没有解决方案。群友发现了一个新的项目填补了该...](https://t.me/aboutrss/1376)
 - [🖼 rssTea: 利用 GitHub Actions 的 RSS 阅读器 接开发者 PR，提交了 #开源 项目 rssTea，利用 GitHub Actions 进行 RSS 及播客内容更新和展示，支持 PWA。 ht...](https://t.me/aboutrss/1375)
 - [🖼 Feedful: 线上多栏 RSS 阅读器 该站点是一个免费的多栏 RSS 阅读器。“多栏”现在也叫“TweetDeck”风格。 https://feedful.app/ ilovefreesoftware 写了一...](https://t.me/aboutrss/1374)
 - [🖼 RSS feed ASAP: 一站式 RSS Feed 发现服务 该工具支持将 · YouTube · Spotify · iTunes Podcasts · Google Podcasts · Google News · SoundCloud · ...](https://t.me/aboutrss/1373)
 - [🖼 「[免费] RSS 翻译器 开始内测啦」 该工具支持输入一个 RSS Feed，返回一个把 item title 翻译为所选语言的 RSS Feed： https://www.rsstranslator.com/ 作...](https://t.me/aboutrss/1372)
-- [🖼 最近发现的一些 Feed #源 分享： 第 10 期 1️⃣「我制作并维护的微信公众号 RSS 列表（40 个）」 2️⃣ xLog 热榜 RSS Feeds 3️⃣「Engineering blogs」 ...](https://t.me/aboutrss/1371)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
