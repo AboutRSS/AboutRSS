@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼 RSS #玩家 #心得 #观点 分享：第 57 期 1️⃣「How I use my RSS reader」 2️⃣「探索信息海洋：RSS 阅读器大比拼」 3️⃣「如何通过 Tinyletter 订阅 RSS...](https://t.me/aboutrss/1380)
 - [🖼 「RSS Worker：运行在 Cloudflare Worker 上的 RSS 生成工具」 项目 #开源，目前支持为 Bilibili 动态、Telegram 频道、Weibo 用户、小红书用户生成 RSS Fe...](https://t.me/aboutrss/1379)
 - [🖼 Agr Reader: 一个安卓端 RSS 阅读器 APP 🔸 Material 3 风格 🔸 全文解析、离线阅读 🔸 桌面小组件 🔸 自定义阅读样式配置 🔸 支持 WebDav 备份 ...](https://t.me/aboutrss/1378)
 - [🖼 与 RSS 有关的 Coding 向 #教程 分享：第 28 期 1️⃣「RSS Bridge deployment with Docker」 2️⃣「How to create an RSS feed in Nuxt Content」 3️⃣...](https://t.me/aboutrss/1377)
 - [🖼 Proxigram: 可自架的 #开源 #Instagram 前端 自频道提及过的 Bibliogram 项目终止之后，#Instagram2RSS 一直没有解决方案。群友发现了一个新的项目填补了该...](https://t.me/aboutrss/1376)
+- [🖼 rssTea: 利用 GitHub Actions 的 RSS 阅读器 接开发者 PR，提交了 #开源 项目 rssTea，利用 GitHub Actions 进行 RSS 及播客内容更新和展示，支持 PWA。 ht...](https://t.me/aboutrss/1375)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
