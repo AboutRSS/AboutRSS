@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 FeedDeck: 全平台 RSS 阅读器 从其名称可以看出，项目是从 TweetDeck 那种多栏布局启发而来，支持以下平台： 🔸iOS/iPadOS/MacOS 🔸Android 🔸Window...](https://t.me/aboutrss/1383)
 - [🖼 Buttondown: 支持 #RSS2Newsletter 的 Newsletter 服务 #RSS2Newsletter 的工具一直层出不穷，关停的也多。接开发者的 Pull Request，Buttondown 站长帮手...](https://t.me/aboutrss/1382)
 - [↩️🖼 「Twine: 动效出色的轻量 RSS 客户端」暨 1024 程序员节快乐！ 项目 #开源，支持 Android 和 iOS/iPadOS 平台。支持收藏、搜索等基本功能，视效不错。 ...](https://t.me/aboutrss/1381)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 57 期 1️⃣「How I use my RSS reader」 2️⃣「探索信息海洋：RSS 阅读器大比拼」 3️⃣「如何通过 Tinyletter 订阅 RSS...](https://t.me/aboutrss/1380)
 - [🖼 「RSS Worker：运行在 Cloudflare Worker 上的 RSS 生成工具」 项目 #开源，目前支持为 Bilibili 动态、Telegram 频道、Weibo 用户、小红书用户生成 RSS Fe...](https://t.me/aboutrss/1379)
-- [🖼 Agr Reader: 一个安卓端 RSS 阅读器 APP 🔸 Material 3 风格 🔸 全文解析、离线阅读 🔸 桌面小组件 🔸 自定义阅读样式配置 🔸 支持 WebDav 备份 ...](https://t.me/aboutrss/1378)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
