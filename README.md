@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 29 期 1️⃣「One-click deploy your podcast website via RSS」 #开源 2️⃣「Omnivore2RSS: Simple cloud...](https://t.me/aboutrss/1385)
 - [🖼 EndOfYear: 利用博客 RSS 自动生成年度统计报告网页 基于博客全文 RSS 进行的统计主要包括以下方面： 🔸博客存在多久 🔸今年博文数 🔸今年发表总字数...](https://t.me/aboutrss/1384)
 - [🖼 FeedDeck: 全平台 RSS 阅读器 从其名称可以看出，项目是从 TweetDeck 那种多栏布局启发而来，支持以下平台： 🔸iOS/iPadOS/MacOS 🔸Android 🔸Window...](https://t.me/aboutrss/1383)
 - [🖼 Buttondown: 支持 #RSS2Newsletter 的 Newsletter 服务 #RSS2Newsletter 的工具一直层出不穷，关停的也多。接开发者的 Pull Request，Buttondown 站长帮手...](https://t.me/aboutrss/1382)
 - [↩️🖼 「Twine: 动效出色的轻量 RSS 客户端」暨 1024 程序员节快乐！ 项目 #开源，支持 Android 和 iOS/iPadOS 平台。支持收藏、搜索等基本功能，视效不错。 ...](https://t.me/aboutrss/1381)
-- [🖼 RSS #玩家 #心得 #观点 分享：第 57 期 1️⃣「How I use my RSS reader」 2️⃣「探索信息海洋：RSS 阅读器大比拼」 3️⃣「如何通过 Tinyletter 订阅 RSS...](https://t.me/aboutrss/1380)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
