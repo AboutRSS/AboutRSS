@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 加强版 RSS-OPML-to-Markdown 五年前， @idealclover 用 Python 写了 #OPML2Markdown 的小工具，本频道也曾经用过。最近在 AI 指导下，我给加了点料，主要...](https://t.me/aboutrss/1387)
 - [🖼 G Reader: a simple RSS feed reader bot for Telegram 该电报的 RSS bot 项目 #开源，特色是 /manage 命令会开启一个电报“小程序”，如题图。 Bot: https...](https://t.me/aboutrss/1386)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 29 期 1️⃣「One-click deploy your podcast website via RSS」 #开源 2️⃣「Omnivore2RSS: Simple cloud...](https://t.me/aboutrss/1385)
 - [🖼 EndOfYear: 利用博客 RSS 自动生成年度统计报告网页 基于博客全文 RSS 进行的统计主要包括以下方面： 🔸博客存在多久 🔸今年博文数 🔸今年发表总字数...](https://t.me/aboutrss/1384)
 - [🖼 FeedDeck: 全平台 RSS 阅读器 从其名称可以看出，项目是从 TweetDeck 那种多栏布局启发而来，支持以下平台： 🔸iOS/iPadOS/MacOS 🔸Android 🔸Window...](https://t.me/aboutrss/1383)
-- [🖼 Buttondown: 支持 #RSS2Newsletter 的 Newsletter 服务 #RSS2Newsletter 的工具一直层出不穷，关停的也多。接开发者的 Pull Request，Buttondown 站长帮手...](https://t.me/aboutrss/1382)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
