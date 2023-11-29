@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 StreamSphere: 一款 Android RSS 阅读器 app 官方称支持无限订阅数，上限取决于设备内存。😁 https://play.google.com/store/apps/details?id=com.niviva...](https://t.me/aboutrss/1394)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 58 期 1️⃣「The Future of RSS is Textcasting」 2️⃣「YouTube regrets its pseudopodcasts; embraces RSS!」 3️⃣「...](https://t.me/aboutrss/1393)
 - [🖼 YouTube 在播客业务上拥抱 RSS 🔸 播客主播现在可以在 YouTube Studio 提交播客的 RSS 地址，提交之后主播在 RSS 里添加的新节目都会被自动转换成一个静...](https://t.me/aboutrss/1390)
 - [🖼 Readine: 全平台 RSS 阅读器 https://readine.app/ 支持桌面、移动、网页端，详见作者的介绍： https://www.reddit.com/r/rss/comments/17tjn7x/introducin...](https://t.me/aboutrss/1389)
 - [🖼 加强版 RSS-OPML-to-Markdown 五年前， @idealclover 用 Python 写了 #OPML2Markdown 的小工具，本频道也曾经用过。最近在 AI 指导下，我给加了点料，主要...](https://t.me/aboutrss/1387)
-- [🖼 G Reader: a simple RSS feed reader bot for Telegram 该电报的 RSS bot 项目 #开源，特色是 /manage 命令会开启一个电报“小程序”，如题图。 Bot: https...](https://t.me/aboutrss/1386)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
