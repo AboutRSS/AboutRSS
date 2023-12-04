@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 VeRSSion: 面向项目新版本释出的 RSS Feed 生成服务 和频道提及过的 Versionfeeds 差不多， VeRSSion 也是用来订阅项目新版本释出的，不过其生成 RSS 的信...](https://t.me/aboutrss/1396)
 - [🖼 最近发现的一些 Feed #源 分享： 第 11 期 1️⃣「App Defaults 项目的 RSS Feeds」 2️⃣「State.gov: 200 travel alerts RSS feeds [pdf]」 3️⃣「十年...](https://t.me/aboutrss/1395)
 - [🖼 StreamSphere: 一款 Android RSS 阅读器 app 官方称支持无限订阅数，上限取决于设备内存。😁 https://play.google.com/store/apps/details?id=com.niviva...](https://t.me/aboutrss/1394)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 58 期 1️⃣「The Future of RSS is Textcasting」 2️⃣「YouTube regrets its pseudopodcasts; embraces RSS!」 3️⃣「...](https://t.me/aboutrss/1393)
 - [🖼 YouTube 在播客业务上拥抱 RSS 🔸 播客主播现在可以在 YouTube Studio 提交播客的 RSS 地址，提交之后主播在 RSS 里添加的新节目都会被自动转换成一个静...](https://t.me/aboutrss/1390)
-- [🖼 Readine: 全平台 RSS 阅读器 https://readine.app/ 支持桌面、移动、网页端，详见作者的介绍： https://www.reddit.com/r/rss/comments/17tjn7x/introducin...](https://t.me/aboutrss/1389)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
