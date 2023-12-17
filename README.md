@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 30 期 1️⃣「Please, Expose your RSS」🔥 2️⃣「【搞机零距离】免費一键搭建 RSSHub 服務器」 #YouTub...](https://t.me/aboutrss/1398)
 - [🖼 Feed Extractor: 一个线上 RSS2JSON 工具 该工具 #开源 ， 有一个 Demo 在这里： https://extractor-demos.pages.dev/feed-extractor 而且该工具已被上百个...](https://t.me/aboutrss/1397)
 - [🖼 VeRSSion: 面向项目新版本释出的 RSS Feed 生成服务 和频道提及过的 Versionfeeds 差不多， VeRSSion 也是用来订阅项目新版本释出的，不过其生成 RSS 的信...](https://t.me/aboutrss/1396)
 - [🖼 最近发现的一些 Feed #源 分享： 第 11 期 1️⃣「App Defaults 项目的 RSS Feeds」 2️⃣「State.gov: 200 travel alerts RSS feeds [pdf]」 3️⃣「十年...](https://t.me/aboutrss/1395)
 - [🖼 StreamSphere: 一款 Android RSS 阅读器 app 官方称支持无限订阅数，上限取决于设备内存。😁 https://play.google.com/store/apps/details?id=com.niviva...](https://t.me/aboutrss/1394)
-- [🖼 RSS #玩家 #心得 #观点 分享：第 58 期 1️⃣「The Future of RSS is Textcasting」 2️⃣「YouTube regrets its pseudopodcasts; embraces RSS!」 3️⃣「...](https://t.me/aboutrss/1393)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
