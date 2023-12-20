@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Quickify: 安卓上一站式阅读工具 该 App 是订阅制解锁 PRO 功能。 🔸支持 RSS / Newsletter / 电子书 / PDF 等形式内容 🔸支持安卓手机、平板、折叠设...](https://t.me/aboutrss/1399)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 30 期 1️⃣「Please, Expose your RSS」🔥 2️⃣「【搞机零距离】免費一键搭建 RSSHub 服務器」 #YouTub...](https://t.me/aboutrss/1398)
 - [🖼 Feed Extractor: 一个线上 RSS2JSON 工具 该工具 #开源 ， 有一个 Demo 在这里： https://extractor-demos.pages.dev/feed-extractor 而且该工具已被上百个...](https://t.me/aboutrss/1397)
 - [🖼 VeRSSion: 面向项目新版本释出的 RSS Feed 生成服务 和频道提及过的 Versionfeeds 差不多， VeRSSion 也是用来订阅项目新版本释出的，不过其生成 RSS 的信...](https://t.me/aboutrss/1396)
 - [🖼 最近发现的一些 Feed #源 分享： 第 11 期 1️⃣「App Defaults 项目的 RSS Feeds」 2️⃣「State.gov: 200 travel alerts RSS feeds [pdf]」 3️⃣「十年...](https://t.me/aboutrss/1395)
-- [🖼 StreamSphere: 一款 Android RSS 阅读器 app 官方称支持无限订阅数，上限取决于设备内存。😁 https://play.google.com/store/apps/details?id=com.niviva...](https://t.me/aboutrss/1394)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
