@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Feeds Fun: 用 AI 给订阅内容打标签的 RSS 阅读器 自动打 tag 的目的是为了给感兴趣的标签加分，给不感兴趣的标签减分，来调整内容的排序。项目 #开源，可...](https://t.me/aboutrss/1404)
 - [🖼 RSS Parrot: 将 Mastodon 变成 RSS 订阅器 在 Masodon 向 @birb@rss-parrot.net 发送 RSS 地址或有 RSS 的博客链接即可进行相应内容的订阅： https://rss-p...](https://t.me/aboutrss/1403)
 - [🖼 Collie: 一个简单的本地 RSS 阅读器 #开源，支持 Mac、Win 和 Linux 平台： https://parksb.github.io/work/17.html 发现于 https://twitter.com/caesiumpa...](https://t.me/aboutrss/1402)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 59 期 祝大家新年快乐！ 🎊 1️⃣「如何订阅一个博客？」 🔥 2️⃣「Reconstructing the Anthro Blogosphere with RSS...](https://t.me/aboutrss/1401)
 - [🖼 Feed Style: 让 RSS Feed 页变得美观易读 频道推送过利用 xsl 美化 RSS feed 的技巧，想用起来至少还是需要知道怎么去写 xsl。Feed Style 则进一步降低了应...](https://t.me/aboutrss/1400)
-- [🖼 Quickify: 安卓上一站式阅读工具 该 App 是订阅制解锁 PRO 功能。 🔸支持 RSS / Newsletter / 电子书 / PDF 等形式内容 🔸支持安卓手机、平板、折叠设...](https://t.me/aboutrss/1399)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
