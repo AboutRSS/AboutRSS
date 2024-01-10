@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [↩️ Wechat2RSS 项目计划开发可自架版本，需求征集中…… https://github.com/ttttmr/Wechat2RSS/issues/123 如果没有 GitHub 账号，也可以来频道内群直接向开...](https://t.me/aboutrss/1407)
 - [🖼 RSS Anything: 一个给网页生成 RSS Feed 的服务 不知道怎么实现的，但效果好像还可以： https://rss.diffbot.com/ 发现于 https://twitter.com/coolXiao/st...](https://t.me/aboutrss/1406)
 - [🖼 rss-lambda: 一个 RSS 过滤服务 #开源，可自架，目前支持的操作有： 🔸 过滤标题的关键词 🔸 过滤内容的关键词 🔸 只挑选带图的 用法见 Repo： https...](https://t.me/aboutrss/1405)
 - [🖼 Feeds Fun: 用 AI 给订阅内容打标签的 RSS 阅读器 自动打 tag 的目的是为了给感兴趣的标签加分，给不感兴趣的标签减分，来调整内容的排序。项目 #开源，可...](https://t.me/aboutrss/1404)
 - [🖼 RSS Parrot: 将 Mastodon 变成 RSS 订阅器 在 Mastodon 向 @birb@rss-parrot.net 发送 RSS 地址或有 RSS 的博客链接即可进行相应内容的订阅： https://rss-...](https://t.me/aboutrss/1403)
-- [🖼 Collie: 一个简单的本地 RSS 阅读器 #开源，支持 Mac、Win 和 Linux 平台： https://parksb.github.io/work/17.html 发现于 https://twitter.com/caesiumpa...](https://t.me/aboutrss/1402)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
