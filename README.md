@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Freshet: 基于主动赞/踩和自动标签来进行内容排序的 RSS 阅读器 该服务是在线 RSS 阅读器，通过用户自己点击“More”、“Meh”和“Less”来判断用户兴趣点...](https://t.me/aboutrss/1411)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 60 期 1️⃣「万物皆可 RSS | 信息源的获取和聚合」 2️⃣「RSS was a glimpse of a future」 3️⃣「Please, Own Your RS...](https://t.me/aboutrss/1410)
 - [🖼 Coldsweat: 一个基于 Python 环境的需自架 RSS 阅读器 这个 #开源 项目有十年之久了。作者在去年基于 Python 3 重制了 Coldsweat，支持 Fever API： https:...](https://t.me/aboutrss/1409)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 31 期 1️⃣「如何订阅 Q 外的 RSS？方法来了」🔥 2️⃣「Exposed RSS」 3️⃣「Don&#39;t Change Your RSS U...](https://t.me/aboutrss/1408)
 - [↩️ Wechat2RSS 项目计划开发可自架版本，需求征集中…… https://github.com/ttttmr/Wechat2RSS/issues/123 如果没有 GitHub 账号，也可以来频道内群直接向开...](https://t.me/aboutrss/1407)
-- [🖼 RSS Anything: 一个给网页生成 RSS Feed 的服务 不知道怎么实现的，但效果好像还可以： https://rss.diffbot.com/ 发现于 https://twitter.com/coolXiao/st...](https://t.me/aboutrss/1406)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
