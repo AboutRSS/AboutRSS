@@ -1,7 +1,7 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
 - [🖼 RSS #玩家 #心得 #观点 分享：第 61 期 1️⃣「RSS is still pretty great」 2️⃣「The top five RSS readers for keeping up with your news feeds」 3️...](https://t.me/aboutrss/1416)
-- [🖼 Aggregator News: 一款安卓端 RSS 阅读器 收到开发者投稿，推荐该款 Android 平台上无需注册、免费的 RSS 阅读器 app，具备常见功能： https://play.google...](https://t.me/aboutrss/1415)
+- [🖼 Aggregator News: 一款安卓端 RSS 阅读器 收到开发者投稿，推荐该款 Android 平台上无需注册、免费的 RSS 阅读器 app，具备常见功能： https://and96.githu...](https://t.me/aboutrss/1415)
 - [🖼 最近发现的一些 Feed #源 分享： 第 12 期 1️⃣「Attention arXiv users: Re-implemented RSS」 2️⃣ X友 Andrew Bamboo 的 RSS Feed 分享 3️⃣「博客聚...](https://t.me/aboutrss/1414)
 - [🖼 Tinyread: AI-Powered RSS 简报生成工具 Tinyread 是面向 MacOS 上 Raycast 启动器开发的一个插件，主要功能： - 把自己感兴趣的 RSS，每天定时生成一份 AI...](https://t.me/aboutrss/1413)
 - [🖼 RSS Translator: 开源、简洁、可自部署的 RSS 翻译器 频道此前介绍过该服务的在线免费版。开发者最近将其转为了可自架版本，感谢群友转发通知： https://t....](https://t.me/aboutrss/1412)
