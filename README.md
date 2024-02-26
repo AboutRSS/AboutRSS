@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Wire: 以网页呈现为特色的 RSS 阅读器 App 接开发者提交的 PR，收录了一款 iOS/iPadOS 下的免费 RSS 阅读器 —— Wire： https://wirereader.app/ 一般 RSS...](https://t.me/aboutrss/1420)
 - [🖼 「RSSHub Radar 上架 App Store 首发限免」 RSSHub Radar 的 iOS 版本上架，是一款 Safari #浏览器扩展，在 Settings 里打开该插件及页面访问权限，即可在 ...](https://t.me/aboutrss/1419)
 - [🖼 IndieFeed.link: 呈现一个美化后的 RSS Feed 相对于此前提及过的 Feed Style，#开源 项目 IndieFeed.link 更进一步，直接支持为任何 Feed 生成一个易于阅读...](https://t.me/aboutrss/1418)
 - [🖼 Bulletin - AI News: 又一款 AI 加持的 RSS 阅读器 App Apple 全平台适配，主打 AI 摘要和标题（去除夺眼球标题或博点击标题）生成，详见作者的推文串： ht...](https://t.me/aboutrss/1417)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 61 期 1️⃣「RSS is still pretty great」 2️⃣「The top five RSS readers for keeping up with your news feeds」 3️...](https://t.me/aboutrss/1416)
-- [🖼 Aggregator News: 一款安卓端 RSS 阅读器 收到开发者投稿，推荐该款 Android 平台上无需注册、免费的 RSS 阅读器 app，具备常见功能： https://and96.githu...](https://t.me/aboutrss/1415)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
