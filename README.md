@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Refeed: 一款线上 RSS 阅读器 该项目 #开源 可自架，官方站点可免费使用，也可订阅制付费升级。免费版支持 100 以内 Feeds，无广告，全文获取。 https://re...](https://t.me/aboutrss/1422)
 - [🖼 RSS to Tweet: AI Tweets From your RSS Feeds 这是一个 ChatGPT 辅助下 2 个小时完成的副业项目，给定一个 RSS Feed 后， 由 AI 把条目内容按推文形式整理...](https://t.me/aboutrss/1421)
 - [🖼 Wire: 以网页呈现为特色的 RSS 阅读器 App 接开发者提交的 PR，收录了一款 iOS/iPadOS 下的免费 RSS 阅读器 —— Wire： https://wirereader.app/ 一般 RSS...](https://t.me/aboutrss/1420)
 - [🖼 「RSSHub Radar 上架 App Store 首发限免」 RSSHub Radar 的 iOS 版本上架，是一款 Safari #浏览器扩展，在 Settings 里打开该插件及页面访问权限，即可在 ...](https://t.me/aboutrss/1419)
 - [🖼 IndieFeed.link: 呈现一个美化后的 RSS Feed 相对于此前提及过的 Feed Style，#开源 项目 IndieFeed.link 更进一步，直接支持为任何 Feed 生成一个易于阅读...](https://t.me/aboutrss/1418)
-- [🖼 Bulletin - AI News: 又一款 AI 加持的 RSS 阅读器 App Apple 全平台适配，主打 AI 摘要和标题（去除夺眼球标题或博点击标题）生成，详见作者的推文串： ht...](https://t.me/aboutrss/1417)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
