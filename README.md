@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 AIRSS.co: 通过 RSS 阅读转录后的音视频文字稿 + AI 摘要 AIRSS.co 是 BibiGPT 这个 AI 音视频助理的一个附属功能，支持为音视频频道转录后的文稿生成一个 ...](https://t.me/aboutrss/1428)
 - [🖼 通过 RSS 来订阅 TLS 证书过期时间 使用方法： https://scrutineer.tech/monitor/cert/{domain}.rss 详见作者写的介绍： https://raphting.dev/posts/monit...](https://t.me/aboutrss/1427)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 32 期 1️⃣「Echo: RSS Cross Poster」 2️⃣「PHP 如何解析 Youtube 的 RSS【ChatGPT】」 3️⃣「RSS to ...](https://t.me/aboutrss/1426)
 - [🖼 Reactflux: 阅读体验更好的 Miniflux 第三方 Web 前端 项目 #开源，使用 React 编写，可以部署在 Cloudflare Pages 上。 GitHub Repo: https://github.com/...](https://t.me/aboutrss/1425)
 - [🖼 Project Tapestry 认筹最后倒计时 Project Tapestry 是由 The Iconfactory 工作室发起的认筹开发项目，开发初衷是厌倦了当前支离破碎的互联网，望能基于开...](https://t.me/aboutrss/1424)
-- [🖼 WeWe RSS: 可自架的微信公众号 RSS 生成 项目 #开源，内容获取基于微信读书；支持私有化部署、 #微信公众号 RSS 生成和全文输出；有管理端 UI。项目上线 4 ...](https://t.me/aboutrss/1423)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
