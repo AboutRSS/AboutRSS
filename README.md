@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 博客友链朋友圈 该 #开源 项目可借助 Miniflux API 和 Cloudflare Workers 自动在博客友链页面上展示友链站点的最新文章列表，是一个加强版的 Blogroll 。 ...](https://t.me/aboutrss/1431)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 62 期 1️⃣「把日常阅读的网页，用 RSS 推荐给好友」 2️⃣「How to automate RSS feeds with IFTTT」 3️⃣「好看的 RSS...](https://t.me/aboutrss/1430)
 - [🖼 RSS 0.90 发布 25 周年 RSS 0.90 全名是 RDF Site Summary，由 Netscape 发布于 1999 年 3 月 15 日，是 RSS 的第一个版本，其中 “RDF” 表示 Resource De...](https://t.me/aboutrss/1429)
 - [🖼 AIRSS.co: 通过 RSS 阅读转录后的音视频文字稿 + AI 摘要 AIRSS.co 是 BibiGPT 这个 AI 音视频助理的一个附属功能，支持为音视频频道转录后的文稿生成一个 ...](https://t.me/aboutrss/1428)
 - [🖼 通过 RSS 来订阅 TLS 证书过期时间 使用方法： https://scrutineer.tech/monitor/cert/{domain}.rss 详见作者写的介绍： https://raphting.dev/posts/monit...](https://t.me/aboutrss/1427)
-- [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 32 期 1️⃣「Echo: RSS Cross Poster」 2️⃣「PHP 如何解析 Youtube 的 RSS【ChatGPT】」 3️⃣「RSS to ...](https://t.me/aboutrss/1426)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
