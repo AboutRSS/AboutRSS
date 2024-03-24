@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 About RSS 推特账号关注了 5000 人，还想关注更多，但需要帮助！ 推特/X 有一条限制是普通用户最多只能关注 5000 人，如果想关注更多，则需要该账号被更多...](https://t.me/aboutrss/1434)
 - [🖼 仿 Reeder 的 Miniflux V2 自定义主题 感谢作者投稿，分享了一款 #Miniflux 的 #Theme，实现仿 Reeder 的浏览体验： https://github.com/rootknight/Minifl...](https://t.me/aboutrss/1433)
 - [🖼 Lighthouse: 一个在线 RSS 阅读器 基础版 $3/月：支持 1000 个 RSS 或 Newsletter 订阅； 标准版 $6/月：无限订阅量及 AI 摘要生成 https://lighthouseapp....](https://t.me/aboutrss/1432)
 - [🖼 博客友链朋友圈 该 #开源 项目可借助 Miniflux API 和 Cloudflare Workers 自动在博客友链页面上展示友链站点的最新文章列表，是一个加强版的 Blogroll 。 ...](https://t.me/aboutrss/1431)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 62 期 1️⃣「把日常阅读的网页，用 RSS 推荐给好友」 2️⃣「How to automate RSS feeds with IFTTT」 3️⃣「好看的 RSS...](https://t.me/aboutrss/1430)
-- [🖼 RSS 0.90 发布 25 周年 RSS 0.90 全名是 RDF Site Summary，由 Netscape 发布于 1999 年 3 月 15 日，是 RSS 的第一个版本，其中 “RDF” 表示 Resource De...](https://t.me/aboutrss/1429)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
