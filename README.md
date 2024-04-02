@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Mastodon Bookmark RSS: 为 Mastodon 收藏夹生成 RSS Feed 查了一下 RSSHub 文档，还没有为 Mastodon 收藏夹生成 RSS 的路由，所以值得介绍一下这个 #开源 ...](https://t.me/aboutrss/1439)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 33 期 1️⃣「新版 huggingface 部署 wewe-rss 教程」 2️⃣「使用 NodeJS 快速搭建代理 RSS 订阅服务」 3...](https://t.me/aboutrss/1438)
 - [🖼 「vCard + RSS as an alternative to social media」 RSS 作为一种标准、规范的好玩之处之一就是其与其它标准、规范互动所带来的可能性。频道曾经提及过的 ...](https://t.me/aboutrss/1437)
 - [🖼 Your News: 一款 Android 端 RSS 阅读器 App 无需账号，纯安卓本地不限订阅数，基于 feedsearch.dev API 的 Feed 发现和搜索： https://yournews.app/ 发现...](https://t.me/aboutrss/1436)
 - [🖼 About RSS 推特账号关注了 5000 人，还想关注更多，但需要帮助！ 推特/X 有一条限制是普通用户最多只能关注 5000 人，如果想关注更多，则需要该账号被更多...](https://t.me/aboutrss/1434)
-- [🖼 仿 Reeder 的 Miniflux V2 自定义主题 感谢作者投稿，分享了一款 #Miniflux 的 #Theme，实现仿 Reeder 的浏览体验： https://github.com/rootknight/Minifl...](https://t.me/aboutrss/1433)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
