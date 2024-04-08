@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 WeChat2RSS 可自架版本发布 在1月份的需求征集之后，该项目私有化部署版本发布，采用订阅制收费。试用：10元/7天，月费：20元/月，年费：200元/年。 🔸不...](https://t.me/aboutrss/1443)
 - [🖼 最近发现的一些 Feed #源 分享： 第 13 期 1️⃣「papers.cool」 2️⃣「My Favourite Feeds」 3️⃣「blogs.hn」 4️⃣「unofficial RSS of Windows messa...](https://t.me/aboutrss/1442)
 - [🖼 频道开设 Mastodon 账号 由于在内群和 Reddit 上都被问了是否有 #Mastodon ，所以开设了@AboutRSS@mastodon.social，发些英文内容。得益于 RSS，自动 cross...](https://t.me/aboutrss/1441)
 - [🖼 Pods: 一款安卓和苹果双平台 RSS 阅读器 App 支持播客功能。订阅版可支持 AI 总结、TTS、无广告等。 Android/iOS APP 链接见开发者推文： https://x.com/En...](https://t.me/aboutrss/1440)
 - [🖼 Mastodon Bookmark RSS: 为 Mastodon 收藏夹生成 RSS Feed 查了一下 RSSHub 文档，还没有为 Mastodon 收藏夹生成 RSS 的路由，所以值得介绍一下这个 #开源 ...](https://t.me/aboutrss/1439)
-- [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 33 期 1️⃣「新版 huggingface 部署 wewe-rss 教程」 2️⃣「使用 NodeJS 快速搭建代理 RSS 订阅服务」 3...](https://t.me/aboutrss/1438)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
