@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Echofeed: 基于 RSS 的 cross-post 服务 频道 Coding 向分享第32期提及过 #开源 的 #Echofeed，那时它只能自部署。现在它已经升级为一个可以注册使用的服务...](https://t.me/aboutrss/1447)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 63 期 1️⃣「Happy 25th birthday to the &quot;backbone of my internet&quot;, RSS feeds」 🔥 2️⃣「小众软件：我用 FetchRSS...](https://t.me/aboutrss/1446)
 - [🖼 Fiper: 一款多平台 RSS 阅读器 该 #RSS 阅读器 App 18 年上线，最近更新勤快；以线上网页端为基底， iOS 和 Android 版是网页转应用的套壳 App。 主页：htt...](https://t.me/aboutrss/1445)
 - [🖼 RsS iS dEaD LOL: discover RSS Feeds of your follows on Mastodon 频道曾经提及过一个叫 FeedsMage 的服务，用于从你 fo 的推友的 Bio 里找链接，再从链...](https://t.me/aboutrss/1444)
 - [🖼 WeChat2RSS 可自架版本发布 在1月份的需求征集之后，该项目私有化部署版本发布，采用订阅制收费。试用：10元/7天，月费：20元/月，年费：200元/年。 🔸不...](https://t.me/aboutrss/1443)
-- [🖼 最近发现的一些 Feed #源 分享： 第 13 期 1️⃣「papers.cool」 2️⃣「My Favourite Feeds」 3️⃣「blogs.hn」 4️⃣「unofficial RSS of Windows messa...](https://t.me/aboutrss/1442)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
