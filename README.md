@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 PoweReader: 一款 iOS/Mac 平台 RSS 阅读器 App 🔸订阅制 🔸支持通过 iCloud 同步 🔸支持多家第三方服务 🔸沉浸式翻译 🔸离线阅读 https://power...](https://t.me/aboutrss/1452)
 - [🖼 OpenOrb: 一个开源的 RSS 内容搜索引擎 #开源 的 RSS 内容 #搜索引擎 还是不多的。 OpenOrb 自架时需要自定义搜索哪些 RSS Feeds 的内容，有些类似于阅读器...](https://t.me/aboutrss/1451)
 - [🖼 PodcastAP: Follow Podcasts and Music feeds on the Fediverse 在 PodcastIndex API 加持下，每个 #播客 都可以有其在 Fediverse 的账号，比如 @1901529@a...](https://t.me/aboutrss/1450)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 34 期 1️⃣「RSS to newsletter」 2️⃣「利用 Docker Compose 安装 Awesome TTRSS」 3️⃣「feed-master:...](https://t.me/aboutrss/1449)
 - [🖼 lightfeed: 用 AI 进行内容过滤和总结的 RSS2Newsletter 服务 输入网站或 RSS Feed 地址，设定好 prompt 和收件时间即可。基础款每月3刀，支持将3个 AI 过...](https://t.me/aboutrss/1448)
-- [🖼 Echofeed: 基于 RSS 的 cross-post 服务 频道 Coding 向分享第32期提及过 #开源 的 #Echofeed，那时它只能自部署。现在它已经升级为一个可以注册使用的服务...](https://t.me/aboutrss/1447)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
