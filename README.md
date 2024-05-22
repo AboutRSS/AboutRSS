@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Feedboard: 一个在线 RSS 阅读器看板 Feedboard 是一个“TweetDeck”风格的多栏看板，支持从 RSS、Telegram、Reddit等多个信源来展示信息。作者也在 X 上。...](https://t.me/aboutrss/1457)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 35 期 1️⃣「本地 RSS 标题翻译高速方案（DEVONthink 版）」 2️⃣「Free RSS notification tool with fil...](https://t.me/aboutrss/1456)
 - [🖼 twitchPOD: 一个为 Twitch 主播生成播客 Feed 的工具 项目 #开源，可自架。与 RSSHub 上 #Twitch 路由的差异是可以选视频分辨率或只要音频。 https://twitc...](https://t.me/aboutrss/1455)
 - [🖼 Glance: 一个支持 RSS 展示的首页看板 项目 #开源，支持 RSS 在内的多种内容渠道，dashboard 界面适配移动端，适合作为浏览器首页，需自架。 https://githu...](https://t.me/aboutrss/1454)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 64 期 1️⃣「我用 Readwise Reader 来聚合阅读资讯」 2️⃣「How Do RSS Feeds Work?」 3️⃣「一款 Rust 编写的极简主义...](https://t.me/aboutrss/1453)
-- [🖼 PoweReader: 一款 iOS/Mac 平台 RSS 阅读器 App 🔸订阅制 🔸支持通过 iCloud 同步 🔸支持多家第三方服务 🔸沉浸式翻译 🔸离线阅读 https://power...](https://t.me/aboutrss/1452)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
