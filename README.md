@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼 最近发现的一些 RSS Feed #源 分享： 第 14 期 1️⃣ BestBlogs.dev 的订阅源 2️⃣ Isaac&#39;s feeds 3️⃣ Robert&#39;s Feed2Pages 4️⃣「AI 总结 Hacker News...](https://t.me/aboutrss/1459)
 - [🖼 Blog of the .Day: 一个每日博客站 每日随机于该站及其 RSS 展示一个独立 Blog，支持通过提交 PR 等方式供站方收录： https://blogofthe.day/ 管理者写的介...](https://t.me/aboutrss/1458)
 - [🖼 Feedboard: 一个在线 RSS 阅读器看板 Feedboard 是一个“TweetDeck”风格的多栏看板，支持从 RSS、Telegram、Reddit等多个信源来展示信息。作者也在 X 上。...](https://t.me/aboutrss/1457)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 35 期 1️⃣「本地 RSS 标题翻译高速方案（DEVONthink 版）」 2️⃣「Free RSS notification tool with fil...](https://t.me/aboutrss/1456)
 - [🖼 twitchPOD: 一个为 Twitch 主播生成播客 Feed 的工具 项目 #开源，可自架。与 RSSHub 上 #Twitch 路由的差异是可以选视频分辨率或只要音频。 https://twitc...](https://t.me/aboutrss/1455)
+- [🖼 Glance: 一个支持 RSS 展示的首页看板 项目 #开源，支持 RSS 在内的多种内容渠道，dashboard 界面适配移动端，适合作为浏览器首页，需自架。 https://githu...](https://t.me/aboutrss/1454)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
