@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 syndicationd: A TUI feed viewer Syndicationd 作者向频道 list 提交了 PR，添加了这款用 RUST 写的 #开源 终端 RSS 阅读器，感谢。 https://docs.syndica...](https://t.me/aboutrss/1461)
 - [🖼 EpubKit: 把 RSS、网页、在线书保存为电子书 「获取你喜欢的 RSS 信息源文章，批量选择文章保存为电子书」。免费版每本电子书最多可导出 10 个页面；支持全...](https://t.me/aboutrss/1460)
 - [🖼 最近发现的一些 RSS Feed #源 分享： 第 14 期 1️⃣ BestBlogs.dev 的订阅源 2️⃣ Isaac&#39;s feeds 3️⃣ Robert&#39;s Feed2Pages 4️⃣「AI 总结 Hacker News...](https://t.me/aboutrss/1459)
 - [🖼 Blog of the .Day: 一个每日博客站 每日随机于该站及其 RSS 展示一个独立 Blog，支持通过提交 PR 等方式供站方收录： https://blogofthe.day/ 管理者写的介...](https://t.me/aboutrss/1458)
 - [🖼 Feedboard: 一个在线 RSS 阅读器看板 Feedboard 是一个“TweetDeck”风格的多栏看板，支持从 RSS、Telegram、Reddit等多个信源来展示信息。作者也在 X 上。...](https://t.me/aboutrss/1457)
-- [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 35 期 1️⃣「本地 RSS 标题翻译高速方案（DEVONthink 版）」 2️⃣「Free RSS notification tool with fil...](https://t.me/aboutrss/1456)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
