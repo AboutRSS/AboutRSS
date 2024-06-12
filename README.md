@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼 srcrs/rss-reader: 一个极简的 RSS 在线浏览工具 项目 #开源 需自架，#看板 式 RSS 条目布局： https://github.com/srcrs/rss-reader 项目吸引了一些二次开...](https://t.me/aboutrss/1464)
 - [🖼 CustomRSS: Typecho 博客平台 RSS Feed 生成插件 因为 Typecho 原生 Feed 不是 rss.xml ，导致无法被一些 #博客 聚合平台收录，所以作者写了这个插件以生成...](https://t.me/aboutrss/1463)
 - [🖼 Fusion: 适用于微型 VPS 的 RSS 阅读器 项目 #开源 需自架，基于 Golang 和 SQLite 实现，80 MB 内存就能跑。作者在 PH 上写了简介： https://www.producth...](https://t.me/aboutrss/1462)
 - [🖼 syndicationd: A TUI feed viewer Syndicationd 作者向频道 list 提交了 PR，添加了这款用 RUST 写的 #开源 终端 RSS 阅读器，感谢。 https://docs.syndica...](https://t.me/aboutrss/1461)
 - [🖼 EpubKit: 把 RSS、网页、在线书保存为电子书 「获取你喜欢的 RSS 信息源文章，批量选择文章保存为电子书」。免费版每本电子书最多可导出 10 个页面；支持全...](https://t.me/aboutrss/1460)
+- [🖼 最近发现的一些 RSS Feed #源 分享： 第 14 期 1️⃣ BestBlogs.dev 的订阅源 2️⃣ Isaac&#39;s feeds 3️⃣ Robert&#39;s Feed2Pages 4️⃣「AI 总结 Hacker News...](https://t.me/aboutrss/1459)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
