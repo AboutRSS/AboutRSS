@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 opml-editor: 一个在线 OPML 编辑器 项目 #开源，支持上传编辑外，可以导入多个 #OPML 文件合并为一个，支持查重： https://opml.imadij.com/](https://t.me/aboutrss/1467)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 65 期 1️⃣「🎙 One Step Closer to Bringing Back Webrings」 #播客 单集 2️⃣「RSS blogrolls are a federated soci...](https://t.me/aboutrss/1466)
 - [🖼 RSSBrew: 一个 RSS 处理和管理的工具 感谢作者在内群分享了这款 #开源 工具，需自架。该工具算是属于 Feed “烧制”范畴，其四大功能是： 1️⃣可以应用于...](https://t.me/aboutrss/1465)
 - [🖼 srcrs/rss-reader: 一个极简的 RSS 在线浏览工具 项目 #开源 需自架，#看板 式 RSS 条目布局： https://github.com/srcrs/rss-reader 项目吸引了一些二次开...](https://t.me/aboutrss/1464)
 - [🖼 CustomRSS: Typecho 博客平台 RSS Feed 生成插件 因为 Typecho 原生 Feed 不是 rss.xml ，导致无法被一些 #博客 聚合平台收录，所以作者写了这个插件以生成...](https://t.me/aboutrss/1463)
-- [🖼 Fusion: 适用于微型 VPS 的 RSS 阅读器 项目 #开源 需自架，基于 Golang 和 SQLite 实现，80 MB 内存就能跑。作者在 PH 上写了简介： https://www.producth...](https://t.me/aboutrss/1462)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
