@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Tinyread: 基于 AI 的简报生成工具升级为浏览器插件版 频道介绍过的 Tinyread 目前已从 Raycast 启动器插件升级为了 #浏览器扩展，脱离了平台的限制。支持...](https://t.me/aboutrss/1470)
 - [🖼 RSS is Awesome: 一款线上双栏 RSS 阅读器 这款线上 RSS 阅读器无需账户，本地加载，双栏布局，支持 OPML 导入和 RSS 地址发现。 https://rssisawesome.com...](https://t.me/aboutrss/1469)
 - [🖼 TuneFeed: RSS feeds for your Spotify activity 支持为 #Spotify 在听、最近专辑、播放列表生成 RSS Feed。免费版可生成 1 个 Feed。RSSHub 其实也可以，...](https://t.me/aboutrss/1468)
 - [🖼 opml-editor: 一个在线 OPML 编辑器 项目 #开源，支持上传编辑外，可以导入多个 #OPML 文件合并为一个，支持查重： https://opml.imadij.com/](https://t.me/aboutrss/1467)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 65 期 1️⃣「🎙 One Step Closer to Bringing Back Webrings」 #播客 单集 2️⃣「RSS blogrolls are a federated soci...](https://t.me/aboutrss/1466)
-- [🖼 RSSBrew: 一个 RSS 处理和管理的工具 感谢作者在内群分享了这款 #开源 工具，需自架。该工具算是属于 Feed “烧制”范畴，其四大功能是： 1️⃣可以应用于...](https://t.me/aboutrss/1465)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
