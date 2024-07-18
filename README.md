@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 ReFeed.to: 重新推送 Feed 中的历史内容 该工具用于生成一个重播 RSS 内容的 Feed 供订阅： https://refeed.to/ 类似服务还有频道提及过的 Backfeed、 rers...](https://t.me/aboutrss/1474)
 - [🖼 SyncReads: 支持将 RSS 内容同步至 Kindle / reMarkable 平板 SyncReads 是一个通过录入链接，将其内容导入 Kindle 或 reMarkable 平板设备的服务，有 #浏...](https://t.me/aboutrss/1473)
 - [🖼 ALL about RSS 频道 五周岁 生日快乐！ 眼看订阅数要上 5 位数，对于 RSS 这个小众主题 Curation 来说，可喜可贺。感谢读者、开发者和博主等的支持。给频道...](https://t.me/aboutrss/1472)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 36 期 1️⃣「tw_rss: a utility to turn your Tiddlywiki into an RSS feed」 #开源 2️⃣「I created a t...](https://t.me/aboutrss/1471)
 - [🖼 Tinyread: 基于 AI 的简报生成工具升级为浏览器插件版 频道介绍过的 Tinyread 目前已从 Raycast 启动器插件升级为了 #浏览器扩展，脱离了平台的限制。支持...](https://t.me/aboutrss/1470)
-- [🖼 RSS is Awesome: 一款线上双栏 RSS 阅读器 这款线上 RSS 阅读器无需账户，本地加载，双栏布局，支持 OPML 导入和 RSS 地址发现。 https://rssisawesome.com...](https://t.me/aboutrss/1469)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
