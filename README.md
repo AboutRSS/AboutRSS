@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS 阅读器 Follow 扩大内测规模 感谢 @DIYgod 赠码，让我在第一时间体验了强大的 Follow。后来一段时间在卷工作，鲜有时间使用 Follow，频道都无暇顾及。...](https://t.me/aboutrss/1478)
 - [🖼 10000 订阅达成的小礼物 5K 订阅达成时有送“小礼物”，10K 时更是要感谢大家支持。正好赶上 #开源 项目 BroadcastChannel 出现，遂搭建了频道网页版送给大...](https://t.me/aboutrss/1477)
 - [🖼 RSS 阅读器 Unread 发布 MacOS 版 老牌 RSS 阅读器 Unread 4.0 版发布，相比 3.0 版，最大升级在于：#MacOS 版结束了 7 个月的 Beta 阶段，正式推出： http...](https://t.me/aboutrss/1476)
 - [🖼 RSSHub 辅助订阅工具 - RSSAid 发布 V3.0.0 版本 新版本 RSSAid 主要解决因 RSSHub 重构改版所带来的规则解析问题，同时辅以 Material Design 风格界面重制...](https://t.me/aboutrss/1475)
 - [🖼 ReFeed.to: 重新推送 Feed 中的历史内容 该工具用于生成一个重播 RSS 内容的 Feed 供订阅： https://refeed.to/ 类似服务还有频道提及过的 Backfeed、 rers...](https://t.me/aboutrss/1474)
-- [🖼 SyncReads: 支持将 RSS 内容同步至 Kindle / reMarkable 平板 SyncReads 是一个通过录入链接，将其内容导入 Kindle 或 reMarkable 平板设备的服务，有 #浏...](https://t.me/aboutrss/1473)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
