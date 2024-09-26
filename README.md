@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 新版 Reeder 介绍、评测收集 搜集了一下月初发布的新版 Reeder 的介绍或评测，庆祝 Reeder 问世 15 周年： ➡️「The new Reeder app is built for RSS, Yo...](https://t.me/aboutrss/1480)
 - [🖼 聚合信息阅读工具开发团队调研用户需求 🔗 问卷地址（6个多选题，2个开放问题） 该团队拟开发一款聚合信息阅读工具，因此欲从信息获取途径、阅读设备种类...](https://t.me/aboutrss/1479)
 - [🖼 RSS 阅读器 Follow 扩大内测规模 感谢 @DIYgod 赠码，让我在第一时间体验了强大的 Follow。后来一段时间在卷工作，鲜有时间使用 Follow，频道都无暇顾及。...](https://t.me/aboutrss/1478)
 - [🖼 10000 订阅达成的小礼物 5K 订阅达成时有送“小礼物”，10K 时更是要感谢大家支持。正好赶上 #开源 项目 BroadcastChannel 出现，遂搭建了频道网页版送给大...](https://t.me/aboutrss/1477)
 - [🖼 RSS 阅读器 Unread 发布 MacOS 版 老牌 RSS 阅读器 Unread 4.0 版发布，相比 3.0 版，最大升级在于：#MacOS 版结束了 7 个月的 Beta 阶段，正式推出： http...](https://t.me/aboutrss/1476)
-- [🖼 RSSHub 辅助订阅工具 - RSSAid 发布 V3.0.0 版本 新版本 RSSAid 主要解决因 RSSHub 重构改版所带来的规则解析问题，同时辅以 Material Design 风格界面重制...](https://t.me/aboutrss/1475)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
