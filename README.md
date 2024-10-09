@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 「AniVu：一款集 RSS 订阅、BitTorrent 下载和视频播放于一身的工具」 AniVu 是 #安卓 平台上的一款 #Broadcatching 工具，项目 #开源，作者会在其频道发布...](https://t.me/aboutrss/1484)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 37 期 1️⃣「Thanking my RSS readers」 ：关于如何在 Feed 中增加一句向 RSS 订阅者致谢的话 2️⃣「Self...](https://t.me/aboutrss/1483)
 - [🖼 News Keeper: 一款用于 RSS 订阅的 Telegram Mini App #电报 上常见的 RSS 订阅方式是借助机器人，比如 RSStT Bot 项目。基于 电报小程序 的 RSS 订阅器属...](https://t.me/aboutrss/1482)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 66 期 1️⃣「Why RSS ?」 感谢投稿和对本频道的推荐！ 🌹 2️⃣「RSS 二十五年：内容的来源、分发和目的地将再次分离？...](https://t.me/aboutrss/1481)
 - [🖼 新版 Reeder 介绍、评测收集 搜集了一下月初发布的新版 Reeder 的介绍或评测，庆祝 Reeder 问世 15 周年： ➡️「The new Reeder app is built for RSS, Yo...](https://t.me/aboutrss/1480)
-- [🖼 聚合信息阅读工具开发团队调研用户需求 🔗 问卷地址（6个多选题，2个开放问题） 该团队拟开发一款聚合信息阅读工具，因此欲从信息获取途径、阅读设备种类...](https://t.me/aboutrss/1479)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
