@@ -1,6 +1,6 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼 Miniflutt: 一个 Miniflux 的第三方 Android 客户端 #Miniflutt 是一个适用于 Miniflux 2.0.21 以上版本的 #安卓 客户端，#开源 且自 2020 年更新至今： �...](https://t.me/aboutrss/1486)
+- [🖼 Miniflutt: 一个 Miniflux 的第三方 Android 客户端 #Miniflutt 是一个适用于 Miniflux 2.0.21 以上版本的安卓客户端，#开源 且自 2020 年更新至今： 🐙h...](https://t.me/aboutrss/1486)
 - [🖼 Quick RSS : 一款 MacOS / iOS RSS 阅读器 and 1024 程序员节快乐！ 又到了 1024 节，介绍一款独立开发者的作品：Quick RSS。MacOS / iOS 上最著名的体验接...](https://t.me/aboutrss/1485)
 - [🖼 「AniVu：一款集 RSS 订阅、BitTorrent 下载和视频播放于一身的工具」 AniVu 是 #安卓 平台上的一款 #Broadcatching 工具，项目 #开源，作者会在其频道发布...](https://t.me/aboutrss/1484)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 37 期 1️⃣「Thanking my RSS readers」 ：关于如何在 Feed 中增加一句向 RSS 订阅者致谢的话 2️⃣「Self...](https://t.me/aboutrss/1483)
