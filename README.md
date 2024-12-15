@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 38 期 1️⃣「FreshRSS 插件配合 LibreTranslate 实现纯本地的 RSS 标题翻译」 感谢投稿！ 2️⃣「玩转 RSS...](https://t.me/aboutrss/1492)
 - [🖼 RSS to Nostr Nostr 是一个用于构建去中心化社交网络的 #开源 协议。可以利用 #RSS2Nostr 应用实现信息转播至 Nostr ，比如： 🔸atomstr https://git.sr....](https://t.me/aboutrss/1491)
 - [🔁🖼 👋 Hello everyone, I&#39;m the creator of RSSHub, and I&#39;ve recently developed a special RSS reader called Follow. This reader is seamlessly int...](https://t.me/aboutrss/1490)
 - [🖼 RSS #玩家 #心得 分享：第 67 期 —— Follow App 专辑 收集了一些 Follow 的体验博文。虽然有些发的早的是 Alpha 阶段时的评测，但从找寻值得订阅的活跃优...](https://t.me/aboutrss/1489)
 - [🖼 RSSWebAll: 一个 RSSEverything 的替代品 RSSWebAll 是和 RSSEverything、Feed43 同类的工具，通过获取网页源码，来为无 RSS 网页生成 RSS Feed 。站长表示...](https://t.me/aboutrss/1488)
-- [🖼 最近发现的一些 RSS Feed #源 分享： 第 15 期 1️⃣「Blogroll Network Map」 2️⃣ Tristan&#39;s RSS Feeds 3️⃣ CSS JOY Webring&#39;s OPML 4️⃣ Justin McA...](https://t.me/aboutrss/1487)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
