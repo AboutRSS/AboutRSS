@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 引阅： 一款支持 EPUB 的 RSS 阅读器 核心功能有三：1. RSS 阅读器，2. 网页收藏夹，3. #EPUB 书籍阅读器。支持 #MacOS #iOS #iPadOS。免费版和订阅制兼具...](https://t.me/aboutrss/1494)
 - [🖼 苹果全平台阅读器 News Explorer 发布 2.0 版 作为一款大而全的老牌付费阅读器，#NewsExplorer 早已不仅限于 RSS 订阅，11 月发布的 2.0 版本正是在其功能...](https://t.me/aboutrss/1493)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 38 期 1️⃣「FreshRSS 插件配合 LibreTranslate 实现纯本地的 RSS 标题翻译」 感谢投稿！ 2️⃣「玩转 RSS...](https://t.me/aboutrss/1492)
 - [🖼 RSS to Nostr Nostr 是一个用于构建去中心化社交网络的 #开源 协议。可以利用 #RSS2Nostr 应用实现信息转播至 Nostr ，比如： 🔸atomstr https://git.sr....](https://t.me/aboutrss/1491)
 - [🔁🖼 👋 Hello everyone, I&#39;m the creator of RSSHub, and I&#39;ve recently developed a special RSS reader called Follow. This reader is seamlessly int...](https://t.me/aboutrss/1490)
-- [🖼 RSS #玩家 #心得 分享：第 67 期 —— Follow App 专辑 收集了一些 Follow 的体验博文。虽然有些发的早的是 Alpha 阶段时的评测，但从找寻值得订阅的活跃优...](https://t.me/aboutrss/1489)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
