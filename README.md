@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS #玩家 #心得 #观点 分享：第 68 期 1️⃣「独立播「客」死了...吗？致所有播客听众和主播」 感谢投稿！ 2️⃣「RSS 与现代阅读习惯（一）：如何在碎片...](https://t.me/aboutrss/1496)
 - [🖼 RSS.Beauty: 一个 RSS Feed 美化工具 项目 #开源，由 BroadcastChannel 的作者——面条实验室——开发： https://RSS.Beauty 美化效果： https://feed.mian...](https://t.me/aboutrss/1495)
 - [🖼 引阅： 一款支持 EPUB 的 RSS 阅读器 核心功能有三：1. RSS 阅读器，2. 网页收藏夹，3. #EPUB 书籍阅读器。支持 #MacOS #iOS #iPadOS。免费版和订阅制兼具...](https://t.me/aboutrss/1494)
 - [🖼 苹果全平台阅读器 News Explorer 发布 2.0 版 作为一款大而全的老牌付费阅读器，#NewsExplorer 早已不仅限于 RSS 订阅，11 月发布的 2.0 版本正是在其功能...](https://t.me/aboutrss/1493)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 38 期 1️⃣「FreshRSS 插件配合 LibreTranslate 实现纯本地的 RSS 标题翻译」 感谢投稿！ 2️⃣「玩转 RSS...](https://t.me/aboutrss/1492)
-- [🖼 RSS to Nostr Nostr 是一个用于构建去中心化社交网络的 #开源 协议。可以利用 #RSS2Nostr 应用实现信息转播至 Nostr ，比如： 🔸atomstr https://git.sr....](https://t.me/aboutrss/1491)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
