@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Aaron Swartz 大理石雕像面世 2月7日，Aaron Swartz 大理石雕像在位于旧金山的互联网档案馆礼堂揭晓面世。在此之前，互联网档案馆展示有 Aaron Swartz 的粘...](https://t.me/aboutrss/1500)
 - [🖼 AI RSS：一个通过 AI 将网页内容转换为 RSS 订阅源的工具 由方糖气球的 EasyChen 出品，是 #浏览器扩展，项目地址： https://airss.ft07.com 教程视频： ht...](https://t.me/aboutrss/1499)
 - [🖼 一站式 Feed 流项目 Tapestry 上线 去年认筹的 #Tapestry 发布了 1.0 版本，上线了 App Store： https://usetapestry.com/ 由 Twitterrific 的开发团队 Ico...](https://t.me/aboutrss/1498)
 - [🖼 Nextflux: 阅读体验更好的 Miniflux 第三方 Web 前端 Reactflux 作者用 nextUI 把 Reactflux 重写了一遍，成为了 #开源 的 Nextflux： GitHub Repo: https:...](https://t.me/aboutrss/1497)
 - [🖼 RSS #玩家 #心得 #观点 分享：第 68 期 1️⃣「独立播「客」死了...吗？致所有播客听众和主播」 感谢投稿！ 2️⃣「RSS 与现代阅读习惯（一）：如何在碎片...](https://t.me/aboutrss/1496)
-- [🖼 RSS.Beauty: 一个 RSS Feed 美化工具 项目 #开源，由 BroadcastChannel 的作者——面条实验室——开发： https://RSS.Beauty 美化效果： https://feed.mian...](https://t.me/aboutrss/1495)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
