@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 Follow App 更名为 Folo 并推出 iOS APP Natural Selection Labs 出品的 “下一代信息浏览器” Follow 更名为 #Folo 并上线了免费且 #开源 的 iOS App： �...](https://t.me/aboutrss/1505)
 - [🖼 麦悠电台：用 AI 将 RSS 变为播客 自 RSSPush 和 AI RSS 后，又来一个方糖气球 EasyChen 的作品——Maidio。该产品和 POD GENIE 一样也是针对 #RSS2Podcast...](https://t.me/aboutrss/1504)
 - [🖼 最近发现的一些 RSS Feed #源 分享： 第 16 期 1️⃣「&lpar;Unofficial&rpar; Apple Developer System Status Feeds」 2️⃣「The British Weird RSS Starter Pack」...](https://t.me/aboutrss/1503)
 - [🖼 Capy Reader：一款 Android 平台的轻量级 RSS 阅读器 该 App 免费、 #开源，支持与 #FreshRSS、 #Feedbin 同步： https://capyreader.com/ https://github....](https://t.me/aboutrss/1502)
 - [🖼 与 RSS 有关的 Coding 向 #教程 #工具 分享：第 39 期 1️⃣「RSS-it：用Bun开发一个RSS生成工具（一）」 2️⃣「Fetching RSS Feeds Respectfully With cu...](https://t.me/aboutrss/1501)
-- [🖼 Aaron Swartz 大理石雕像面世 2月7日，Aaron Swartz 大理石雕像在位于旧金山的互联网档案馆礼堂揭晓面世。在此之前，互联网档案馆展示有 Aaron Swartz 的粘...](https://t.me/aboutrss/1500)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
