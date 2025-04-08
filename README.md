@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼 MastoLink2RSS : 一个将 #Mastodon 时间线中的 url 抽取出来制成 RSS feed 的 工具 频道提及过数个为社交媒体时间线中的链接创建 RSS Feed 的工具（1、2、3...](https://t.me/aboutrss/1510)
-- [🖼 与 RSS 有关的 #bookmarking 工具信息四则 🔸 #开源 可自架 网摘管理器/稍后读工具 Linkwarden v2.9 支持 #RSS2bookmark 以及为公开收录输出 RSS Feed ht...](https://t.me/aboutrss/1509)
-- [🖼 RSSFlow Reader: 一款有 AI 加持的浏览器扩展版 RSS 阅读器 RSSFlow Reader 是一个 #浏览器扩展，主打基于 #AI 和多种版式的阅读体验提升： 官网主页：http...](https://t.me/aboutrss/1508)
-- [🖼 RSS #玩家 #心得 #教程 #观点 分享：第 69 期 1️⃣「RSS: A Great Standard That Can’t Keep Up」 2️⃣「Escape the walled garden and algorithm black...](https://t.me/aboutrss/1507)
-- [🖼 Kindly RSS Reader: 面向 e-ink 设备的需自架 RSS 阅读器 该阅读器 #开源 需要自部署，不挑服务器配置，支持 RSS 和 Atom 源，专为 #电纸书 设备优化。 htt...](https://t.me/aboutrss/1506)
+- [🖼 MastoLink2RSS : 一个将 #Mastodon 时间线中的 url 抽取出来制成 RSS feed 的 工具](https://t.me/aboutrss/1510)
+- [🖼 与 RSS 有关的 #bookmarking 工具信息四则](https://t.me/aboutrss/1509)
+- [🖼 RSSFlow Reader: 一款有 AI 加持的浏览器扩展版 RSS 阅读器](https://t.me/aboutrss/1508)
+- [🖼 RSS #玩家 #心得 #教程 #观点 分享：第 69 期](https://t.me/aboutrss/1507)
+- [🖼 Kindly RSS Reader: 面向 e-ink 设备的需自架 RSS 阅读器](https://t.me/aboutrss/1506)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
