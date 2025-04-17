@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSSFilter.com: RSS 内容过滤工具](https://t.me/aboutrss/1513)
 - [🖼 GitHub Repo 「ALL-about-RSS」 五年了](https://t.me/aboutrss/1512)
 - [🖼 Fread: 一个支持 RSS 订阅的 Mastodon/Bluesky 客户端](https://t.me/aboutrss/1511)
 - [🖼 MastoLink2RSS : 一个将 #Mastodon 时间线中的 url 抽取出来制成 RSS feed 的 工具](https://t.me/aboutrss/1510)
 - [🖼 与 RSS 有关的 #bookmarking 工具信息四则](https://t.me/aboutrss/1509)
-- [🖼 RSSFlow Reader: 一款有 AI 加持的浏览器扩展版 RSS 阅读器](https://t.me/aboutrss/1508)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
