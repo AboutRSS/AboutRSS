@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [↩️ 分享 RSSFlow Reader 十枚激活码](https://t.me/aboutrss/1516)
 - [↩️🖼 Folo 推出安卓版 App](https://t.me/aboutrss/1515)
 - [🖼 RSSence: RSS 全屏轮动展示工具](https://t.me/aboutrss/1514)
 - [🖼 RSSFilter.com: RSS 内容过滤工具](https://t.me/aboutrss/1513)
 - [🖼 GitHub Repo 「ALL-about-RSS」 五年了](https://t.me/aboutrss/1512)
-- [🖼 Fread: 一个支持 RSS 订阅的 Mastodon/Bluesky 客户端](https://t.me/aboutrss/1511)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
