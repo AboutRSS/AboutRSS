@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS Gizmos 作者最近的 3 个 RSS 玩法](https://t.me/aboutrss/1518)
 - [🖼 Django-link-archive: #开源 可自架的链接收藏管理查找工具](https://t.me/aboutrss/1517)
 - [↩️ 分享 RSSFlow Reader 十枚激活码](https://t.me/aboutrss/1516)
 - [↩️🖼 Folo 推出安卓版 App](https://t.me/aboutrss/1515)
 - [🖼 RSSence: RSS 全屏轮动展示工具](https://t.me/aboutrss/1514)
-- [🖼 RSSFilter.com: RSS 内容过滤工具](https://t.me/aboutrss/1513)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
