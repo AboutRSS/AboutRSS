@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 rssrssrssrss: 一个 feed 合并工具](https://t.me/aboutrss/1521)
 - [🖼 FeedMe: 一款集成 AI 摘要生成的 RSS 阅读工具](https://t.me/aboutrss/1520)
 - [🖼 ArtFeed: 面向摄影、图像艺术的 RSS 阅读器](https://t.me/aboutrss/1519)
 - [🖼 RSS Gizmos 作者最近的 3 个 RSS 玩法](https://t.me/aboutrss/1518)
 - [🖼 Django-link-archive: #开源 可自架的链接收藏管理查找工具](https://t.me/aboutrss/1517)
-- [↩️ 分享 RSSFlow Reader 十枚激活码](https://t.me/aboutrss/1516)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
