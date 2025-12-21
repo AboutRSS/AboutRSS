@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼 Tiny Tiny RSS 作者将停止维护该项目](https://t.me/aboutrss/1522)
-- [🖼 rssrssrssrss: 一个 feed 合并工具](https://t.me/aboutrss/1521)
-- [🖼 FeedMe: 一款集成 AI 摘要生成的 RSS 阅读工具](https://t.me/aboutrss/1520)
-- [🖼 ArtFeed: 面向摄影、图像艺术的 RSS 阅读器](https://t.me/aboutrss/1519)
-- [🖼 RSS Gizmos 作者最近的 3 个 RSS 玩法](https://t.me/aboutrss/1518)
+- [**ANI-RSS: 基于 RSS 自动追番、订阅、下载、刮削** 该项目 #开源，GitHub 上 2K+ ⭐️，支持 Docker/Win/NAS 部署。...](https://t.me/s/aboutrss/1523)
+- [**Tiny Tiny RSS 作者将停止维护该项目** 项目作者在 #TTRSS 官方论坛发布：The end of tt-rss.org，宣布11月1日终...](https://t.me/s/aboutrss/1522)
+- [**rssrssrssrss: 一个 feed 合并工具** 感谢投稿，向我们推荐了由 Buttondown 开发并 #开源 的一个 RSS feed 合并工...](https://t.me/s/aboutrss/1521)
+- [**FeedMe: 一款集成 AI 摘要生成的 RSS 阅读工具** 项目 #开源，需自部署至 GitHub Pages / Vercel / Docker；...](https://t.me/s/aboutrss/1520)
+- [**ArtFeed: 面向摄影、图像艺术的 RSS 阅读器** 该项目 #开源，和 folo 的看图模式一样，也是专为图片型内容 Feed 进行了优化。 h...](https://t.me/s/aboutrss/1519)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
