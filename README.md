@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [**NebulaPicker: 可自部署的 RSS 生成工具** 感谢开发者提交 PR #125，分享了一个可自架的 RSS 生成工具—— NebulaPic...](https://t.me/s/aboutrss/1527)
 - [**Awesome RSSHub Routes** 感谢开发者提交 PR #124，分享了 Awesome #RSSHub Routes，包含官网 RSS F...](https://t.me/s/aboutrss/1526)
 - [**Sponder: 一个 RSS 的中间套件** 感谢 PR #123，分享了一款 RSS 中间件工具，支持 #合并 、#过滤 等功能，需付费： https...](https://t.me/s/aboutrss/1525)
 - [**MrRSS: 一个 AI 加持下的多平台 ****#开源**** RSS 阅读器** 感谢群友投稿，介绍了一款目前在 GitHub 上 1K+ ⭐️ 的 ...](https://t.me/s/aboutrss/1524)
 - [**ANI-RSS: 基于 RSS 自动追番、订阅、下载、刮削** 该项目 #开源，GitHub 上 2K+ ⭐️，支持 Docker/Win/NAS 部署。...](https://t.me/s/aboutrss/1523)
-- [**Tiny Tiny RSS 作者将停止维护该项目** 项目作者在 #TTRSS 官方论坛发布：The end of tt-rss.org，宣布11月1日终...](https://t.me/s/aboutrss/1522)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
