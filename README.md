@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
-- [🖼 RSStT Bot 项目招募继任者](https://telegram.me/aboutrss/1529)
-- [🖼 Dashboard: 无后端需自架的多栏 RSS 订阅器](https://telegram.me/aboutrss/1528)
-- [🖼 NebulaPicker: 可自部署的 RSS 生成工具](https://telegram.me/aboutrss/1527)
-- [🖼 Awesome RSSHub Routes](https://telegram.me/aboutrss/1526)
-- [🖼 Sponder: 一个 RSS 的中间套件](https://telegram.me/aboutrss/1525)
+- [🖼 RSStT Bot 项目招募继任者](https://t.me/aboutrss/1529)
+- [🖼 Dashboard: 无后端需自架的多栏 RSS 订阅器](https://t.me/aboutrss/1528)
+- [🖼 NebulaPicker: 可自部署的 RSS 生成工具](https://t.me/aboutrss/1527)
+- [🖼 Awesome RSSHub Routes](https://t.me/aboutrss/1526)
+- [🖼 Sponder: 一个 RSS 的中间套件](https://t.me/aboutrss/1525)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
