@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSStoKindle: 将 RSS 与 Substack 订阅排版推送至 Kindle](https://t.me/aboutrss/1531)
 - [🖼 eilmeldung: 基于 Rust 的终端 &lpar;TUI&rpar; 开源 RSS 阅读器](https://t.me/aboutrss/1530)
 - [🖼 RSStT Bot 项目招募继任者](https://t.me/aboutrss/1529)
 - [🖼 Dashboard: 无后端需自架的多栏 RSS 订阅器](https://t.me/aboutrss/1528)
 - [🖼 NebulaPicker: 可自部署的 RSS 生成工具](https://t.me/aboutrss/1527)
-- [🖼 Awesome RSSHub Routes](https://t.me/aboutrss/1526)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
