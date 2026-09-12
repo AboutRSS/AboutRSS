@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 让 AI 写了一个给 RSSHub 写路由的 Agent Skill](https://t.me/aboutrss/1535)
 - [🖼 Newsairy: 专为 Apple 生态打造的高定制原生 RSS 阅读器](https://t.me/aboutrss/1534)
 - [🖼 Readfine: 集成网页抓取与 AI 助手的可自建 RSS 阅读器](https://t.me/aboutrss/1533)
 - [🖼 FriRSS: FreshRSS 的现代化可自建 Web 前端](https://t.me/aboutrss/1532)
 - [🖼 RSStoKindle: 将 RSS 与 Substack 订阅排版推送至 Kindle](https://t.me/aboutrss/1531)
-- [🖼 eilmeldung: 基于 Rust 的终端 &lpar;TUI&rpar; 开源 RSS 阅读器](https://t.me/aboutrss/1530)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
