@@ -1,10 +1,10 @@
 ### 📰 Posts from my [Telegram Channel](https://t.me/s/aboutrss):
 <!-- BLOG-POST-LIST:START -->
+- [🖼 RSS 与 MCP: 让 Agent 真正接上你的信息流](https://t.me/aboutrss/1538)
 - [🖼 The Podcast App: 免费版就带 CarPlay 与 AI 问答的播客播放器](https://t.me/aboutrss/1537)
 - [🖼 I ♥️ RSS: 一个 RSS 爱好者的公开名录](https://t.me/aboutrss/1536)
 - [🖼 让 AI 写了一个给 RSSHub 写路由的 Agent Skill](https://t.me/aboutrss/1535)
 - [🖼 Newsairy: 专为 Apple 生态打造的高定制原生 RSS 阅读器](https://t.me/aboutrss/1534)
-- [🖼 Readfine: 集成网页抓取与 AI 助手的可自建 RSS 阅读器](https://t.me/aboutrss/1533)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
